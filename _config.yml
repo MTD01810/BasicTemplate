@@ -57,8 +57,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are the 01810 chapter of the resistance. Fighting Trump with political
-  activism, non-alternative facts, and a healthy dose of rage. Join us!
+subtitle: We are the 01810 chapter of the resistance. Join us!
 email: indivisible.andover@gmail.com
 baseurl: 
 url: indivisibleandoverma.com
