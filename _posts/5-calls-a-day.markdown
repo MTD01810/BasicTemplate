@@ -7,9 +7,7 @@ tags:
 is featured: true
 ---
 
-![5calls-logotype.png](/uploads/5calls-logotype.png)
-
-[**5 Calls**](https://5calls.org/)
+# [5 Calls](https://5calls.org/)
 * Provides phone numbers and scripts so calling is quick and easy
 * Uses your location to find your local representatives so your calls have more impact
 
