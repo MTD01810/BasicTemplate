@@ -1,0 +1,21 @@
+---
+title: MAKE YOUR VOICE HEARD
+date: 2017-02-21 19:11:00 -05:00
+categories:
+- action
+tags:
+- call now
+- confirmation hearing
+is featured: true
+main-image: "/uploads/5calls-logotype.png"
+call-script-text: |-
+  5 Calls:
+  * Provides phone numbers and scripts so calling is quick and easy
+  * Uses your location to find your local representatives so your calls have more impact
+---
+
+Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
+
+Spend 5 minutes, make 5 calls.
+
+Calling is the most effective way to influence your representative. Read more about [why calling works](https://5calls.org/about).
