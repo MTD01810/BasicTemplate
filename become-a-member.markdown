@@ -28,13 +28,13 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
   id=\"mce-group[2431]-2431-0\"><label for=\"mce-group[2431]-2431-0\">Monthly meetings</label></li>\n<li><input
   type=\"checkbox\" value=\"2\" name=\"group[2431][2]\" id=\"mce-group[2431]-2431-1\"><label
   for=\"mce-group[2431]-2431-1\">Newsletter</label></li>\n<li><input type=\"checkbox\"
-  value=\"4\" name=\"group[2431][4]\" id=\"mce-group[2431]-2431-2\"><label for=\"mce-group[2431]-2431-2\">Extroverted
-  resistance - events, protests, marches</label></li>\n<li><input type=\"checkbox\"
-  value=\"8\" name=\"group[2431][8]\" id=\"mce-group[2431]-2431-3\"><label for=\"mce-group[2431]-2431-3\">Introverted
-  resistance - calls, emails, social media</label></li>\n<li><input type=\"checkbox\"
-  value=\"16\" name=\"group[2431][16]\" id=\"mce-group[2431]-2431-4\"><label for=\"mce-group[2431]-2431-4\">Group
-  to group collaboration</label></li>\n</ul>\n</div>\n\t<div id=\"mce-responses\"
-  class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div
+  value=\"4\" name=\"group[2431][4]\" id=\"mce-group[2431]-2431-2\"><label for=\"mce-group[2431]-2431-2\">Events,
+  protests, marches</label></li>\n<li><input type=\"checkbox\" value=\"8\" name=\"group[2431][8]\"
+  id=\"mce-group[2431]-2431-3\"><label for=\"mce-group[2431]-2431-3\">Calls, emails,
+  social media</label></li>\n<li><input type=\"checkbox\" value=\"16\" name=\"group[2431][16]\"
+  id=\"mce-group[2431]-2431-4\"><label for=\"mce-group[2431]-2431-4\">Group to group
+  collaboration</label></li>\n</ul>\n</div>\n\t<div id=\"mce-responses\" class=\"clear\">\n\t\t<div
+  class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div
   class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n\t</div>
   \   <!-- real people should not fill this in and expect good things - do not remove
   this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\"
