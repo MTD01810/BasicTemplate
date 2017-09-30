@@ -9,11 +9,11 @@ tags:
 is featured: true
 ---
 
+![5calls-logotype.png](/uploads/5calls-logotype.png)
+
 [**5 Calls**](https://5calls.org/)
 * Provides phone numbers and scripts so calling is quick and easy
 * Uses your location to find your local representatives so your calls have more impact
-
-![5calls-logotype.png](/uploads/5calls-logotype.png)
 
 Turn your passive participation into active resistance. Facebook likes and Twitter retweets can’t create the change you want to see. Calling your Government on the phone can.
 
