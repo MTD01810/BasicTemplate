@@ -1,11 +1,9 @@
 ---
 title: Make Your Voice Heard
-date: 2017-02-21 19:11:00 -05:00
 categories:
 - action
 tags:
-- call now
-- confirmation hearing
+- phone
 is featured: true
 ---
 
