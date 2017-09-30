@@ -7,3 +7,4 @@ phone-numbers:
 website: https://moulton.house.gov/
 ---
 
+Serves the [6th District of Massachusetts](https://moulton.house.gov/6th-district/)
