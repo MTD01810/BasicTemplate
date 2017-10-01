@@ -6,7 +6,7 @@ categories:
 tags:
 - '2018'
 is featured: true
-main-image: 
+main-image: "/uploads/red-blue-divide-grew-stronger-in-2016-NYT.png"
 layout: media-item
 ---
 
