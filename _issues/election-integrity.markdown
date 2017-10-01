@@ -1,6 +1,7 @@
 ---
 title: Election Integrity
 date: 2017-09-30 21:02:00 -04:00
+layout: media-item
 ---
 
 Another enormous focus of the Indivisible movement is to improve the integrity of elections going forward. This includes efforts against gerrymandering, money in politics, voter suppression, and ensuring an informed public by defending a free press. 
