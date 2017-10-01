@@ -1,8 +1,10 @@
 ---
 title: 2nd Indivisible Massachusetts Statewide Conference
-date: 2017-02-19 22:11:00 -05:00
+date: 2017-09-30 22:11:00 -04:00
 categories:
 - event
+tags:
+- collaborate
 event-start-date: 2017-11-12 09:00:00 -05:00
 event-end-date: 2017-11-12 17:00:00 -05:00
 Location: |-
