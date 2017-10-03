@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - collaborate
+main-image: "/uploads/Indivisible%20Nov%20mtg.jpg"
 event-start-date: 2017-11-12 09:00:00 -05:00
 event-end-date: 2017-11-12 17:00:00 -05:00
 Location: |-
