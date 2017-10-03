@@ -10,7 +10,7 @@ layout: post
 
 Another enormous focus of the Indivisible movement is to improve the integrity of elections going forward. This includes efforts against: 
 * Gerrymandering
-* Campaign finance reform
+* Campaign finance reform, transparency of donors
 * Voter suppression
 * Automatic voter registration
 * Paper ballot backups
