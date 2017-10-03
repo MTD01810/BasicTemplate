@@ -6,7 +6,7 @@ categories:
 - Health & Safety
 tags:
 - ACA
-main-image: "/uploads/ACA.jpg"
+main-image: "/uploads/Affordable-care-act-graphic.png"
 layout: media-item
 ---
 
