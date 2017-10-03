@@ -11,4 +11,3 @@ Category includes:
 * Budget, protection of public necessities
 * Tax reform, corporate and individuals
 * Debt ceiling
-* College tuition
