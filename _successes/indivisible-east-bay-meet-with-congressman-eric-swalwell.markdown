@@ -1,5 +1,5 @@
 ---
-title: 'ACA Repeal attempt #3 is dead'
+title: Third ACA Repeal attempt, Graham-Cassidy, is dead
 date: 2017-09-26 17:07:00 -04:00
 categories:
 - Success
