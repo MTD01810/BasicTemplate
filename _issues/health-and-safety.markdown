@@ -3,6 +3,7 @@ title: Health & Safety
 date: 2017-09-30 21:50:00 -04:00
 categories:
 - Issues
+layout: post
 ---
 
 This is a huge category, likely to be broken down further. Includes:
