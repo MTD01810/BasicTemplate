@@ -2,7 +2,7 @@
 title: MA 3rd Congressional District - Candidate Forum
 date: 2017-10-02 22:44:00 -04:00
 categories:
-- events
+- event
 main-image: "/uploads/MA-3rd-District.jpg"
 event-start-date: 2017-10-18 19:30:00 -04:00
 event-end-date: 2017-10-18 21:00:00 -04:00
