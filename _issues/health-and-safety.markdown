@@ -8,7 +8,7 @@ categories:
 This is a huge category, likely to be broken down further. Includes:
 * Gun control
 * ACA improvements
-* Women's Health
+* Women's Health, domestic violence, rape
 * Opioid crisis
 * Environment, clean water and air
 * Climate change
