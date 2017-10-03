@@ -12,7 +12,7 @@ Fiscal transparency category includes:
 * Tax reform - corporate, repatriation of taxes
 * Debt ceiling
 
-Financial issues for individuals category includes:
+Financial issues for individuals:
 * Jobs - preparing people for industry disruption
 * Tax reform
 * Social security
