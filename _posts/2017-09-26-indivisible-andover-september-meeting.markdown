@@ -1,6 +1,8 @@
 ---
 title: Indivisible Andover - September meeting
 date: 2017-09-26 18:30:00 -04:00
+categories:
+- event
 main-image: "/uploads/indivisible%20banner-a3dcc7.png"
 event-start-date: 2017-09-26 18:30:00 -04:00
 event-end-date: 2017-09-26 20:30:00 -04:00
