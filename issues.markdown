@@ -5,7 +5,7 @@ layout: post
 ---
 
 ### Issue Categories
-* [2018 - Flip It Blue](http://mtd01810.github.io/issues/2018-flip-it-blue.html)
+* [2018 - Flip It Blue](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html)
 * Election Integrity
 * Social Justice
 * Health and Safety
