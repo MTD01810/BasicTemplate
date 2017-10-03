@@ -7,6 +7,6 @@ layout: post
 ### Issue Categories
 * [2018 - Flip It Blue](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html)
 * [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html)
-* Social Justice
+* [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html)
 * Health and Safety
 * Fiscal Transparency
