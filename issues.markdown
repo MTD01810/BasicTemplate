@@ -5,7 +5,7 @@ position: 0
 layout: post
 ---
 
-## Issue Categories
+### Issue Categories
 * 2018 - Flip It Blue
 * Election Integrity
 * Social Justice
