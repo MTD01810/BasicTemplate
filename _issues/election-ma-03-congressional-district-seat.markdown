@@ -5,6 +5,7 @@ categories:
 - Issues
 tags:
 - election
+layout: post
 ---
 
 Currently held by Niki Tsongas, who has announced she will not seek reelection. 
