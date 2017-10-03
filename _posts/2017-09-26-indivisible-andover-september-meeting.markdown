@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - meeting
-main-image: "/uploads/ducklings-pussyhats-small.jpg"
+main-image: "/uploads/Andover%20Public%20Library.jpg"
 event-start-date: 2017-09-26 18:30:00 -04:00
 event-end-date: 2017-09-26 20:30:00 -04:00
 Location: Christ Church, 25 Central Street, Andover, MA 01810
