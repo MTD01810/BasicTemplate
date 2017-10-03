@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes all of the special elections that are scheduled between now and the mid-terms.
+Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes the many special elections that are slated to take place between now and the midterms.
 
 Indivisible Andover is not aligned with any one party, nor will we endorse candidates. However, it is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
 
