@@ -13,6 +13,7 @@ Fiscal transparency category includes:
 * Debt ceiling
 
 Financial issues for individuals category includes:
-* Social security
+* Jobs - preparing people for industry disruption
 * Tax reform
+* Social security
 * College tuition
