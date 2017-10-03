@@ -3,6 +3,8 @@ title: Election - MA-03 Congressional District Seat
 date: 2017-10-03 14:20:00 -04:00
 categories:
 - Issues
+tags:
+- election
 ---
 
 Currently held by Niki Tsongas, who has announced she will not seek reelection. 
