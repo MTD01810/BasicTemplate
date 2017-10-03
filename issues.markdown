@@ -9,4 +9,4 @@ layout: post
 * [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html)
 * [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html)
 * [Health and Safety](http://indivisibleandoverma.com/issues/health-and-safety.html)
-* Fiscal Transparency
+* [Fiscal Transparency](http://indivisibleandoverma.com/issues/fiscal-transparency.html)
