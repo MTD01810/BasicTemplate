@@ -5,7 +5,7 @@ categories:
 - issues
 tags:
 - '2018'
-layout: media-item
+layout: post
 ---
 
 Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes all of the special elections that are scheduled between now and the mid-terms.
