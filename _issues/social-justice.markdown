@@ -10,6 +10,7 @@ Includes:
 * Immigration, DACA
 * Travel Ban 
 * LGBTQ rights
-* Hate crimes
+* Hate crimes against any group
 * Labor Rights
 * Equal Pay for Women
+* Prison reform

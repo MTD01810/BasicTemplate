@@ -8,7 +8,13 @@ tags:
 layout: post
 ---
 
-Another enormous focus of the Indivisible movement is to improve the integrity of elections going forward. This includes efforts against gerrymandering, money in politics, voter suppression, and ensuring an informed public by defending a free press. 
+Another enormous focus of the Indivisible movement is to improve the integrity of elections going forward. This includes efforts against: 
+* Gerrymandering
+* Campaign finance reform, transparency of donors
+* Voter suppression
+* Automatic voter registration
+* Paper ballot backups
+* Ensuring an informed public by defending a free press and mitigating fake news
 
 Some of the organizations we collaborate with on this front are:
 * [Let People Vote](https://www.aclu.org/other/let-people-vote-removing-restrictions-and-barriers-voting-america)
