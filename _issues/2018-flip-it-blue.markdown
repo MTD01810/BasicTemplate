@@ -5,6 +5,11 @@ categories:
 - Issues
 tags:
 - '2018'
+MA-03 Candidate List:
+- Nadeem Mazen - (D) City Councilor Cambridge, MA
+- Daniel Arrigg-Koh - (D) Boston Mayor’s former chief of staff
+- Barbara L'Italien - (D) State Senator, 2nd Essex & Middlesex District
+- 
 layout: post
 ---
 
