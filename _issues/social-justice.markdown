@@ -2,7 +2,7 @@
 title: Social Justice
 date: 2017-09-30 21:46:00 -04:00
 categories:
-- Issue
+- Issues
 layout: post
 ---
 
