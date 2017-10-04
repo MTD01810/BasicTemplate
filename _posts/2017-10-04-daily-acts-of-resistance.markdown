@@ -2,7 +2,9 @@
 title: Daily Acts of Resistance
 date: 2017-10-04 17:14:00 -04:00
 categories:
-- Actions
+- action
+tags:
+- subscribe
 ---
 
 By Build the Wave
