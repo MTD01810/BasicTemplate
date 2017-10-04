@@ -5,4 +5,4 @@ main-image:
 layout: actions
 ---
 
-There are dozens of ways to get engaged and be part of the movement without even leaving home. Please check back regularly for issues that can be affected by calls, emails, post cards, and social media amplification.
+There are dozens of ways to get engaged without ever leaving home. The list below will connect you to resources so that you can affect issues through calls, emails, post cards, and social media amplification.
