@@ -7,4 +7,4 @@ embed-code: <iframe src="https://calendar.google.com/calendar/embed?height=600&a
 layout: calendar
 ---
 
-There are so many ways to get involved in person. Highlighted events will be listed individually, but the Google Calendar below includes many more events (local - blue, Capitol Calendar - red, US Holidays - gray).
+There are so many ways to get involved in person. Highlighted events will be listed individually, but the Google Calendar below includes many more events (Local and State - blue, Capitol Calendar - red, US Holidays - gray).
