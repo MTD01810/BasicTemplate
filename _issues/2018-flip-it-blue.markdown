@@ -26,5 +26,5 @@ Organizations supporting women candidates:
 * [Emerge Massachusetts](http://www.emergema.org/)
 * [IGNITE National](http://www.ignitenational.org/)
 
-
+<BR>
 ![2016nationwidecountymapshadedbyvoteshare.png](/uploads/2016nationwidecountymapshadedbyvoteshare.png)
