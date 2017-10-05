@@ -7,8 +7,6 @@ date: 2017-10-05 15:00:00 -04:00
 
     <div class="clearfix spacer"></div>
 
-    <h1>Successes</h1>
-
     <!-- BODY CONTENT -->
     <div class="row">
       <div class="col-sm-7 col-md-6 col-lg-5">
