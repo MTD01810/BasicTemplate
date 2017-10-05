@@ -13,13 +13,13 @@ Location: Christ Church, 25 Central Street, Andover, MA 01810
 
 Agenda - Since this is our first working meeting, it will be largely introductory. We will set up sub-groups that will enable people to focus their energies on a cluster of issues. 
 
-6:30 - 7:00 - Socialize, network, meet your fellow resistors
-7:00 - 7:30 - Mission, progress, and priorities
-7:30 - 8:00 - Breakout groups
-Winning in 2018
-Election Integrity
-Social Justice
-Public Safety and Health
-8:00 - 8:30 - Reconvene, action plans, optional war cry
+6:30 - 7:00 - Socialize, network, meet your fellow resistors<BR>
+7:00 - 7:30 - Mission, progress, and priorities<BR>
+7:30 - 8:00 - Breakout groups<BR>
+Winning in 2018<BR>
+Election Integrity<BR>
+Social Justice<BR>
+Public Safety and Health<BR>
+8:00 - 8:30 - Reconvene, action plans, optional war cry<BR>
 
 We look forward to seeing you!
