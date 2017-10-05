@@ -12,8 +12,6 @@ Indivisible groups across the country are working together to get as many progre
 
 Indivisible Andover is not aligned with any one party, nor will we endorse candidates. However, it is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
 
-![2016nationwidecountymapshadedbyvoteshare.png](/uploads/2016nationwidecountymapshadedbyvoteshare.png)
-
 Our upcoming elections:
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 8, 2018)
 
@@ -27,3 +25,6 @@ Organizations supporting women candidates:
 * [Emerge America](http://www.emergeamerica.org/)
 * [Emerge Massachusetts](http://www.emergema.org/)
 * [IGNITE National](http://www.ignitenational.org/)
+
+
+![2016nationwidecountymapshadedbyvoteshare.png](/uploads/2016nationwidecountymapshadedbyvoteshare.png)
