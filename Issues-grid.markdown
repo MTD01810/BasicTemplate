@@ -23,6 +23,8 @@ date: 2017-10-05 15:00:00 -04:00
  Flip It Blue</a></h3>
           <div class="text-muted post-body mt-0 mb-4"><p>Races across the country for House, Senate, Governors, State and Local seats.
 
+<BR>
+
 <a href="/issues/2018-flip-it-blue.html" class="media-thumbnail mb-2" style="background-image: url('/uploads/2016nationwidecountymapshadedbyvoteshare.png')"></a>
 
 <!-- END CONTAINER -->
