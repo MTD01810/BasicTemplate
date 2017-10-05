@@ -1,7 +1,6 @@
 ---
 title: Issues
 date: 2017-09-30 22:09:00 -04:00
-published: false
 position: 0
 layout: post
 ---
