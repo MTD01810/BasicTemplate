@@ -29,4 +29,4 @@ date: 2017-10-05 15:00:00 -04:00
  Flip It Blue</a></h3>
           <div class="text-muted post-body mt-0 mb-4"><p>Races across the country for House, Senate, Governors, State and Local seats.
 
-  </div><!-- END CONTAINER -->
+<!-- END CONTAINER -->
