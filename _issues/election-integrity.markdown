@@ -23,14 +23,16 @@ Some of the organizations we collaborate with on this front are:
 
 ### [Register to Vote in Massachusetts](https://www.sec.state.ma.us/ovr/)
 
-**Contact the Massachusetts Elections Division**
-Secretary of the Commonwealth
-Elections Division
-McCormack Building
-One Ashburton Place, Room 1705
-Boston, MA 02108
 
-Toll-Free: 1-800-462-VOTE (8683)
-617-727-2828
-Fax: 617-742-3238
-Email: elections@sec.state.ma.us
+**Contact the Massachusetts Elections Division** 
+
+Secretary of the Commonwealth<BR>
+Elections Division<BR>
+McCormack Building<BR>
+One Ashburton Place, Room 1705<BR>
+Boston, MA 02108<BR>
+<BR>
+Toll-Free: 1-800-462-VOTE (8683)<BR>
+Office: 617-727-2828<BR>
+Fax: 617-742-3238<BR>
+Email: elections@sec.state.ma.us<BR>
