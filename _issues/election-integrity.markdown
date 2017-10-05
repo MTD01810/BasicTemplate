@@ -16,12 +16,12 @@ Another enormous focus of the Indivisible movement is to improve the integrity o
 * Paper ballot backups
 * Ensuring an informed public by defending a free press and mitigating fake news
 
-### [Register to Vote in Massachusetts](https://www.sec.state.ma.us/ovr/)
-
 Some of the organizations we collaborate with on this front are:
 * [League of Women Voters](http://lwv.org/)
 * [Let People Vote](https://www.aclu.org/other/let-people-vote-removing-restrictions-and-barriers-voting-america)
 * [Mass Vote](http://massvote.org/)
+
+### [Register to Vote in Massachusetts](https://www.sec.state.ma.us/ovr/)
 
 **Contact the Massachusetts Elections Division**
 Secretary of the Commonwealth
