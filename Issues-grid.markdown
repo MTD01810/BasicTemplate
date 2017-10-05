@@ -1,14 +1,7 @@
 ---
 title: Issues NEW
 date: 2017-10-05 15:00:00 -04:00
-published: false
 ---
-
-<div class="row">
-      <div class="col-sm-7 col-md-6 col-lg-5">
-        <div class="clearfix spacer"></div>
-      </div>
-    </div>
 
     <div class="row">
       
@@ -20,5 +13,3 @@ published: false
         </div>
       
     </div>
-
-  </div>
