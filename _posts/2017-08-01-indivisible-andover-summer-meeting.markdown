@@ -1,6 +1,6 @@
 ---
 title: Indivisible Andover - Summer meeting
-date: 2017-08-31 22:07:00 -04:00
+date: 2017-08-01 22:07:00 -04:00
 categories:
 - event
 main-image: "/uploads/oak-iron.jpg"
@@ -9,7 +9,7 @@ event-end-date: 2017-08-31 21:00:00 -04:00
 Location: Oak & Iron Brewery
 ---
 
-Casual get-together next Thursday, August 31 at the Oak & Iron Brewery. 7:00 pm. No formal agenda, just more of a social meet & greet and a way to enjoy the summer air while it lasts. Hope to see you there!
+Casual get-together Thursday, August 31 at the Oak & Iron Brewery. 7:00 pm. No formal agenda, just more of a social meet & greet and a way to enjoy the summer air while it lasts. Hope to see you there!
 
 [Oak & Iron Brewery](http://www.oakandironbrewing.com/)<BR>
 18 Red Spring Road, Andover
