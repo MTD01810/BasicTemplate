@@ -6,9 +6,7 @@ categories:
 layout: post
 ---
 
-![social-justice.jpg](/uploads/social-justice.jpg)
-
-Includes:
+This issue category includes:
 * Racial Justice, Black Lives Matter
 * Immigration, DACA
 * Travel Ban 
@@ -23,3 +21,5 @@ Organizations focused on social justice issues:
 * [The Center for Popular Democracy](http://populardemocracy.org/)
 * [The Leadership Conference](https://civilrights.org/)
 * [Southern Poverty Law Center (SPLC)](https://www.splcenter.org/)
+
+![social-justice.jpg](/uploads/social-justice.jpg)
