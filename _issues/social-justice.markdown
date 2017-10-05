@@ -6,6 +6,8 @@ categories:
 layout: post
 ---
 
+![social-justice.jpg](/uploads/social-justice.jpg)
+
 Includes:
 * Racial Justice, Black Lives Matter
 * Immigration, DACA
