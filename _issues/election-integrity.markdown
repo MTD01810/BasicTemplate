@@ -23,7 +23,7 @@ Some of the organizations we collaborate with on this front are:
 
 ### [Register to Vote in Massachusetts](https://www.sec.state.ma.us/ovr/)
 
-
+<BR>
 **Contact the Massachusetts Elections Division** 
 
 Secretary of the Commonwealth<BR>
