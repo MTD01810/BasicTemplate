@@ -27,9 +27,6 @@ date: 2017-10-05 15:00:00 -04:00
           <a href="/successes/ACA-repeal-is-dead.html" class="media-thumbnail mb-2" style="background-image: url('/uploads/2016nationwidecountymapshadedbyvoteshare.png')"></a>
           <h3 class="mb-1"><a href="/issues/2018-flip-it-blue.html">2018 -
  Flip It Blue</a></h3>
-          <div class="text-muted post-body mt-0 mb-4"><p>“Sen. Bill Cassidy (R-La.) officially lost his bid to pass an Obamacare overhaul late Monday as a third Republican senator announced h...</div>
-        </div>
-      
-    </div>
+          <div class="text-muted post-body mt-0 mb-4"><p>Races across the country for House, Senate, Governors, State and Local seats.
 
   </div><!-- END CONTAINER -->
