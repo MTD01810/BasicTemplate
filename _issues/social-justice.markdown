@@ -15,3 +15,9 @@ Includes:
 * Labor Rights
 * Equal Pay for Women
 * Prison reform
+
+National organizations focused on social justice issues:
+* [ACLU](https://www.aclu.org/), [ACLU Massachusetts](https://aclum.org/)
+* [The Center for Popular Democracy](http://populardemocracy.org/)
+* [The Leadership Conference](https://civilrights.org/)
+* [Southern Poverty Law Center (SPLC)](https://www.splcenter.org/)

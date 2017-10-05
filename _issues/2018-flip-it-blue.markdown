@@ -20,7 +20,7 @@ Organizations working to flip red seats blue in strategic state elections:
 * [Flippable](https://www.flippable.org/)
 * [Sister District](https://www.sisterdistrict.com/)
 
-Organizations working on supporting women candidates: 
+Organizations supporting women candidates: 
 * [Emily's List](http://emilyslist.org/)
 * [Emerge America](http://www.emergeamerica.org/)
 * [Emerge Massachusetts](http://www.emergema.org/)
