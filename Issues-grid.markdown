@@ -37,6 +37,6 @@ date: 2017-10-05 15:00:00 -04:00
 
 <div class="clearfix spacer"></div>
 
-<a href="/issues/social-justice.html" class="media-thumbnail mb-2" style="background-image: url('/uploads/2016nationwidecountymapshadedbyvoteshare.png')"></a>
+<a href="/issues/social-justice.html" class="media-thumbnail mb-2" style="background-image: url('/uploads/social-justice.jpg')"></a>
 
 <!-- END CONTAINER -->
