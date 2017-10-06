@@ -15,7 +15,7 @@ Indivisible Andover is not aligned with any one party, nor will we endorse candi
 Our upcoming elections:
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 8, 2018)
 
-Organizations working to flip red seats blue in strategic state elections: 
+Organizations working to flip red seats blue in strategic elections: 
 * [Brand New Congress](https://brandnewcongress.org/)
 * [Flippable](https://www.flippable.org/)
 * [Sister District](https://www.sisterdistrict.com/)
