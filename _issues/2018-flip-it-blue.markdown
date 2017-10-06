@@ -19,6 +19,7 @@ Organizations working to flip red seats blue in strategic state elections:
 * [Brand New Congress](https://brandnewcongress.org/)
 * [Flippable](https://www.flippable.org/)
 * [Sister District](https://www.sisterdistrict.com/)
+* [Swing Left](https://swingleft.org/)
 
 Organizations supporting women candidates: 
 * [Emily's List](http://emilyslist.org/)
