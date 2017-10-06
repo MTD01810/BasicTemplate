@@ -10,6 +10,6 @@ Town Hall Project empowers constituents across the country to have face-to-face 
 
 This movement is diverse, open source, and powered by citizens. We are proud to be a part of it.
 
-[### Find a Town Hall Near You](https://townhallproject.com/)
+### [Find a Town Hall Near You](https://townhallproject.com/)
 <BR>
 ![TownHallProject-logo.png](/uploads/TownHallProject-logo.png)
