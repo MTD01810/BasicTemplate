@@ -8,7 +8,8 @@ tags:
 is featured: true
 ---
 
-# 5 Calls
+![5calls-logotype-b9a063.png](/uploads/5calls-logotype-b9a063.png)
+
 * Provides phone numbers and scripts so calling is quick and easy
 * Uses your location to find your local representatives so your calls have more impact
 
