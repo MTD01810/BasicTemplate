@@ -3,7 +3,6 @@ title: Town Hall Project - Attend a town hall
 date: 2017-10-06 15:58:00 -04:00
 categories:
 - action
-main-image: "/uploads/town-hall-project-logo.png"
 ---
 
 ### [About Town Hall Project](https://townhallproject.com/#about)
@@ -11,4 +10,6 @@ Town Hall Project empowers constituents across the country to have face-to-face 
 
 This movement is diverse, open source, and powered by citizens. We are proud to be a part of it.
 
-[Find a Town Hall Near You](https://townhallproject.com/)
+[### Find a Town Hall Near You](https://townhallproject.com/)
+<BR>
+![town-hall-project-logo-96d674.png](/uploads/town-hall-project-logo-96d674.png)
