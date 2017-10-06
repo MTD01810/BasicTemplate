@@ -12,4 +12,4 @@ This movement is diverse, open source, and powered by citizens. We are proud to 
 
 [### Find a Town Hall Near You](https://townhallproject.com/)
 <BR>
-![town-hall-project-logo-96d674.png](/uploads/town-hall-project-logo-96d674.png)
+![TownHallProject-logo.png](/uploads/TownHallProject-logo.png)
