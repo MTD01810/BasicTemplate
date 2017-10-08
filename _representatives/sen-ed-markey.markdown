@@ -7,7 +7,6 @@ phone-numbers:
   DC Office: "(202) 224-2742"
   BOS Office: "(617) 565-8519"
   Springfield Office: "(413) 785-4610"
-  Fall River Office: "(508) 677-0523"
 website: http://www.markey.senate.gov
 ---
 
