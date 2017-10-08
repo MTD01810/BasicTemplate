@@ -10,4 +10,4 @@ phone-numbers:
 website: https://tsongas.house.gov/
 ---
 
-Serves the [3rd District of Massachusetts](https://tsongas.house.gov/3rd-district/)
+Serving the [3rd District of Massachusetts](https://tsongas.house.gov/3rd-district/)
