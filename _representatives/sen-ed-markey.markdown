@@ -1,6 +1,8 @@
 ---
 title: Senator Ed Markey
 date: 2017-02-03 20:58:00 -05:00
+categories:
+- representative
 position: 1
 phone-numbers:
   twitter: "@SenMarkey"
@@ -8,6 +10,7 @@ phone-numbers:
   BOS Office: "(617) 565-8519"
   Springfield Office: "(413) 785-4610"
 website: http://www.markey.senate.gov
+layout: post
 ---
 
 US Senator for Massachusetts
