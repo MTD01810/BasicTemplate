@@ -14,7 +14,7 @@ This issue category includes:
 * Hate crimes against any group
 * Labor Rights
 * Equal Pay for Women
-* Prison reform
+* Criminal Justice, Prison Reform
 
 Organizations focused on social justice issues:
 * [ACLU](https://www.aclu.org/) & [ACLU Massachusetts](https://aclum.org/)
