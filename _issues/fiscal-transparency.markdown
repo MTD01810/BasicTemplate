@@ -1,5 +1,5 @@
 ---
-title: Fiscal and Economic
+title: Economic Justice
 date: 2017-10-02 21:53:00 -04:00
 categories:
 - Issues
@@ -12,7 +12,7 @@ Fiscal transparency category includes:
 * Tax reform - corporate, repatriation of taxes
 * Debt ceiling
 
-Financial issues for individuals:
+Economic Justice for individuals:
 * Jobs - preparing people for industry disruption
 * Tax reform
 * Social security
