@@ -16,4 +16,4 @@ Economic Justice for individuals:
 * Jobs - preparing people for industry disruption
 * Tax reform
 * Social security
-* College tuition
+* College tuition reform
