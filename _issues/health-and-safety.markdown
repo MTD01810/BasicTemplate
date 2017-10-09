@@ -11,5 +11,5 @@ This is a huge category, likely to be broken down further. Includes:
 * ACA improvements
 * Women's Health, domestic violence, rape
 * Opioid crisis
-* Environment, clean water and air
+* Environmental protection - clean water and air
 * Climate change
