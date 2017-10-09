@@ -15,6 +15,7 @@ This issue category includes:
 * Labor Rights
 * Equal Pay for Women
 * Criminal Justice, Prison Reform
+* Education Reform
 
 Organizations focused on social justice issues:
 * [ACLU](https://www.aclu.org/) & [ACLU Massachusetts](https://aclum.org/)
