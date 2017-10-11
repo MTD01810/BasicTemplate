@@ -22,6 +22,7 @@ Agenda - Since we are still in the early stages of our meeting cadence, it will 
  - Social Justice <BR>
  - Public Health & Safety <BR>
  - Economic Justice <BR>
+
 8:00 - 8:30 - Reconvene, action plans, optional war cry <BR>
 
 We are allowed to bring food & drink, so please feel free to bring snacks, beer, wine, coffee, etc. 
