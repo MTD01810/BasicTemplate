@@ -2,7 +2,7 @@
 title: Indivisible Andover - Spring meeting
 date: 2017-04-01 22:18:00 -04:00
 categories:
-- event
+- archive
 main-image: "/uploads/larosas.jpg"
 event-start-date: 2017-04-05 19:00:00 -04:00
 event-end-date: 2017-04-05 20:30:00 -04:00
