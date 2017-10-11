@@ -12,7 +12,8 @@ RSVP-link: https://www.facebook.com/events/384537108632841/?acontext=%7B%22sourc
 
 We will be in the "Meeting Room" . Enter the building in the right of the courtyard through the door that says "Children's Center". We are up the stairs and to the right.
 
-Agenda - Since we are still in the early stages of our meeting cadence, it will still be largely introductory. We will set up sub-groups that will enable people to focus their energies on a cluster of issues. 
+### Agenda
+Since we are still in the early stages of our meeting cadence, it will still be largely introductory. We will set up sub-groups that will enable people to focus their energies on a cluster of issues. 
 
 6:30 - 7:00 - Socialize, network, meet your fellow resistors <BR>
 7:00 - 7:30 - Mission, progress, and priorities <BR>
