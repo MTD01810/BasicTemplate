@@ -2,7 +2,7 @@
 title: Resistance Calendar
 date: 2017-09-01 17:04:00 -04:00
 categories:
-- Events
+- event
 main-image: "/uploads/resistance-calendar-logo-large.png"
 event-start-date: 2017-12-31 00:00:00 -05:00
 event-end-date: 2017-12-31 00:00:00 -05:00
