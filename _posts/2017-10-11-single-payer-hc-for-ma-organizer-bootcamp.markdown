@@ -1,5 +1,5 @@
 ---
-title: Single Payer HC for MA - Organizer Bootcamp
+title: Right to Health MA - Organizer Bootcamp
 date: 2017-10-11 13:25:00 -04:00
 categories:
 - event
