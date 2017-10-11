@@ -15,11 +15,11 @@ Agenda - Since we are still in the early stages of our meeting cadence, it will 
 6:30 - 7:00 - Socialize, network, meet your fellow resistors <BR>
 7:00 - 7:30 - Mission, progress, and priorities <BR>
 7:30 - 8:00 - Breakout groups <BR>
-Winning in 2018 <BR>
-Election Integrity <BR>
-Social Justice <BR>
-Public Health & Safety <BR>
-Economic Justice <BR>
+ - Winning in 2018 <BR>
+ - Election Integrity <BR>
+ - Social Justice <BR>
+ - Public Health & Safety <BR>
+ - Economic Justice <BR>
 8:00 - 8:30 - Reconvene, action plans, optional war cry <BR>
 
 We are allowed to bring food & drink, so please feel free to bring snacks, beer, wine, coffee, etc. 
