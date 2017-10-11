@@ -16,7 +16,7 @@ We will be in the "Meeting Room" . Enter the building in the right of the courty
 Since we are still in the early stages of our meeting cadence, it will still be largely introductory. We will set up sub-groups that will enable people to focus their energies on a cluster of issues. 
 
 6:30 - 7:00 - Socialize, network, meet your fellow resistors <BR>
-7:00 - 7:30 - Mission, progress, and priorities <BR>
+7:00 - 7:30 - Mission, progress, and plans (newsletter, etc.) <BR>
 7:30 - 8:00 - Breakout groups <BR>
  - Winning in 2018 <BR>
  - Election Integrity <BR>
