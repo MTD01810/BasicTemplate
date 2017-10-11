@@ -5,6 +5,7 @@ categories:
 - event
 tags:
 - healthcare
+main-image: "/uploads/RightToHealthMAlogo.png"
 event-start-date: 2017-10-14 09:00:00 -04:00
 event-end-date: 2017-10-14 16:00:00 -04:00
 Location: |-
