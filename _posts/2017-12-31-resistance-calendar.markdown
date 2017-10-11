@@ -1,6 +1,6 @@
 ---
 title: Resistance Calendar
-date: 2017-09-01 17:04:00 -04:00
+date: 2017-12-31 17:04:00 -05:00
 categories:
 - event
 main-image: "/uploads/resistance-calendar-logo-large.png"
