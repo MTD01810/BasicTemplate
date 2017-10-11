@@ -2,7 +2,7 @@
 title: Indivisible Andover - Summer meeting
 date: 2017-08-01 22:07:00 -04:00
 categories:
-- archive
+- event
 main-image: "/uploads/oak-iron.jpg"
 event-start-date: 2017-08-31 19:00:00 -04:00
 event-end-date: 2017-08-31 21:00:00 -04:00
