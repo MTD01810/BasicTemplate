@@ -1,6 +1,8 @@
 ---
 title: Indivisible Andover - October meeting
 date: 2017-10-24 15:03:00 -04:00
+categories:
+- event
 main-image: "/uploads/wonder-woman-pumpkin.jpg"
 event-start-date: 2017-10-24 18:30:00 -04:00
 event-end-date: 2017-10-24 20:30:00 -04:00
