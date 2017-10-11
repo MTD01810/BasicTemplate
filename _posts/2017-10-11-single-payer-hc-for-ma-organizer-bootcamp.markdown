@@ -10,7 +10,7 @@ event-end-date: 2017-10-14 16:00:00 -04:00
 Location: |-
   Minuteman High School
   758 Marrett Road, Lexington, MA
-RSVP-link: www.tinyurl.com/RTHMA
+RSVP-link: https://actionnetwork.org/events/right-to-health-organizer-bootcamp
 ---
 
 Harvard Medicine Indivisible is a part of the [Right to Health MA Coalition](https://www.righttohealthma.org/). We are invited to two upcoming coalition events. The first is:
