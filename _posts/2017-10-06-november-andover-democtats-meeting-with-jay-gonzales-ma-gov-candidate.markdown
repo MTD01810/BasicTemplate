@@ -1,6 +1,6 @@
 ---
 title: November Andover Democtats Meeting with Jay Gonzales
-date: 2017-10-08 13:53:00 -04:00
+date: 2017-10-06 13:53:00 -04:00
 categories:
 - event
 main-image: "/uploads/Andover-old-town-hall.jpg"
