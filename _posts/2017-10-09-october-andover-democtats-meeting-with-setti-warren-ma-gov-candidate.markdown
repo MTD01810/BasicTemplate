@@ -1,6 +1,9 @@
 ---
 title: October Andover Democtats Meeting with Setti Warren (MA Gov candidate)
-date: 2017-10-12 13:51:00 -04:00
+date: 2017-10-09 13:51:00 -04:00
+categories:
+- event
+main-image: "/uploads/Andover-old-town-hall-5a26db.jpg"
 event-start-date: 2017-10-25 19:00:00 -04:00
 event-end-date: 2017-10-25 21:00:00 -04:00
 Location: Andover Baptist Church, 7 Central Street, Andover, MA 01810
