@@ -1,5 +1,5 @@
 ---
-title: October Andover Democtats Meeting with Setti Warren (MA Gov candidate)
+title: October Andover Democtats Meeting with Setti Warren
 date: 2017-10-09 13:51:00 -04:00
 categories:
 - event
