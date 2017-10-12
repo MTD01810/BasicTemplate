@@ -1,6 +1,6 @@
 ---
 title: Right to Health MA - Organizer Bootcamp
-date: 2017-10-14 13:25:00 -04:00
+date: 2017-10-12 13:25:00 -04:00
 categories:
 - event
 tags:
