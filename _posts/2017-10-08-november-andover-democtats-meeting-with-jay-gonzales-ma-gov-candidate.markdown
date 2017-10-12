@@ -1,5 +1,5 @@
 ---
-title: November Andover Democtats Meeting with Jay Gonzales (MA Gov candidate)
+title: November Andover Democtats Meeting with Jay Gonzales
 date: 2017-10-08 13:53:00 -04:00
 categories:
 - event
@@ -9,3 +9,6 @@ event-end-date: 2017-11-15 21:00:00 -05:00
 Location: Andover Baptist Church, 7 Central St, Andover, MA 01810, USA (map)
 ---
 
+Please join us for the November meeting of the Andover Democratic Town Committee. We will be joined by our special guest, Jay Gonzales, who is running for Governor of Massachusetts. All are welcome!
+
+With any questions, please contact Andover Democratic Town Committee Chair, Joe Thibodeau.
