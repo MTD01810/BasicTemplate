@@ -1,6 +1,7 @@
 ---
 title: Provocative ‘Free Speech’ Rally In Boston Railroaded By Counterprotesters
 date: 2017-08-19 14:23:00 -04:00
+main-image: "/uploads/boston-free-speech-rally.jpg"
 ---
 
 BOSTON ― A week after a white supremacist at a rally in Virginia killed one person and injured more than a dozen others, thousands of counterprotesters in Boston turned out to oppose participants of a self-described “free speech” rally with a message of their own: White supremacy has no place in this country.
