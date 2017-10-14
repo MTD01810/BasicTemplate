@@ -15,5 +15,5 @@ layout: post
 * [Health and Safety](http://indivisibleandoverma.com/issues/health-and-safety.html)
 * [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html)
 
-Trump and the GOP are actively working to erode our values on all fronts. So if you're just mad, please enter:
+### Trump and the GOP are actively working to erode our values on all fronts. It's exhausting, emotional, and overwhelming. So for the moments when you're just mad, please enter:
 * [The Screaming Room](http://indivisibleandoverma.com/issues/the-screaming-room) - Resisting the Trump agenda
