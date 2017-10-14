@@ -10,7 +10,7 @@ layout: post
 
 Currently held by Niki Tsongas, who has announced she will not seek reelection. 
 
-[Current candidate list](https://ballotpedia.org/Massachusetts%27_3rd_Congressional_District_election,_2018)
+[Current candidate list (from Ballotpedia)](https://ballotpedia.org/Massachusetts%27_3rd_Congressional_District_election,_2018)
 
 Democrats:
 * Abhijit Das
