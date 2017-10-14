@@ -13,7 +13,8 @@ Indivisible groups across the country are working together to get as many progre
 Indivisible Andover is not aligned with any one party, nor will we endorse candidates. However, it is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
 
 Our upcoming elections:
-* [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 8, 2018)
+* [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 6, 2018)
+* [MA Gubernatorial race](http://indivisibleandoverma.com/issues/election-ma-governor) (Nov 6, 2018)
 
 Organizations working to flip red seats blue in strategic elections: 
 * [Brand New Congress](https://brandnewcongress.org/)
