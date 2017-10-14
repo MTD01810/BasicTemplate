@@ -16,4 +16,4 @@ layout: post
 * [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html)
 
 Trump and the GOP are actively working to erode our values on all fronts. So if you're just mad, please enter:
-[The Screaming Room](http://indivisibleandoverma.com/issues/the-screaming-room) - Resisting the Trump agenda
+* [The Screaming Room](http://indivisibleandoverma.com/issues/the-screaming-room) - Resisting the Trump agenda
