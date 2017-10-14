@@ -1,6 +1,12 @@
 ---
 title: Election - MA Governor
 date: 2017-10-14 11:29:00 -04:00
+categories:
+- Issues
+tags:
+- governor
+- '2018'
+layout: post
 ---
 
 Currently held by Charlie Baker, who has not yet formally announced he will seek reelection. 
