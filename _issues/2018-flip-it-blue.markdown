@@ -14,7 +14,7 @@ Indivisible Andover is not aligned with any one party, nor will we endorse candi
 
 Our upcoming elections:
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 6, 2018)
-* MA Gubernatorial race (Nov 6, 2018)
+* [MA Gubernatorial race](http://indivisibleandoverma.com/issues/election-ma-governor) (Nov 6, 2018)
 
 Organizations working to flip red seats blue in strategic elections: 
 * [Brand New Congress](https://brandnewcongress.org/)
