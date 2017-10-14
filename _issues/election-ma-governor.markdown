@@ -16,7 +16,7 @@ Currently held by Charlie Baker, who has not yet formally announced he will seek
 Democrats:
 * [Jay Gonzalez](http://jay4ma.com/)
 * [Robert Massie](https://www.bobmassie2018.com/)
-* [Setti Warren](http://settiwarren.com/) (Newton Mayor)
+* [Setti Warren](http://settiwarren.com/)
 
 Republicans:
 * Charles D. Baker (Incumbent)
