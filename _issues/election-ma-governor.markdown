@@ -3,7 +3,7 @@ title: Election - MA Governor
 date: 2017-10-14 11:29:00 -04:00
 ---
 
-Currently held by Niki Tsongas, who has announced she will not seek reelection. 
+Currently held by Charlie Baker, who has not yet formally announced he will seek reelection. 
 
 [Current candidate list (from Ballotpedia)](https://ballotpedia.org/Massachusetts_gubernatorial_and_lieutenant_gubernatorial_election,_2018)
 
@@ -13,4 +13,4 @@ Democrats:
 * [Setti Warren](http://settiwarren.com/) (Newton Mayor)
 
 Republicans:
-* Charles D. Baker (incumbent, not officially declared yet)
+* Charles D. Baker (Incumbent)
