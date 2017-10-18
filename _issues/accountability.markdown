@@ -7,6 +7,7 @@ Getting the right people elected to office at all levels of government is just t
 
 Track votes at the Federal level:
 * [Countable](https://www.countable.us/)
+* [Vote Smart](https://votesmart.org/)
 
 Track bills coming up for a vote in Congress:
 * [Capitol Calendar by Indivisible](http://www.indivisible.org/resources/online/capitol-calendar/)
@@ -15,7 +16,11 @@ Track bills coming up for a vote in Congress:
 
 Track votes at the State (MA) level:
 * [Legislator Scorecard by Progressive MA](https://scorecard.progressivemass.com/all-legislators)
+* [Vote Smart](https://votesmart.org/)
 
 Track bills coming up for a vote at the State House:
 * [Massachusetts State Legislature](https://malegislature.gov/Bills/)
 * [Open States - Mass](https://openstates.org/ma/)
+
+Attend a town hall:
+* [Town Hall Project](https://townhallproject.com/)
