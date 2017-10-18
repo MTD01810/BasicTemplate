@@ -1,6 +1,9 @@
 ---
 title: Accountability
 date: 2017-10-18 15:47:00 -04:00
+categories:
+- Issues
+layout: post
 ---
 
 Getting the right people elected to office at all levels of government is just the first step in ensuring the passage, enforcement, and preservation of progressive policies. Tracking the voting record of those in office, both Republicans and Democrats, is front-and-center to ensuring that what is promised on the campaign trail lines up with what is supported throughout one's tenure. 
