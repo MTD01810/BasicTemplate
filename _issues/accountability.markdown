@@ -1,0 +1,19 @@
+---
+title: Accountability
+date: 2017-10-18 15:47:00 -04:00
+---
+
+Getting the right people elected to office at all levels of government is just the first step in ensuring the passage, enforcement, and preservation of progressive policies. Tracking the voting record of those in office is front-and-center to ensuring that what is promised on the campaign trail lines up with what is supported throughout one's tenure. 
+
+Track votes at the Federal level:
+* [Countable](https://www.countable.us/)
+
+Track bills coming up for a vote in Congress:
+* [Capitol Calendar by Indivisible](http://www.indivisible.org/resources/online/capitol-calendar/)
+
+
+Track votes at the State (MA) level:
+* [Legislator Scorecard by Progressive MA](https://scorecard.progressivemass.com/all-legislators)
+
+Track bills coming up for a vote at the State House:
+* [Massachusetts State Legislature](https://malegislature.gov/Bills/)
