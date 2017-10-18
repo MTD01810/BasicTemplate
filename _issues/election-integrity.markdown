@@ -20,6 +20,7 @@ Some of the organizations we collaborate with on this front are:
 * [League of Women Voters](http://lwv.org/)
 * [Let People Vote](https://www.aclu.org/other/let-people-vote-removing-restrictions-and-barriers-voting-america)
 * [Mass Vote](http://massvote.org/)
+* [Progressive MA](http://www.progressivemass.com/)
 
 ### [Register to Vote in Massachusetts](https://www.sec.state.ma.us/ovr/)
 
