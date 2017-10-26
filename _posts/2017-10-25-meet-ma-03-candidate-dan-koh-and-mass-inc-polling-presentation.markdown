@@ -1,6 +1,8 @@
 ---
 title: Meet MA-03 Candidate Dan Koh and Mass Inc Polling presentation
 date: 2017-10-25 17:18:00 -04:00
+categories:
+- Event
 is featured: true
 main-image: "/uploads/Mass%20Inc%20voter%20reg%20graph.png"
 event-start-date: 2017-11-01 18:30:00 -04:00
