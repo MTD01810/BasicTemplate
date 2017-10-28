@@ -9,7 +9,7 @@ is featured: true
 main-image: "/uploads/flip%20VA%20blue.png"
 ---
 
-Critical election in Virgina November 7th!
+## Critical election in Virgina November 7th!
 
 Indivisible groups are banding together to elect progressives up & down the ballot in Virginia, and we need help from your state! Sign up below to get out the vote with a virtual phone or text bank from your home state and our coordinators will send you the details. 
 
