@@ -14,11 +14,15 @@ Currently held by Niki Tsongas, who has announced she will not seek reelection.
 
 Democrats:
 * Abhijit Das
+* Steve Kerrigan
 * [Daniel Koh](http://koh2018.com/)
+* [Juana Matias](https://www.juanamatias.com/)
 * [Barbara L'Italien](http://teambarbara.com)
 * [Nadeem Mazen](http://www.votenadeem.com/)
-* Lori Trahan
+* [Terry Ryan](https://www.crowdpac.com/campaigns/352379/terry-ryan)
+* [Lori Trahan](https://www.crowdpac.com/campaigns/343136/lori-trahan)
 
 Republicans:
+* [Rick Green](http://rickgreen.com/)
 * [Scott Gunderson](http://change4mass.com)
 * Louis Marino
