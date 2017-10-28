@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - calls
-is featured: true
+is featured: false
 ---
 
 ![5calls-logotype-small-4b7d2d.png](/uploads/5calls-logotype-small-4b7d2d.png)
