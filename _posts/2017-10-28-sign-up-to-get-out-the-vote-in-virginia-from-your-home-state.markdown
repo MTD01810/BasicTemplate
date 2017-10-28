@@ -6,6 +6,7 @@ categories:
 tags:
 - flip it blue
 is featured: true
+main-image: "/uploads/flip%20VA%20blue.png"
 ---
 
 ## Flip it Blue
