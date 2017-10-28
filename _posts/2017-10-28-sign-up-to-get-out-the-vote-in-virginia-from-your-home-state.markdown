@@ -16,6 +16,6 @@ Indivisible groups are banding together to elect progressives up & down the ball
 ### [Sign up to call or TEXT](https://www.indivisible.org/gotv-virginia/)
 
 Find out more about:
-* [The seats, issues and candidates](https://www.flippable.org/virginia/)
-* [Why this election is so critical to all of us](https://blog.flippable.org/3-reasons-to-flipvablue-a717d0340ee?_ga=2.170271264.1464449327.1509202066-944270035.1506818843)
+* [The seats, issues and candidates (Flippable)](https://www.flippable.org/virginia/)
+* [Why this election is so critical to all of us (Flippable blog)](https://blog.flippable.org/3-reasons-to-flipvablue-a717d0340ee?_ga=2.170271264.1464449327.1509202066-944270035.1506818843)
 
