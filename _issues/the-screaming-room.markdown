@@ -6,7 +6,8 @@ categories:
 layout: post
 ---
 
-### Resisting the Trump Agenda
+Tracking the Trump-Russia Investigation:
+* [Team Trump’s ties to Russian interests](https://www.washingtonpost.com/graphics/national/trump-russia/?utm_term=.6a7cf975e8b4) (WaPo)
 
 Credible news sources to track recent events:
 * [The Washington Post](https://www.washingtonpost.com/) "Democracy dies in darkness"
