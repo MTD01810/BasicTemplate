@@ -3,6 +3,7 @@ title: Small Victories Newsletter
 date: 2017-10-28 10:04:00 -04:00
 categories:
 - Success
+position: 3
 main-image: "/uploads/small%20victories%20logo.jpg"
 ---
 
