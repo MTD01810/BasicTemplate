@@ -1,6 +1,8 @@
 ---
 title: Mueller Special Investigation Making Progress
 date: 2017-09-01 12:31:00 -04:00
+categories:
+- Success
 is featured: false
 main-image: "/uploads/muellerprobe-promo-2300.jpg"
 ---
