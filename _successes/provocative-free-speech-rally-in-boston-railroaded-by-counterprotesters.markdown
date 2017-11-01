@@ -5,7 +5,7 @@ categories:
 - Success
 tags:
 - social justice
-position: 2
+position: 1
 main-image: "/uploads/boston-free-speech-rally.jpg"
 ---
 
