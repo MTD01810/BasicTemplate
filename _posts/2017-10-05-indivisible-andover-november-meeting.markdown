@@ -1,6 +1,6 @@
 ---
 title: Indivisible Andover - November Meeting
-date: 2017-11-19 19:36:00 -05:00
+date: 2017-10-05 19:36:00 -04:00
 categories:
 - event
 tags:
