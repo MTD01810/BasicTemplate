@@ -18,8 +18,8 @@ Same bat time, same bat channel, but new night of the week! Please join us the S
 
 Agenda - Looking to confirm with a couple of guest speakers - one from the Environmental Voter Project and someone from Indivisble Westford to speak about the carbon tax being proposed in MA. 
 
-6:30 - 7:00 - Socialize, network, meet your fellow resistors
-7:00 - 7:30 - Update since Oct meeting
+6:30 - 7:00 - Socialize, network, meet your fellow resistors <BR>
+7:00 - 7:30 - Update since Oct meeting <BR>
 7:30 - 8:30 - Guest speakers on environmental topics
 
 We are allowed to bring food & drink, so please feel free to bring snacks, beer, wine, coffee, leftover halloween candy etc. 
