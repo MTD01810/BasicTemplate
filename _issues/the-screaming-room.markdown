@@ -6,6 +6,8 @@ categories:
 layout: post
 ---
 
+This new era has ushered in unprecedented issues, errors, risks, and division. The Screaming Room is here to help navigate the chaos so *when* you get mad, you have the data to back it up. Come, sit, stay to track the latest subversion of democracy, the progress of the investigations, and credible news sources reporting on both.
+
 Resisting the Trump Agenda
 * [The Weekly List](http://theweeklylist.org/) -The “new normal” of American politics is not normal. The Weekly List reminds us of that. On a weekly basis, the List tracks specific news stories representing eroding norms under the current regime. Taken together, they reveal a nation pushed towards authoritarianism, the wielding of unchecked governmental authority by one person or group at the expense of the freedom of those who oppose them.
 
