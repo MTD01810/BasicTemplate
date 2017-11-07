@@ -8,9 +8,9 @@ tags:
 layout: post
 ---
 
-Racial injustice is as old as mankind, but the Trump administration has brought a white-hot spotlight on to the inequities and egregious shortfalls of current American policies. There are a number of issues that are interrelated with racial justice such as economic equality, criminal justice reform, voter suppression, and gerrymandering. 
+Racial injustice is not a new issue, but the Trump administration has brought a white-hot spotlight on to the inequities and egregious shortfalls of current American policies. There are a number of topics that are interrelated with racial justice such as economic equality, criminal justice reform, voter suppression, and gerrymandering. They cannot be solved in isolation, they have to be addressed together. 
 
-Here are some of the organizations who are taking the lead on this set of issues - at the national, state, and local levels.
+Here are some of the organizations who are taking the lead on this set of issues - at the national, state, and local levels
 * [Black Lives Matter](https://blacklivesmatter.com/)
 * [Color of Change](https://www.colorofchange.org)
 * [Courageous Conversations](https://courageousconversation.com/)
