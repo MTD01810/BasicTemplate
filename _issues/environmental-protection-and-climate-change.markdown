@@ -1,12 +1,16 @@
 ---
-title: Environmental Protection and Climate Change
+title: Environment
 date: 2017-11-07 16:28:00 -05:00
 categories:
 - Issues
+tags:
+- Environment
+- Climate Change
 layout: post
 ---
 
-Some of the many organizations working on mitigating the impact of humankind on the earth's climate:
+### Environmental Protection and Climate Change
+Some of the many organizations working on mitigating the impact of humankind on the earth's environment and climate:
 
 **Global**
 * [Greenpeace](http://www.greenpeace.org/usa/)
