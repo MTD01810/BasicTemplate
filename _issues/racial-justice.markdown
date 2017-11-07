@@ -16,7 +16,7 @@ Here are some of the organizations who are taking the lead on this set of issues
 * [Courageous Conversations](https://courageousconversation.com/)
 * [Mass Communities Action Network](http://www.mcan-pico.org/)
 * [NAACP](http://www.naacp.org/) - National Association for the Advancement of Colored People
-* [Showing Up for Racial Justice (SURJ)](http://www.showingupforracialjustice.org/)
+* [SURJ](http://www.showingupforracialjustice.org/) - Showing Up for Racial Justice
 * [The Undefeated](https://theundefeated.com/)
 
 <BR>
