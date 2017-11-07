@@ -28,4 +28,5 @@ Tracking the current state of policy and latest gun violence statistics:
 * [Gun Violence by the Numbers](https://everytownresearch.org/gun-violence-by-the-numbers/)
 
 <BR>
+[Mass Shootings Since Sandy Hook](https://www.vox.com/a/mass-shootings-sandy-hook) (Vox)
 ![mass_shootings_since_sandy_hook.png](/uploads/mass_shootings_since_sandy_hook.png)
