@@ -31,3 +31,6 @@ Some of the many organizations working on mitigating the impact of humankind on 
 * [AVIS](http://avisandover.org/)
 * [Merrimack Valley People for Peace](http://merrimackvalleypeopleforpeace.org/)
 * Lowell Sustainability Council
+
+<BR>
+![combating-global-warming-map.jpg](/uploads/combating-global-warming-map.jpg)
