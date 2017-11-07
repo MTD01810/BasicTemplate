@@ -5,6 +5,7 @@ categories:
 - Issues
 tags:
 - Social Justice
+layout: post
 ---
 
 Racial injustice is as old as mankind, but the Trump administration has brought a white-hot spotlight on to the inequities and egregious shortfalls of current American policies. There are a number of issues that are interrelated with racial justice such as economic equality, criminal justice reform, voter suppression, and gerrymandering. 
