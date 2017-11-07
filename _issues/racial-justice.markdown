@@ -18,3 +18,5 @@ Here are some of the organizations who are taking the lead on this set of issues
 * [NAACP](http://www.naacp.org/) - National Association for the Advancement of Colored People
 * [Showing Up for Racial Justice (SURJ)](http://www.showingupforracialjustice.org/)
 * [The Undefeated](https://theundefeated.com/)
+
+![kaepernick-logo.jpg](/uploads/kaepernick-logo.jpg)
