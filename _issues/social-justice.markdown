@@ -7,7 +7,7 @@ layout: post
 ---
 
 This issue category includes:
-* Racial Justice, Black Lives Matter
+* [Racial Justice](http://indivisibleandoverma.com/issues/racial-justice.html)
 * Immigration, DACA
 * Travel Ban 
 * LGBTQ rights
@@ -17,7 +17,7 @@ This issue category includes:
 * Criminal Justice, Prison Reform
 * Education Reform
 
-Organizations focused on social justice issues:
+Organizations focused on a broad range of social justice issues:
 * [ACLU](https://www.aclu.org/) & [ACLU Massachusetts](https://aclum.org/)
 * [The Center for Popular Democracy](http://populardemocracy.org/)
 * [The Leadership Conference](https://civilrights.org/)
