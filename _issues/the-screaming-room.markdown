@@ -12,6 +12,7 @@ The “new normal” of American politics is not normal. The Weekly List reminds
 
 Tracking the Trump-Russia Investigation:
 * [Team Trump’s ties to Russian interests](https://www.washingtonpost.com/graphics/national/trump-russia/?utm_term=.6a7cf975e8b4) (WaPo)
+* [Tracking the investigations of the Special Council, the Senate and House.](http://www.cnn.com/interactive/2017/politics/russia-investigations/) (CNN)
 
 Credible news sources to track headlines:
 * [The Washington Post](https://www.washingtonpost.com/) "Democracy dies in darkness"
