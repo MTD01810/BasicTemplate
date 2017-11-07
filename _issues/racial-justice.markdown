@@ -19,4 +19,4 @@ Here are some of the organizations who are taking the lead on this set of issues
 * [Showing Up for Racial Justice (SURJ)](http://www.showingupforracialjustice.org/)
 * [The Undefeated](https://theundefeated.com/)
 
-![kaepernick-logo.jpg](/uploads/kaepernick-logo.jpg)
+![kaepernick-logo-55f0bb.jpg](/uploads/kaepernick-logo-55f0bb.jpg)
