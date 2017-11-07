@@ -6,7 +6,7 @@ categories:
 tags:
 - environment
 - climate change
-is featured: true
+is featured: false
 main-image: "/uploads/climate-change.jpg"
 event-start-date: 2017-11-19 18:30:00 -05:00
 event-end-date: 2017-11-19 20:30:00 -05:00
