@@ -11,6 +11,7 @@ layout: post
 * [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html)
 
 **In order to defend and lead on issues such as:**
+* Environmental Protection and Climate Change
 * [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html)
 * [Health and Safety](http://indivisibleandoverma.com/issues/health-and-safety.html)
 * [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html)
