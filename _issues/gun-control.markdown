@@ -3,6 +3,9 @@ title: Gun Control
 date: 2017-11-07 12:21:00 -05:00
 categories:
 - Issues
+tags:
+- Gun Control
+- Safety
 layout: post
 ---
 
@@ -11,6 +14,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 Organizations working on gun control policies:
 * [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America
 * [Everytown for Gun Safety](https://everytown.org/)
+* [Sandy Hook Promise](https://www.sandyhookpromise.org/)
 * [Giffords: Courage to Fight Gun Violence](https://giffords.org/) - Gabby Gifford's organization
 * [Alliance for Gun Responsibility](https://gunresponsibility.org/)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
