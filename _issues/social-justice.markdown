@@ -7,7 +7,7 @@ layout: post
 ---
 
 This issue category includes:
-* Racial Justice, Black Lives Matter
+* [Racial Justice](http://indivisibleandoverma.com/issues/racial-justice.html)
 * Immigration, DACA
 * Travel Ban 
 * LGBTQ rights
