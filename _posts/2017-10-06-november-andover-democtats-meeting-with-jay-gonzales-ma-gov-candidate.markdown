@@ -1,6 +1,7 @@
 ---
 title: November Andover Democrats Meeting with Jay Gonzales
 date: 2017-10-06 13:53:00 -04:00
+published: false
 categories:
 - event
 main-image: "/uploads/Andover-old-town-hall.jpg"
