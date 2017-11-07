@@ -3,6 +3,8 @@ title: Mueller Special Investigation Making Progress
 date: 2017-09-26 17:07:00 -04:00
 categories:
 - Success
+tags:
+- Russia
 position: 0
 is featured: false
 main-image: "/uploads/trump-russia-aaa508.jpg"
