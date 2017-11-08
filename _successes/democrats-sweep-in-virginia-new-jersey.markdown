@@ -1,8 +1,10 @@
 ---
 title: Democrats sweep in Virginia, New Jersey
-date: 2017-11-07 21:07:00 -05:00
+date: 2017-01-01 21:07:00 -05:00
 categories:
 - Success
+tags:
+- Flip It Blue
 main-image: "/uploads/flip%20VA%20blue-ac0941.png"
 ---
 
