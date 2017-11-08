@@ -8,7 +8,7 @@ tags:
 main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist.jpg"
 ---
 
-Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, a signal that the resistance is gaining momentum. A definitive rejection of Trump and the current political climate: they won in historically entrenched red districts; women, blacks, Sikhs, and trans candidates won; and voters expressed a need to solve real civic issues over furthering hateful, discriminatory policies. Read more below. 
+Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, a signal that the resistance is gaining momentum. A definitive rejection of Trump and the current political climate: they won in historically entrenched red districts; women, blacks, Latinas, Asian-Americans, Sikhs, gay and transgender candidates won; and voters expressed a need to solve real civic issues over furthering hateful, discriminatory policies. Read more below. 
 
 **All Races**
 * [A List Of Historic Victories Democrats Had On Election Day](https://www.huffingtonpost.com/entry/democratic-victories-firsts-election-day_us_5a026c51e4b092053058cf38) (Huff Post)
