@@ -13,10 +13,10 @@ All Races
 * [Winners and losers from Election Day 2017](https://www.washingtonpost.com/news/the-fix/wp/2017/11/07/winners-and-losers-from-election-day-2017/?utm_term=.056c836327ba) (WaPo)
 
 Sister State Elections
-* [Democrats sweep in Virginia, New Jersey](http://www.cnn.com/2017/11/07/politics/2017-us-election-highlights/index.html)
-* [Virginia flips 14 seats blue in biggest Democratic pick-up since 1899](https://shareblue.com/virginia-flips-14-seats-blue-in-biggest-democratic-pick-up-since-1899/) (Shareblue)
-* [Democrats picked up 2 seats in the Georgia state legislature, too](https://www.vox.com/2017/11/7/16622128/georgia-election-results-state-senate) (Vox)
-* [Democrats In Washington State Win Full Control Of The Government](https://www.huffingtonpost.com/entry/washington-state-senate-special-election_us_5a00a45be4b0baea2633bfae) (Huff Post)
+* [Democrats sweep in **Virginia**, **New Jersey**](http://www.cnn.com/2017/11/07/politics/2017-us-election-highlights/index.html)
+* [**Virginia** flips 14 seats blue in biggest Democratic pick-up since 1899](https://shareblue.com/virginia-flips-14-seats-blue-in-biggest-democratic-pick-up-since-1899/) (Shareblue)
+* [Democrats picked up 2 seats in the **Georgia** state legislature, too](https://www.vox.com/2017/11/7/16622128/georgia-election-results-state-senate) (Vox)
+* [Democrats In **Washington** State Win Full Control Of The Government](https://www.huffingtonpost.com/entry/washington-state-senate-special-election_us_5a00a45be4b0baea2633bfae) (Huff Post)
 
 By the Issue
 * [Democrat Chris Hurst, a former TV news anchor whose girlfriend was murdered on live TV in 2015, won his race for Virginia's House of Delegates on a platform to reduce gun violence](http://wjla.com/news/political/former-tv-anchor-chris-hurst-fianc-of-journalist-killed-on-air-wins-seat-in-va-house) (ABC)
@@ -24,7 +24,7 @@ By the Issue
 * [Trans Woman Andrea Jenkins Elected to Minneapolis City Council](https://www.advocate.com/politics/2017/11/07/trans-woman-andrea-jenkins-elected-minneapolis-city-council) (Advocate)
 
 Sister Towns and Cities
-* [Andy Vargas Triumphs Over Shaun Toohey in Haverhill State Representative Race](http://www.whav.net/cms/andy-vargas-triumphs-over-shaun-toohey-in-haverhill-state-representative-race/) (WHAV)
-* Salem voters reelected Mayor Kim Driscoll, and rejected fear mongering and voted to be a sanctuary city (Mass Safe Communities Act)
-* [Lowell City Results](http://richardhowe.com/2017/11/07/2017-lowell-city-election-results/) - the progressives knocked a lot of wind out of the sails for their resident Trump Supporter, who came in 5th for city council.
-* [First female mayor in Manchester NH and first female mayor in Framingham](http://thehill.com/homenews/campaign/359273-dem-ousts-incumbent-republican-in-manchester-mayoral-race) (The Hill)
+* [Andy Vargas Triumphs Over Shaun Toohey in **Haverhill** State Representative Race](http://www.whav.net/cms/andy-vargas-triumphs-over-shaun-toohey-in-haverhill-state-representative-race/) (WHAV)
+* **Salem** voters reelected Mayor Kim Driscoll, and rejected fear mongering and voted to be a sanctuary city (Mass Safe Communities Act)
+* [**Lowell** City Results](http://richardhowe.com/2017/11/07/2017-lowell-city-election-results/) - the progressives knocked a lot of wind out of the sails for their resident Trump Supporter, who came in 5th for city council.
+* [First female mayor in **Manchester** NH and first female mayor in **Framingham**](http://thehill.com/homenews/campaign/359273-dem-ousts-incumbent-republican-in-manchester-mayoral-race) (The Hill)
