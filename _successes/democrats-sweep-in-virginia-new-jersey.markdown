@@ -5,6 +5,7 @@ categories:
 - Success
 tags:
 - Flip It Blue
+main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist.jpg"
 ---
 
 **All Races**
@@ -27,6 +28,3 @@ tags:
 * Salem voters reelected Mayor Kim Driscoll, and rejected fear mongering and voted to be a sanctuary city (Mass Safe Communities Act)
 * [Lowell City Results](http://richardhowe.com/2017/11/07/2017-lowell-city-election-results/) - the progressives knocked a lot of wind out of the sails for their resident Trump Supporter, who came in 5th for city council.
 * [First female mayor in Manchester NH and first female mayor in Framingham](http://thehill.com/homenews/campaign/359273-dem-ousts-incumbent-republican-in-manchester-mayoral-race) (The Hill)
-
-<BR>
-![big-blue-wave-b71633.png](/uploads/big-blue-wave-b71633.png)
