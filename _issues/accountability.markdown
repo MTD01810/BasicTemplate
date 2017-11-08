@@ -10,7 +10,6 @@ Getting the right people elected to office at all levels of government is just t
 
 Track votes at the Federal level:<BR>
 [![countable.png](/uploads/countable.png)](https://www.countable.us/) 
-<BR>
 [![project-vote-smart.jpg](/uploads/project-vote-smart.jpg)](https://votesmart.org/)
 <BR>
 
