@@ -9,7 +9,7 @@ main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist.jpg"
 ---
 
 **All Races**
-* [A List Of Historic Victories Democrats Had On Election Day](https://www.huffingtonpost.com/entry/democratic-victories-firsts-election-day_us_5a026c51e4b092053058cf38) - Candidate by Candidate (Huff Post)
+* [A List Of Historic Victories Democrats Had On Election Day](https://www.huffingtonpost.com/entry/democratic-victories-firsts-election-day_us_5a026c51e4b092053058cf38) (Huff Post)
 * [Winners and losers from Election Day 2017](https://www.washingtonpost.com/news/the-fix/wp/2017/11/07/winners-and-losers-from-election-day-2017/?utm_term=.056c836327ba) (WaPo)
 
 **Sister States**
