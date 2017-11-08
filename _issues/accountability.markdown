@@ -8,9 +8,9 @@ layout: post
 
 Getting the right people elected to office at all levels of government is just the first step in ensuring the passage, enforcement, and preservation of progressive policies. Tracking the voting record of those in office, both Republicans and Democrats, is front-and-center to ensuring that what is promised on the campaign trail lines up with what is supported throughout one's tenure. 
 
-Track votes at the Federal level:
-* [Countable](https://www.countable.us/)
-* [Vote Smart](https://votesmart.org/)
+Track votes at the Federal level:<BR>
+[![countable.png](/uploads/countable.png)](https://www.countable.us/) 
+[![project-vote-smart.jpg](/uploads/project-vote-smart.jpg)](https://votesmart.org/)
 
 Track bills coming up for a vote in Congress:
 * [Capitol Calendar by Indivisible](http://www.indivisible.org/resources/online/capitol-calendar/)
