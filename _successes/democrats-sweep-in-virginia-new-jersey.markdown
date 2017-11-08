@@ -24,6 +24,7 @@ By the Issue
 * [Trans Woman Andrea Jenkins Elected to Minneapolis City Council](https://www.advocate.com/politics/2017/11/07/trans-woman-andrea-jenkins-elected-minneapolis-city-council) (Advocate)
 
 Sister Towns and Cities
-* Progressive Andy Vargas wins in Haverhill
-* Salem rejected fear mongering and voted to be a sanctuary city (Mass Safe Communities Act)
+* [Andy Vargas Triumphs Over Shaun Toohey in Haverhill State Representative Race](http://www.whav.net/cms/andy-vargas-triumphs-over-shaun-toohey-in-haverhill-state-representative-race/) (WHAV)
+* Salem voters reelected Mayor Kim Driscoll, and rejected fear mongering and voted to be a sanctuary city (Mass Safe Communities Act)
+* [Lowell City Results](http://richardhowe.com/2017/11/07/2017-lowell-city-election-results/) - the progressives knocked a lot of wind out of the sails for their resident Trump Supporter, who came in 5th for city council.
 * [First female mayor in Manchester NH and first female mayor in Framingham](http://thehill.com/homenews/campaign/359273-dem-ousts-incumbent-republican-in-manchester-mayoral-race) (The Hill)
