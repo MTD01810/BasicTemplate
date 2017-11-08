@@ -17,10 +17,15 @@ Our upcoming elections:
 * [MA Gubernatorial race](http://indivisibleandoverma.com/issues/election-ma-governor) (Nov 6, 2018)
 
 Organizations working to flip red seats blue in strategic elections across the country: 
-* [Brand New Congress](https://brandnewcongress.org/)
-* [Flippable](https://www.flippable.org/)
-* [Sister District](https://www.sisterdistrict.com/)
+<BR>
+[![brand-new-congress.png](/uploads/brand-new-congress.png)](https://brandnewcongress.org/)
+<BS>
+[![flippable.png](/uploads/flippable.png)](https://www.flippable.org/)
+<BS>
+[![sister-district-project.jpg](/uploads/sister-district-project.jpg)](https://www.sisterdistrict.com/)
+<BS>
 [![swing-left-6e7a11.png](/uploads/swing-left-6e7a11.png)](https://swingleft.org/)
+<BR>
 
 Organizations supporting women candidates: 
 * [Emily's List](http://emilyslist.org/)
