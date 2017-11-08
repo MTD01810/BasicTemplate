@@ -24,6 +24,7 @@ Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, 
 * [Democrat Chris Hurst, a former TV news anchor whose girlfriend was murdered on live TV in 2015, won his race for Virginia's House of Delegates on a platform to reduce gun violence](http://wjla.com/news/political/former-tv-anchor-chris-hurst-fianc-of-journalist-killed-on-air-wins-seat-in-va-house) (ABC)
 * [Danica Roem wins Virginia race, becomes first trans state legislator ](https://www.pbs.org/newshour/politics/danica-roem-wins-virginia-race-becomes-first-trans-state-legislator)(PBS) "She unseated Republican Del. Bob Marshall, one of the state’s longest serving and most socially conservative lawmakers.
 * [Trans Woman Andrea Jenkins Elected to Minneapolis City Council](https://www.advocate.com/politics/2017/11/07/trans-woman-andrea-jenkins-elected-minneapolis-city-council) (Advocate)
+* [In Victory for Obamacare, Maine Voters Expand Medicaid](http://www.governing.com/topics/health-human-services/gov-election-2017-maine-medicaid-obamacare-health.html) (Governing)
 
 **Sister Towns and Cities**
 * [Andy Vargas Triumphs Over Shaun Toohey in Haverhill State Representative Race](http://www.whav.net/cms/andy-vargas-triumphs-over-shaun-toohey-in-haverhill-state-representative-race/) (WHAV)
