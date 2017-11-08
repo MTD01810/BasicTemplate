@@ -31,3 +31,4 @@ Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, 
 * Salem voters reelected Mayor Kim Driscoll, and rejected fear mongering and voted to be a sanctuary city (Mass Safe Communities Act)
 * [Lowell City Results](http://richardhowe.com/2017/11/07/2017-lowell-city-election-results/) - the progressives knocked a lot of wind out of the sails for their resident Trump Supporter, who came in 5th for city council.
 * [First female mayor in Manchester NH and first female mayor in Framingham](http://thehill.com/homenews/campaign/359273-dem-ousts-incumbent-republican-in-manchester-mayoral-race) (The Hill)
+* [Progressive Chalifoux Zephir wins primary for MA state Senate seat](http://www.telegram.com/news/20171107/chalifoux-zephir-wins-primary-for-state-senate) Worcester and Middlesex district (telegram.com) - Special election Dec 5th
