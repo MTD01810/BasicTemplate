@@ -19,11 +19,8 @@ Our upcoming elections:
 Organizations working to flip red seats blue in strategic elections across the country: 
 <BR>
 [![brand-new-congress.png](/uploads/brand-new-congress.png)](https://brandnewcongress.org/)
-
 [![flippable.png](/uploads/flippable.png)](https://www.flippable.org/)
-
 [![sister-district-project.jpg](/uploads/sister-district-project.jpg)](https://www.sisterdistrict.com/)
-
 [![swing-left-6e7a11.png](/uploads/swing-left-6e7a11.png)](https://swingleft.org/)
 <BR>
 
