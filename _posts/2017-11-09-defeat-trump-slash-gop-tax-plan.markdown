@@ -16,6 +16,10 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * Week of November 13: mark up in the Senate Finance Committee
 * Week of November 20: Senate vote
 
+**Do something about it**
+* [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
+* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) (Call script by Indivisible) - Contact info on the left
+
 **Get up to speed on the details**
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
@@ -25,7 +29,3 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 
 **Special Interest Group perspectives**
 * [Republican Tax Proposal Gets Failing Grade From Higher-Ed Groups](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
-
-**Do something about it**
-* [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
-* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) (Call script by Indivisible) - Contact info on the left
