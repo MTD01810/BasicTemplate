@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - tax
+- taxes
 is featured: true
 main-image: "/uploads/distribution-wealth-US.png"
 ---
