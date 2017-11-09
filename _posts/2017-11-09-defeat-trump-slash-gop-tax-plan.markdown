@@ -19,8 +19,10 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 **Do something about it**
 * [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
 * [Call your Members of Congress](https://www.trumptaxscam.org/scam/) - Call script provided, Contact info on the left
+* [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
 
 **Get up to speed on the details**
+* [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
 * [The House Tax Bill: Six Popular Breaks Being Eliminated](https://www.forbes.com/sites/anthonynitti/2017/11/02/the-house-tax-bill-six-popular-breaks-you-didnt-realize-youll-be-losing/#51b7bcba5453) (Forbes)
@@ -29,3 +31,6 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 
 **Special Interest Group perspectives**
 * **Higher-Ed** [Republican Tax Proposal Gets Failing Grade](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
+
+**Activist groups working on economic equality and justice**
+* [Inequality Media](https://www.inequalitymedia.org/)
