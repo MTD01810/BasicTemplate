@@ -28,4 +28,4 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 * [Patriotic Millionaire On Taxes](https://www.youtube.com/watch?v=KKJpx3-Zwdg) (YouTube)
 
 **Special Interest Group perspectives**
-* [Republican Tax Proposal Gets Failing Grade From Higher-Ed Groups](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
+* **Higher-Ed** [Republican Tax Proposal Gets Failing Grade](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
