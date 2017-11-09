@@ -1,6 +1,11 @@
 ---
 title: Defeat Trump/GOP Tax Plan
 date: 2017-11-09 13:11:00 -05:00
+categories:
+- action
+tags:
+- tax
+- taxes
 is featured: true
 main-image: "/uploads/distribution-wealth-US.png"
 ---
