@@ -29,3 +29,6 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 
 **Special Interest Group perspectives**
 * **Higher-Ed** [Republican Tax Proposal Gets Failing Grade](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
+
+**Activist groups working on economic equality and justice**
+* [Inequality Media](https://www.inequalitymedia.org/)
