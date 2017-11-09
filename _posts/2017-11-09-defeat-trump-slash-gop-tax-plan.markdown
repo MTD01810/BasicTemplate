@@ -22,6 +22,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
 
 **Get up to speed on the details**
+* [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
 * [The House Tax Bill: Six Popular Breaks Being Eliminated](https://www.forbes.com/sites/anthonynitti/2017/11/02/the-house-tax-bill-six-popular-breaks-you-didnt-realize-youll-be-losing/#51b7bcba5453) (Forbes)
