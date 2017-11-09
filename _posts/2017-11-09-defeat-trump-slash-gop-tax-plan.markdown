@@ -18,8 +18,8 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 * [Congresswoman Suzan DelBene On Republican Tax Plan](https://www.youtube.com/watch?v=h2B00vqD4zI) (YouTube)
 * [Patriotic Millionaire On Taxes](https://www.youtube.com/watch?v=KKJpx3-Zwdg) (YouTube)
 
-**Special Interest Groups perspectives**
+**Special Interest Group perspectives**
 * [Republican Tax Proposal Gets Failing Grade From Higher-Ed Groups](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
 
 **Do something about it**
-* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) (contact info on the left)
+* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) (Call script by Indivisible) - Contact info on the left
