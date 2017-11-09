@@ -7,7 +7,7 @@ tags:
 - tax
 - taxes
 is featured: true
-main-image: "/uploads/distribution-wealth-US.png"
+main-image: "/uploads/us-share-of-net-worth.jpg"
 ---
 
 **Get up to speed on the details**
