@@ -11,9 +11,9 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 ---
 
 **Current timeline**
-* Week of November 6: multi-day mark up in the House Ways & Means Committee
+* Week of November 6: Multi-day mark up in the House Ways & Means Committee
 * Week of November 13: House vote
-* Week of November 13: mark up in the Senate Finance Committee
+* Week of November 13: Mark up in the Senate Finance Committee
 * Week of November 20: Senate vote
 
 **Do something about it**
