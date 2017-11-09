@@ -18,7 +18,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 
 **Do something about it**
 * [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
-* [Call your Members of Congress - call script provided](https://www.trumptaxscam.org/scam/) (Indivisible) - Contact info on the left
+* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) - Call script provided, Contact info on the left
 
 **Get up to speed on the details**
 * [Six Charts That Help Explain
