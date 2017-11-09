@@ -6,6 +6,7 @@ date: 2017-11-09 13:11:00 -05:00
 **Get up to speed on the details**
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
+* [The House Tax Bill: Six Popular Breaks Being Eliminated](https://www.forbes.com/sites/anthonynitti/2017/11/02/the-house-tax-bill-six-popular-breaks-you-didnt-realize-youll-be-losing/#51b7bcba5453) (Forbes)
 * [Overview of bill's timeline](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
 * [Congresswoman Suzan DelBene On Republican Tax Plan](https://www.youtube.com/watch?v=h2B00vqD4zI) (YouTube)
 * [Patriotic Millionaire On Taxes](https://www.youtube.com/watch?v=KKJpx3-Zwdg) (YouTube)
