@@ -34,3 +34,4 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 
 **Activist groups working on economic equality and justice**
 * [Inequality Media](https://www.inequalitymedia.org/)
+* [Not One Penny](https://notonepenny.org/)
