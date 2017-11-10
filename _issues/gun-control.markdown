@@ -15,7 +15,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
 
 **Organizations working on gun reform** - Support, donate, amplify on social media
-* [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America
+* [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America - Email MA chapter Massachusetts@momschapterleaders.org
 * [Everytown for Gun Safety](https://everytown.org/)
 * [Sandy Hook Promise](https://www.sandyhookpromise.org/)
 * [Giffords: Courage to Fight Gun Violence](https://giffords.org/) - Gabby Gifford's organization
@@ -31,7 +31,8 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 
 **Tracking the current state of policy**
 * [Browse Gun Laws by Policy Area](http://bit.ly/2yOK0v1) (Giffords: Law Center to Prevent Gun Violence )
-* [Trace the Guns](https://tracetheguns.org/#)(Mayors Against Illegal Guns) - Search state-level gun control policies
+* [Trace the Guns](https://tracetheguns.org/#)
+ (Mayors Against Illegal Guns) - Search state-level gun control policies
 * [Gun Law in the United States](http://bit.ly/1kLKSVc) (Wikipedia)
 
 **Tracking the latest gun violence incidents and statistics**
