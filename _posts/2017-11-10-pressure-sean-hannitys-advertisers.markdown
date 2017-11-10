@@ -12,3 +12,5 @@ Sean Hannity is functioning as a propagandist in order to advance a political ag
 Given the intensity of his promotion of Trump’s political interests as well as his reported clandestine collaborations, companies that sponsor Hannity’s show are essentially supporting financially a partisan operation. 21st Century Fox (Fox News’ parent company) has yet to hold Hannity accountable for his extremism, deceit, and reckless conspiracy peddling.
 
 Click here to see a list of [Hannity's advertisers](http://bit.ly/2rQKKb7) (Media Matters)
+
+[Read more about the progress](http://bit.ly/2zuhZby) these boycotts have made (HuffPost)
