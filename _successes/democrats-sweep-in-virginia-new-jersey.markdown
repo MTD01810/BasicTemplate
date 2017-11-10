@@ -11,6 +11,7 @@ main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist.jpg"
 Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, a signal that the resistance is gaining momentum. A definitive rejection of Trump and the current political climate: they won in historically entrenched red districts; women, blacks, Latinas, Asian-Americans, Sikhs, gay and transgender candidates won; and voters expressed a need to solve real civic issues over furthering hateful, discriminatory policies. Read more below. 
 
 **All Races**
+* [Big Blue Tidal Wave](https://www.sisterdistrict.com/) (Sister District) - "On November 7, 2017, we won 13 of our 14 Sister Races, and one is headed for a recount on a razor thin margin of 12 votes. We flipped the Senate in Washington to turn it into a Democratic trifecta state, and we are within striking distance of flipping the Virginia House of Delegates. Democrats also swept statewide races tonight: Governor, Lieutenant Governor, and Attorney General in Virginia and Governor in New Jersey. This is a big, beautiful, blue tidal wave—and we are going to ride it straight into 2018."
 * [A List Of Historic Victories Democrats Had On Election Day](https://www.huffingtonpost.com/entry/democratic-victories-firsts-election-day_us_5a026c51e4b092053058cf38) (Huff Post)
 * [Winners and losers from Election Day 2017](https://www.washingtonpost.com/news/the-fix/wp/2017/11/07/winners-and-losers-from-election-day-2017/?utm_term=.056c836327ba) (WaPo)
 
