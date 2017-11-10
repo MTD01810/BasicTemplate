@@ -24,7 +24,8 @@ National
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
 * [The Brady Campaign to Prevent Gun Violence](https://www.bradycampaign.org/)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
-State organizations
+
+State
 * [States United to Prevent Gun Violence](http://ceasefireusa.org/)
 
 **Tracking NRA money and political influence**
