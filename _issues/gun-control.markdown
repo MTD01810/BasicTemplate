@@ -14,7 +14,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 **What you can do today**
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
 
-Organizations working on gun reform - **Support, donate, amplify on social media**
+Organizations working on gun reform - **Support, donate, amplify on social media** <BR>
 National
 * [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America
 * [Everytown for Gun Safety](https://everytown.org/)
