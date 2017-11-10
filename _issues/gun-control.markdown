@@ -23,6 +23,7 @@ National
 * [Alliance for Gun Responsibility](https://gunresponsibility.org/)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
 * [The Brady Campaign to Prevent Gun Violence](https://www.bradycampaign.org/)
+* [Coalition to Stop Gun Violence](https://www.csgv.org/)
 State organizations
 * [States United to Prevent Gun Violence](http://ceasefireusa.org/)
 
