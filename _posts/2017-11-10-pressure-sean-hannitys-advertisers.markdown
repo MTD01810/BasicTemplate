@@ -1,5 +1,5 @@
 ---
-title: Pressure Sean Hannity's Advertisers
+title: Boycott Sean Hannity's Advertisers
 date: 2017-11-10 12:32:00 -05:00
 categories:
 - action
