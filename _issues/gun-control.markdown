@@ -30,7 +30,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [Open Secrets.org - NRA contributions](https://www.opensecrets.org/orgs/summary.php?id=d000000082)
 
 **Tracking the current state of policy and latest gun violence statistics**
-* [Browse Gun Laws by Policy Area] (http://bit.ly/2yOK0v1) (Giffords: Law Center to Prevent Gun Violence )
+* [Browse Gun Laws by Policy Area](http://bit.ly/2yOK0v1) (Giffords: Law Center to Prevent Gun Violence )
 * [Gun Law in the United States](http://bit.ly/1kLKSVc) (Wikipedia)
 * [Trace the Guns](https://tracetheguns.org/#) - Mayors Against Illegal Guns tool to navigate state-level gun control policies
 * [Gun Violence by the Numbers](https://everytownresearch.org/gun-violence-by-the-numbers/)
