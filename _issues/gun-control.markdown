@@ -21,7 +21,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [Giffords: Courage to Fight Gun Violence](https://giffords.org/) - Gabby Gifford's organization
 * [Alliance for Gun Responsibility](https://gunresponsibility.org/)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
-* [The Brady Campaign to Prevent Gun Violence](https://www.bradycampaign.org/)
+* [The Brady Campaign to Prevent Gun Violence](https://www.bradycampaign.org/) - Join [Mass chapter](http://bit.ly/2zMnFhP)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
 * [States United to Prevent Gun Violence](http://ceasefireusa.org/)
 
@@ -30,6 +30,8 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [Open Secrets.org - NRA contributions](https://www.opensecrets.org/orgs/summary.php?id=d000000082)
 
 **Tracking the current state of policy and latest gun violence statistics**
+* [Browse Gun Laws by Policy Area](http://bit.ly/2yOK0v1) (Giffords: Law Center to Prevent Gun Violence )
+* [Gun Law in the United States](http://bit.ly/1kLKSVc) (Wikipedia)
 * [Trace the Guns](https://tracetheguns.org/#) - Mayors Against Illegal Guns tool to navigate state-level gun control policies
 * [Gun Violence by the Numbers](https://everytownresearch.org/gun-violence-by-the-numbers/)
 
