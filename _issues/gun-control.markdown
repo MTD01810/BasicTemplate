@@ -13,6 +13,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 
 **What you can do today**
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
+* Text 'REJECT' to 644-33 - Tell MoCs to reject the NRA's radical agenda
 
 **Organizations working on gun reform** - Support, donate, amplify on social media
 * [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America - Follow [Mass chapter](http://bit.ly/2hlyHPW) on facebook
