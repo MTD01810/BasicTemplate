@@ -28,7 +28,7 @@ National
 State
 * [States United to Prevent Gun Violence](http://ceasefireusa.org/)
 
-**Tracking NRA money and political influence**
+Tracking NRA money and political influence
 * [Follow the Money.org - NRA contributions](https://www.followthemoney.org/entity-details?eid=1854)
 * [Open Secrets.org - NRA contributions](https://www.opensecrets.org/orgs/summary.php?id=d000000082)
 
