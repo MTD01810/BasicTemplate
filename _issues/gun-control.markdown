@@ -31,7 +31,8 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 
 **Tracking the current state of policy**
 * [Browse Gun Laws by Policy Area](http://bit.ly/2yOK0v1) (Giffords: Law Center to Prevent Gun Violence )
-* [Trace the Guns](https://tracetheguns.org/#)(Mayors Against Illegal Guns) - Search state-level gun control policies
+* [Trace the Guns](https://tracetheguns.org/#)
+ (Mayors Against Illegal Guns) - Search state-level gun control policies
 * [Gun Law in the United States](http://bit.ly/1kLKSVc) (Wikipedia)
 
 **Tracking the latest gun violence incidents and statistics**
