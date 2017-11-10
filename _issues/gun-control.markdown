@@ -29,10 +29,14 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [Follow the Money.org - NRA contributions](https://www.followthemoney.org/entity-details?eid=1854)
 * [Open Secrets.org - NRA contributions](https://www.opensecrets.org/orgs/summary.php?id=d000000082)
 
-**Tracking the current state of policy and latest gun violence statistics**
+**Tracking the current state of policy**
 * [Browse Gun Laws by Policy Area](http://bit.ly/2yOK0v1) (Giffords: Law Center to Prevent Gun Violence )
 * [Gun Law in the United States](http://bit.ly/1kLKSVc) (Wikipedia)
 * [Trace the Guns](https://tracetheguns.org/#) - Mayors Against Illegal Guns tool to navigate state-level gun control policies
+
+**Tracking the latest gun violence incidents and statistics**
+* [The Gun Violence Archive](http://www.gunviolencearchive.org/)
+* [Mass Shooting Tracker](http://bit.ly/22O38iV)
 * [Gun Violence by the Numbers](https://everytownresearch.org/gun-violence-by-the-numbers/)
 
 <BR>
