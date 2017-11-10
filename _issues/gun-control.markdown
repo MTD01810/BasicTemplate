@@ -14,13 +14,19 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 **What you can do today**
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
 
-**Organizations working on gun control policies**
+Organizations working on gun reform - **Support, donate, amplify on social media**
+National
 * [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America
 * [Everytown for Gun Safety](https://everytown.org/)
 * [Sandy Hook Promise](https://www.sandyhookpromise.org/)
 * [Giffords: Courage to Fight Gun Violence](https://giffords.org/) - Gabby Gifford's organization
 * [Alliance for Gun Responsibility](https://gunresponsibility.org/)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
+* [The Brady Campaign to Prevent Gun Violence](https://www.bradycampaign.org/)
+* [Coalition to Stop Gun Violence](https://www.csgv.org/)
+
+State
+* [States United to Prevent Gun Violence](http://ceasefireusa.org/)
 
 **Tracking NRA money and political influence**
 * [Follow the Money.org - NRA contributions](https://www.followthemoney.org/entity-details?eid=1854)
