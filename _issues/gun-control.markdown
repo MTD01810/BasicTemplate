@@ -14,8 +14,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 **What you can do today**
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
 
-Organizations working on gun reform - **Support, donate, amplify on social media** <BR>
-National
+**Organizations working on gun reform** - Support, donate, amplify on social media
 * [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America
 * [Everytown for Gun Safety](https://everytown.org/)
 * [Sandy Hook Promise](https://www.sandyhookpromise.org/)
@@ -24,8 +23,6 @@ National
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
 * [The Brady Campaign to Prevent Gun Violence](https://www.bradycampaign.org/)
 * [Coalition to Stop Gun Violence](https://www.csgv.org/)
-
-State
 * [States United to Prevent Gun Violence](http://ceasefireusa.org/)
 
 **Tracking NRA money and political influence**
