@@ -8,7 +8,7 @@ layout: post
 ### Our Primary Mission
 **To elect progressive candidates and reform the electoral system to ensure a more representative government** 
 * [2018 - Flip It Blue](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html) - Getting progressive candidates elected with the rules we have today
-* [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html) - Changing the rules of the to improve the integrity and representation of future elections
+* [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html) - Changing the rules to improve the integrity and representation of future elections
 
 **In order to defend and lead on issues such as:**
 * [Environmental Protection and Climate Change](http://indivisibleandoverma.com/issues/environmental-protection-and-climate-change.html) - Protecting the resources we have, slowing climate change, and supporting renewable energy sources
