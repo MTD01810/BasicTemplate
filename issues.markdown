@@ -11,7 +11,7 @@ layout: post
 * [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html) - Changing the rules to improve the representation of future elections
 
 **In order to defend and lead on issues such as:**
-* [Environment](http://indivisibleandoverma.com/issues/environmental-protection-and-climate-change.html) - Protecting the resources we have, slowing climate change, and supporting renewable energy sources
+* [Environment](http://indivisibleandoverma.com/issues/environmental-protection-and-climate-change.html) - Protecting the resources we have, climate change, renewable energy
 * [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html) - Black lives matter, immigration/DACA, LGBTQ, women, labor, and education
 * [Health and Safety](http://indivisibleandoverma.com/issues/health-and-safety.html) - Healthcare, gun control, opioid crisis, womens' health
 * [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html) - Tax reform, transparency
