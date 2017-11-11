@@ -21,4 +21,4 @@ Here are the organizations who are fighting right along beside us.
 
 #resist #persist
 
-**The Boston Women's March** - 175,000 protesters gathered on the Boston Common the day after the inauguration of President Donald Trump
+**The Boston Women's March** - 175,000 protesters gathered on the Boston Common Jan 21, 2017
