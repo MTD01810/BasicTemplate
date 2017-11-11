@@ -18,4 +18,5 @@ layout: post
 
 **Trump and the GOP** <BR>
 Are actively working to erode our values on all fronts. It's exhausting, emotional, and overwhelming. So for the moments when you're just mad, please enter:
-* [The Screaming Room](http://indivisibleandoverma.com/issues/the-screaming-room) - Resisting the Trump agenda
+* [The Screaming Room](http://indivisibleandoverma.com/issues/the-screaming-room) - This is not normal
+* A Brave Space - You are not alone
