@@ -14,4 +14,3 @@ Here are the organizations who are fighting right along beside you. #resist #per
 * [Democratic Coalition Against Trump](http://bit.ly/2zOHh55)
 * [We Are the 65](http://thesixtyfive.org/home) - Representing the 65 million voters who rejected Trump on election day
 * [Betsy Riot](http://betsyriot.com/)
-* [Resist Here](http://resisthere.org/)
