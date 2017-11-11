@@ -17,5 +17,9 @@ Here are the organizations who are fighting right along beside us.
 * [We Are the 65](http://thesixtyfive.org/home) - Representing the 65 million voters who rejected Trump on election day
 * [Betsy Riot](http://betsyriot.com/)
 * [Stand Up America](https://www.standupamerica.com/)
+* [Wall of Us](http://bit.ly/2zBsJ5w)
 
-#resist #persist
+> #resist #persist
+
+The Boston Women's March - 175,000 protesters gathered on the Boston Common the day after the inauguration of President Donald Trump
+
