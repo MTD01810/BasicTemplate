@@ -10,6 +10,7 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 
 ### Resisting the Trump Agenda
 * [The Weekly List](http://theweeklylist.org/) -The “new normal” of American politics is not normal. The Weekly List reminds us of that. On a weekly basis, the List tracks specific news stories representing eroding norms under the current regime. Taken together, they reveal a nation pushed towards authoritarianism, the wielding of unchecked governmental authority by one person or group at the expense of the freedom of those who oppose them.
+* [WTF Just Happened Today?](http://bit.ly/2l2FvCp) - The daily shock and awe in national politics
 
 
 ### Tracking the Trump-Russia Investigation
