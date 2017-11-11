@@ -7,14 +7,14 @@ layout: post
 
 ### Our Primary Mission
 **To elect progressive candidates and reform the electoral system to ensure a more representative government** 
-* [2018 - Flip It Blue](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html)
-* [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html)
+* [2018 - Flip It Blue](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html) - Getting progressive candidates elected with the rules we have today
+* [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html) - Changing the rules of the to improve the integrity and representation of future elections
 
 **In order to defend and lead on issues such as:**
-* [Environmental Protection and Climate Change](http://indivisibleandoverma.com/issues/environmental-protection-and-climate-change.html)
-* [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html)
-* [Health and Safety](http://indivisibleandoverma.com/issues/health-and-safety.html)
-* [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html)
+* [Environmental Protection and Climate Change](http://indivisibleandoverma.com/issues/environmental-protection-and-climate-change.html) - Protecting the resources we have, slowing climate change, and supporting renewable energy sources
+* [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html) - Black lives matter, immigration/DACA, LGBTQ, women, labor, and education
+* [Health and Safety](http://indivisibleandoverma.com/issues/health-and-safety.html) - Healthcare, gun control, opioid crisis, womens' health
+* [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html) - Tax reform, transparency
 
 **Trump and the GOP** <BR>
 Are actively working to erode our values on all fronts. It's exhausting, emotional, and overwhelming. So for the moments when you're just mad, please enter:
