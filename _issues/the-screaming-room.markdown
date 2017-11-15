@@ -22,5 +22,7 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 * [The New York Times](https://www.nytimes.com/)
 * [News & Guts](https://www.newsandgutsmedia.com/) (Dan Rather's digital channel)
 <BR>
-**The Chart, Version 3.0: What, Exactly, Are We Reading?** ([All Generalizations are False](http://bit.ly/2hptruB))
+**The Chart, Version 3.0: What, Exactly, Are We Reading?** ([All Generalizations are False]
+<BR>
+(http://bit.ly/2hptruB))
 ![media-literacy-venn-v03.jpg](/uploads/media-literacy-venn-v03.jpg)
