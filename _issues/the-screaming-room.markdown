@@ -22,4 +22,4 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 * [The New York Times](https://www.nytimes.com/)
 * [News & Guts](https://www.newsandgutsmedia.com/) (Dan Rather's digital channel)
 <BR>
-![media-literacy-venn-diagram.jpg](/uploads/media-literacy-venn-diagram.jpg)
+![media-literacy-venn-v03.jpg](/uploads/media-literacy-venn-v03.jpg)
