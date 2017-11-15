@@ -34,9 +34,9 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 * [Patriotic Millionaire Tax Plan Overview on Fox](https://www.youtube.com/watch?v=KKJpx3-Zwdg) (YouTube)
 * [Selling Plutocracy as Populism](https://www.vanityfair.com/news/2017/08/donald-trump-tax-speech) (Vanity Fair) plutocracy (def) - government or controlling class of the wealthy
 
-**Special Interest Group perspectives**
-* **Higher-Ed** [Republican Tax Proposal Gets Failing Grade](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
-
 **Activist groups working on economic equality and justice**
 * [Inequality Media](https://www.inequalitymedia.org/)
 * [Not One Penny](https://notonepenny.org/)
+
+**Special Interest Group perspectives**
+* **Higher-Ed** [Republican Tax Proposal Gets Failing Grade](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
