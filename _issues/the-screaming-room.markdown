@@ -18,7 +18,8 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 * [Tracking the investigations of the Special Council, the Senate and House.](http://www.cnn.com/interactive/2017/politics/russia-investigations/) (CNN)
 
 Objective analysis of controversial topics
-* [Fox's Shep Smith takes apart the Uranium One conspiracy](http://bit.ly/2APXpjW) (Media Matters)
+* [Fox's Shep Smith takes apart the Uranium One conspiracy](http://bit.ly/2APXpjW) (Media Matters 14Nov17)
+* [Uranium One Story: Fake News Weaponized Against Hillary Clinton](http://bit.ly/2hDgocP) (MSNBC 30Oct17)
 
 **Credible news sources to track headlines**
 * [The Washington Post](https://www.washingtonpost.com/) "Democracy dies in darkness"
