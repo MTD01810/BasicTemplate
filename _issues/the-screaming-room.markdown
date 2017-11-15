@@ -19,7 +19,7 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 
 **Objective analysis of controversial topics**
 * [Fox's Shep Smith takes apart the Uranium One conspiracy](http://bit.ly/2APXpjW) (Media Matters 14Nov17)
-* [[Uranium One Story: Joy Ann Reid takes apart conservative reporter's talking reports](http://bit.ly/2zLpJUp)](http://bit.ly/2hDgocP) (MSNBC 29Oct17)
+* [Uranium One Story: Joy Ann Reid takes apart conservative reporter's talking reports](http://bit.ly/2zLpJUp) (MSNBC 29Oct17)
 
 **Credible news sources to track headlines**
 * [The Washington Post](https://www.washingtonpost.com/) "Democracy dies in darkness"
