@@ -22,6 +22,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
 
 **Get up to speed on the details**
+* [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA) (American Federation of Teachers, AFL-CIO)
 * [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
