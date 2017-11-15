@@ -13,7 +13,7 @@ layout: post
 Some of the many organizations working on mitigating the impact of humankind on the earth's environment and climate:
 
 **Recent Headlines**
-* [Syria Joins Paris Climate Accord, Leaving Only U.S. Opposed](http://nyti.ms/2iC5RuC) (NYT)
+* [Syria Joins Paris Climate Accord, Leaving Only U.S. Opposed](http://nyti.ms/2iC5RuC) (NYT 7Nov17)
 
 **Global**
 * [Greenpeace](http://www.greenpeace.org/usa/)
