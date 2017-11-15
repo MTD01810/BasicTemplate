@@ -6,6 +6,7 @@ categories:
 tags:
 - tax
 - taxes
+- tax reform
 is featured: true
 main-image: "/uploads/us-share-of-net-worth.jpg"
 ---
@@ -20,8 +21,10 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
 * [Call your Members of Congress](https://www.trumptaxscam.org/scam/) - Call script provided, Contact info on the left
 * [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
+* [Stop Trump Tax Cuts](http://stoptrumptaxcuts.org/events/) - Toolkits
 
 **Get up to speed on the details**
+* [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA) (American Federation of Teachers, AFL-CIO)
 * [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
