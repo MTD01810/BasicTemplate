@@ -14,8 +14,8 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 
 
 **Tracking the Trump-Russia Investigation**
-* [Team Trump’s ties to Russian interests](https://www.washingtonpost.com/graphics/national/trump-russia/?utm_term=.6a7cf975e8b4) (WaPo)
-* [Tracking the investigations of the Special Council, the Senate and House.](http://www.cnn.com/interactive/2017/politics/russia-investigations/) (CNN)
+* [Team Trump’s ties to Russian interests](https://www.washingtonpost.com/graphics/national/trump-russia/?utm_term=.6a7cf975e8b4) (WaPo 30Oct17)
+* [Tracking the investigations of the Special Council, the Senate and House.](http://www.cnn.com/interactive/2017/politics/russia-investigations/) (CNN 13Nov17)
 
 **Objective analysis of controversial topics**
 * [Fox's Shep Smith takes apart the Uranium One conspiracy](http://bit.ly/2APXpjW) (Media Matters 14Nov17)
