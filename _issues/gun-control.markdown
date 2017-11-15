@@ -11,6 +11,9 @@ layout: post
 
 It's hard to comprehend that a first world country has such a frequent, deadly problem *and* the means to mitigate the issue, and yet year over year nothing changes. Enough. This is unacceptable. 
 
+**Recent Headlines**
+* [Massachusetts becomes first state to ban bump stocks](http://bit.ly/2xZHY6Y) (Mass Live 03Nov17)
+
 **What you can do today**
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
 * Text 'REJECT' to 644-33 - Tell MoCs to reject the NRA's radical agenda
