@@ -20,6 +20,7 @@ Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, 
 * [Virginia flips 14 seats blue in biggest Democratic pick-up since 1899](https://shareblue.com/virginia-flips-14-seats-blue-in-biggest-democratic-pick-up-since-1899/) (Shareblue)
 * [Democrats picked up 2 seats in the Georgia state legislature, too](https://www.vox.com/2017/11/7/16622128/georgia-election-results-state-senate) (Vox)
 * [Democrats In Washington State Win Full Control Of The Government](https://www.huffingtonpost.com/entry/washington-state-senate-special-election_us_5a00a45be4b0baea2633bfae) (Huff Post)
+* **UPDATE** [Democrats Just Scored A Major Victory In Tonight’s Oklahoma Special Election](http://bit.ly/2js3cI3) (Verified Politics, Nov 15)
 
 **By the Issue**
 * [Democrat Chris Hurst, a former TV news anchor whose girlfriend was murdered on live TV in 2015, won his race for Virginia's House of Delegates on a platform to reduce gun violence](http://wjla.com/news/political/former-tv-anchor-chris-hurst-fianc-of-journalist-killed-on-air-wins-seat-in-va-house) (ABC)
