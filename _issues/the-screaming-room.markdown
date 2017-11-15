@@ -17,7 +17,7 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 * [Team Trump’s ties to Russian interests](https://www.washingtonpost.com/graphics/national/trump-russia/?utm_term=.6a7cf975e8b4) (WaPo)
 * [Tracking the investigations of the Special Council, the Senate and House.](http://www.cnn.com/interactive/2017/politics/russia-investigations/) (CNN)
 
-Objective analysis of controversial topics
+**Objective analysis of controversial topics**
 * [Fox's Shep Smith takes apart the Uranium One conspiracy](http://bit.ly/2APXpjW) (Media Matters 14Nov17)
 * [[Uranium One Story: Joy Ann Reid takes apart conservative reporter's talking reports](http://bit.ly/2zLpJUp)](http://bit.ly/2hDgocP) (MSNBC 29Oct17)
 
