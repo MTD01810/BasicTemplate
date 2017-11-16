@@ -1,6 +1,11 @@
 ---
 title: Census 2020 Integrity
 date: 2017-11-16 10:20:00 -05:00
+categories:
+- Issues
+tags:
+- census
+layout: post
 ---
 
 **Why does the US Census integrity matter? **
