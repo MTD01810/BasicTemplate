@@ -13,13 +13,13 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 
 **Current timeline**
 * Week of November 6: Multi-day mark up in the House Ways & Means Committee - [PASSED](http://www.businessinsider.com/trump-gop-tax-bill-vote-text-house-ways-and-means-committee-2017-11)
-* Week of November 13: House vote
+* Week of November 13: House vote [PASSED](http://nyti.ms/2hDqQRs)
 * Week of November 13: Mark up in the Senate Finance Committee
 * Week of November 20: Senate vote
 
 **Do something about it**
-* [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
 * [Call your Members of Congress](https://www.trumptaxscam.org/scam/) - Call script provided, Contact info on the left
+* [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
 * [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
 * [Stop Trump Tax Cuts](http://stoptrumptaxcuts.org/events/) - Toolkits
 
