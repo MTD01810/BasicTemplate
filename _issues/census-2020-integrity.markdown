@@ -16,5 +16,5 @@ The year 2020 Census, currently under way, is the 23rd decennial Census of the U
 * [United States Census Bureau](http://bit.ly/2hvVrwz)
 * [The purpose of the Census](http://bit.ly/2hDZfjg) (This Nation.com)
 
-* So what is the GOP doing to manipulate this data?
+**So what is the GOP doing to manipulate this data?**
 * [Eliminating LGBTQ people from the census](http://nbcnews.to/2juhqbt) (NBC) - "By erasing LGBTQ Americans from the 2020 U.S. Census, the Trump Administration is adding a disgusting entry to a long list of tactics they’ve adopted to legally deny services and legitimacy to hard-working LGBTQ Americans"
