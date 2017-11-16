@@ -5,6 +5,7 @@ categories:
 - Issues
 tags:
 - census
+- election integrity
 layout: post
 ---
 
