@@ -15,6 +15,7 @@ Another enormous focus of the Indivisible movement is to improve the integrity o
 * Voter suppression
 * Automatic voter registration
 * Paper ballot backups
+* Census 2020 integrity
 * Ensuring an informed public by defending a free press and mitigating fake news
 
 Some of the organizations we collaborate with on this front are:
