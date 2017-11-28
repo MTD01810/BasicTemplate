@@ -32,8 +32,8 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 * [The House Tax Bill: Six Popular Breaks Being Eliminated](https://www.forbes.com/sites/anthonynitti/2017/11/02/the-house-tax-bill-six-popular-breaks-you-didnt-realize-youll-be-losing/#51b7bcba5453) (Forbes)
 * [Congresswoman Suzan DelBene On Republican Tax Plan](https://www.youtube.com/watch?v=h2B00vqD4zI) (YouTube)
 * [Warren and Sanders on GOP Tax Plan](https://www.commondreams.org/news/2017/11/02/warren-and-sanders-deliver-3-minute-takedown-gops-pro-billionaire-tax-scam) (Common Dreams)
-* [Patriotic Millionaire Tax Plan Overview on Fox](https://www.youtube.com/watch?v=KKJpx3-Zwdg) (YouTube)
-* [Selling Plutocracy as Populism](https://www.vanityfair.com/news/2017/08/donald-trump-tax-speech) (Vanity Fair) plutocracy (def) - government or controlling class of the wealthy
+* [Patriotic Millionaire Tax Plan Overview](https://www.youtube.com/watch?v=KKJpx3-Zwdg) (Fox News on YouTube)
+* [Selling Plutocracy as Populism](https://www.vanityfair.com/news/2017/08/donald-trump-tax-speech) (Vanity Fair) *plutocracy *(def) - government or controlling class of the wealthy
 
 **Activist groups working on economic equality and justice**
 * [Inequality Media](https://www.inequalitymedia.org/)
