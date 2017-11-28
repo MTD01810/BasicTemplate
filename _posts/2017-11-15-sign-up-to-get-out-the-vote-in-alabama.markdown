@@ -1,0 +1,25 @@
+---
+title: Sign up to Get Out The Vote in Alabama
+date: 2017-11-15 10:44:00 -05:00
+published: false
+categories:
+- action
+tags:
+- flip it blue
+is featured: true
+main-image: "/uploads/flip%20VA%20blue.png"
+---
+
+### Special election in Alabama December 12th!
+
+**This is the race between**
+* [Roy Moore](http://bit.ly/2AeAYra) - accused of sexual assault
+* [Doug Jones](https://dougjonesforsenate.com/doug/) - NOT accused of sexual assault 
+
+**Do something about it**
+* [Write postcards to voters](http://bit.ly/2Bu587I)
+
+**Learn more about the race**
+* [How Doug Jones can pull it off](http://politi.co/2hE8tf2)
+* [Recent standings in the polls](http://53eig.ht/2zwQqeu) (FiveThirtyEight)
+
