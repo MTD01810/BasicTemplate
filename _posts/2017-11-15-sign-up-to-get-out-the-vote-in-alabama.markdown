@@ -17,6 +17,7 @@ main-image: "/uploads/alabama-senate-race.jpg"
 
 **Do something about it**
 * [Write postcards to voters](http://bit.ly/2Bu587I)
+* [Contribute to a program that will bus voters to the polls](https://www.gofundme.com/eliminateroymoore) (Flip Alabama)
 
 **Learn more about the race**
 * [How Doug Jones can pull it off](http://politi.co/2hE8tf2)
