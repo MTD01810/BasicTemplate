@@ -1,6 +1,7 @@
 ---
 title: 2nd Indivisible Massachusetts Statewide Conference
 date: 2017-10-07 22:11:00 -04:00
+published: false
 categories:
 - event
 tags:
