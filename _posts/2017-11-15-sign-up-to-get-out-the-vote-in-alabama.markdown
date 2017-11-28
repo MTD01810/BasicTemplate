@@ -16,7 +16,8 @@ main-image: "/uploads/alabama-senate-race.jpg"
 * [Doug Jones](https://dougjonesforsenate.com/doug/) - NOT accused of sexual assault 
 
 **Do something about it**
-* [Write postcards to voters](http://bit.ly/2Bu587I)
+* [Write postcards to voters](http://bit.ly/2Bu587I) (Postcards to Voters)
+* [Phone bank - call voters](http://bit.ly/2ACEKeo) (Indivisible Alabama)
 * [Contribute to a program that will bus voters to the polls](https://www.gofundme.com/eliminateroymoore) (Flip Alabama)
 
 **Learn more about the race**
