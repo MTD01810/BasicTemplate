@@ -15,7 +15,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * Week of November 6: Multi-day mark up in the House Ways & Means Committee - [PASSED](http://www.businessinsider.com/trump-gop-tax-bill-vote-text-house-ways-and-means-committee-2017-11)
 * Week of November 13: House vote [PASSED](http://nyti.ms/2hDqQRs)
 * Week of November 13: Mark up in the Senate Finance Committee [PASSED](http://www.cnn.com/2017/11/16/politics/tax-bill-committee/index.html)
-* Week of November 27: Senate vote - [What Happens Next](https://www.trumptaxscam.org/scam)
+* Week of November 27: SENATE VOTE
 
 **Do something about it**
 * [Phone bank people in key states](https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/) - Indivisible National automatic dialing tool, it's easy and private
