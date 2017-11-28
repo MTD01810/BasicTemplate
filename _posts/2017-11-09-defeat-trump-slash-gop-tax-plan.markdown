@@ -23,7 +23,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Amplify on social media - MA](https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#Massachusetts) - Tweet details to our Senators
 * [Amplify on social media - Key states]
  (https://trumptaxtoolkit.org/) - Graphics to tweet at key state Senators
-* [Press Toolkits and Events](http://stoptrumptaxcuts.org/events/) - Stop Trump Tax Cuts
+* [Contact the press, Attend events](http://stoptrumptaxcuts.org/events/) - Press toolkits and events from multiple organizations
 
 **Get up to speed on the details**
 * [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA) (American Federation of Teachers, AFL-CIO)
