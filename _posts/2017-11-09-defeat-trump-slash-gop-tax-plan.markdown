@@ -15,7 +15,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * Week of November 6: Multi-day mark up in the House Ways & Means Committee - [PASSED](http://www.businessinsider.com/trump-gop-tax-bill-vote-text-house-ways-and-means-committee-2017-11)
 * Week of November 13: House vote [PASSED](http://nyti.ms/2hDqQRs)
 * Week of November 13: Mark up in the Senate Finance Committee [PASSED](http://www.cnn.com/2017/11/16/politics/tax-bill-committee/index.html)
-* **Week of November 27: Senate vote**
+* Week of November 27: Senate vote - [What Happens Next](https://www.trumptaxscam.org/scam)
 
 **Do something about it**
 * [Phone bank people in key states](https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/) - Indivisible National automatic dialing tool, it's easy and private
@@ -25,7 +25,6 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Stop Trump Tax Cuts](http://stoptrumptaxcuts.org/events/) - Toolkits
 
 **Get up to speed on the details**
-* [Where we are and what happens next](https://www.trumptaxscam.org/scam) - Indivisible National
 * [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA) (American Federation of Teachers, AFL-CIO)
 * [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
