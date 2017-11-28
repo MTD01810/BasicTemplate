@@ -17,7 +17,7 @@ Both Mignon and Jessica plan to vote keep net neutrality. To defeat the net neut
 1. Ajit Pai (202-418-1000) or (202-418-2000)
 2. Michael O'Rielly (202-418-2300)
 3. Brendan Carr (202-418-2200)
-* [Submit a document to the FCC proceeding](http://bit.ly/2ps1o05) Enter *"I support strong net neutrality backed by Title 2 oversight of ISPs."* in the Brief Comments field
+* [Submit a document to the FCC proceeding](http://bit.ly/2qHNb2E) Click 'Express'. Enter *"I support strong net neutrality backed by Title 2 oversight of ISPs."* in the Brief Comments field
 * [Contact Congress and Sign the Petition](https://savethenetfromtrump.com/) (Save the Net from Trump)
 
 **Learn more about the issue**
