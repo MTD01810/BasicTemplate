@@ -14,16 +14,18 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 **Current timeline**
 * Week of November 6: Multi-day mark up in the House Ways & Means Committee - [PASSED](http://www.businessinsider.com/trump-gop-tax-bill-vote-text-house-ways-and-means-committee-2017-11)
 * Week of November 13: House vote [PASSED](http://nyti.ms/2hDqQRs)
-* Week of November 13: Mark up in the Senate Finance Committee
-* Week of November 20: Senate vote
+* Week of November 13: Mark up in the Senate Finance Committee [PASSED](http://www.cnn.com/2017/11/16/politics/tax-bill-committee/index.html)
+* **Week of November 27: Senate vote**
 
 **Do something about it**
-* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) - Call script provided, Contact info on the left
-* [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
+* [Phone bank people in key states](https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/) - Indivisible National automatic dialing tool, it's easy and private
+* [Text people in key states](https://act.moveon.org/survey/mo-text-team-schedule/) - from MoveOn.org, even easier, also private
 * [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
+* [Impact of Tax Scam on MA](https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#Massachusetts) - Tweet details to our Senators
 * [Stop Trump Tax Cuts](http://stoptrumptaxcuts.org/events/) - Toolkits
 
 **Get up to speed on the details**
+* [Where we are and what happens next](https://www.trumptaxscam.org/scam) - Indivisible National
 * [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA) (American Federation of Teachers, AFL-CIO)
 * [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
