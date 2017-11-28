@@ -1,6 +1,8 @@
 ---
 title: Demand the FCC Maintain Net Neutrality
 date: 2017-11-27 22:36:00 -05:00
+categories:
+- action
 main-image: "/uploads/net-neutrality.png"
 ---
 
