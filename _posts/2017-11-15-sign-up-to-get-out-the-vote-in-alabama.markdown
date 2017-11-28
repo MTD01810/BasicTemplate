@@ -21,5 +21,6 @@ main-image: "/uploads/alabama-senate-race.jpg"
 
 **Learn more about the race**
 * [How Doug Jones can pull it off](http://politi.co/2hE8tf2)
-* [Recent standings in the polls](http://53eig.ht/2zwQqeu) (FiveThirtyEight)
+* [Recent standings in the polls - Roy Moore pulling ahead - Nov 27](http://bit.ly/2zyqP4S) (Medium)
+* [Previous standings in the polls - Nov 22](http://53eig.ht/2zwQqeu) (FiveThirtyEight)
 
