@@ -13,12 +13,12 @@ The U.S. House of Representatives and the US Senate will not be involved in the 
 Both Mignon and Jessica plan to vote keep net neutrality. To defeat the net neutrality repeal, one of the other three needs to change their vote. Two of them are former Verizon executives.
 
 **Do something about it**
-* Call the FCC - [Call script](http://bit.ly/2jOR6sE)
+* [Call the FCC](http://bit.ly/2jOR6sE)
 1. Ajit Pai (202-418-1000) or (202-418-2000)
 2. Michael O'Rielly (202-418-2300)
 3. Brendan Carr (202-418-2200)
-* Submit a document to the FCC proceeding [GoFCCYourself.com](http://bit.ly/2ps1o05) Enter *"I support strong net neutrality backed by Title 2 oversight of ISPs."* in the Brief Comments field
-* Contact Congress and Sign the Petition - [Save the Net from Trump](https://savethenetfromtrump.com/)
+* [Submit a document to the FCC proceeding](http://bit.ly/2ps1o05) Enter *"I support strong net neutrality backed by Title 2 oversight of ISPs."* in the Brief Comments field
+* [Contact Congress and Sign the Petition](https://savethenetfromtrump.com/) (Save the Net from Trump)
 
 Learn more about the issue
 * [Why Net Neutrality matters](http://bit.ly/2l6zvwd) (Free Press)
