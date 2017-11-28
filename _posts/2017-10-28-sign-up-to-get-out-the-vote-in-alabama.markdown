@@ -1,5 +1,5 @@
 ---
-title: Sign up to Get Out The Vote in Virginia from Your Home State
+title: Sign up to Get Out The Vote in Alabama
 date: 2017-10-28 10:44:00 -04:00
 published: false
 categories:
@@ -10,7 +10,7 @@ is featured: true
 main-image: "/uploads/flip%20VA%20blue.png"
 ---
 
-### Critical election in Virgina November 7th!
+### Special election in Alabama December 12th!
 
 Indivisible groups are banding together to elect progressives up & down the ballot in Virginia, and we need help from your state! Sign up below to get out the vote with a virtual phone or text bank from your home state and our coordinators will send you the details. 
 
