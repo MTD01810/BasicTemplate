@@ -20,8 +20,9 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 **Do something about it**
 * [Phone bank people in key states](https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/) - Indivisible National automatic dialing tool, it's easy and private
 * [Text people in key states](https://act.moveon.org/survey/mo-text-team-schedule/) - from MoveOn.org, even easier, also private
-* [Social Media Toolkit](https://trumptaxtoolkit.org/) - Graphics for social media amplification
-* [Impact of Tax Scam on MA](https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#Massachusetts) - Tweet details to our Senators
+* [Amplify on social media - MA](https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#Massachusetts) - Tweet details to our Senators
+* [Amplify on social media - Key states]
+ (https://trumptaxtoolkit.org/) - Graphics to tweet at key state Senators
 * [Press Toolkits and Events](http://stoptrumptaxcuts.org/events/) - Stop Trump Tax Cuts
 
 **Get up to speed on the details**
