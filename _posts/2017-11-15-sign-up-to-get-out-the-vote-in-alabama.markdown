@@ -1,7 +1,6 @@
 ---
 title: Sign up to Get Out The Vote in Alabama
 date: 2017-11-15 10:44:00 -05:00
-published: false
 categories:
 - action
 tags:
