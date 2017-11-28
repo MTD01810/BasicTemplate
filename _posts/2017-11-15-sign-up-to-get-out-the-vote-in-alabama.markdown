@@ -5,8 +5,8 @@ categories:
 - action
 tags:
 - flip it blue
-is featured: true
-main-image: "/uploads/flip%20VA%20blue.png"
+is featured: false
+main-image: "/uploads/alabama-senate-race.jpg"
 ---
 
 ### Special election in Alabama December 12th!
