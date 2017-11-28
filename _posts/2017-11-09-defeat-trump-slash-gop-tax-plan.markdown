@@ -22,10 +22,10 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Text people in key states](https://act.moveon.org/survey/mo-text-team-schedule/) - from MoveOn.org, even easier, also private
 * [Amplify on social media - MA](https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#Massachusetts) - Tweet details to our Senators
 * [Amplify on social media - Key states](https://trumptaxtoolkit.org/) - Graphics to tweet at key state Senators
-* [Contact the press, Attend events](http://stoptrumptaxcuts.org/events/) - Press toolkits and events from multiple organizations
+* [Contact the press, attend events](http://stoptrumptaxcuts.org/events/) - Press toolkits and events from multiple organizations
 
 **Get up to speed on the details**
-* [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA) (American Federation of Teachers, AFL-CIO)
+* [Impact on families, economy and deficit](http://read.bi/2A0mMS4) (Business Insider)
 * [Common tax ‘reform’ questions, answered](http://www.epi.org/publication/tax-faqs/) (Economic Policy Institute)
 * [Six Charts That Help Explain
 the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html) (NYT)
@@ -40,4 +40,5 @@ the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/polit
 * [Not One Penny](https://notonepenny.org/)
 
 **Special Interest Group perspectives**
+* **American Federation of Teachers, AFL-CIO** [Massachusetts Effects of the Republican Tax Plan on Families](https://www.aft.org/map2017/?s=MA)
 * **Higher-Ed** [Republican Tax Proposal Gets Failing Grade](http://www.chronicle.com/article/Republican-Tax-Proposal-Gets/241662) (The Chronicle)
