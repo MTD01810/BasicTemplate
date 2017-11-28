@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/net-neutrality.png"
 ---
 
-The FCC has confirmed that they will vote on 12/14 to abolish the regulations that prevent internet service providers from blocking access to certain sites, throttling internet speeds, and otherwise controlling what websites and online services are available to their customers.
+The FCC has confirmed that they will vote on Dec 14 to abolish the regulations that prevent internet service providers from blocking access to certain sites, throttling internet speeds, and otherwise controlling what websites and online services are available to their customers.
 
 The U.S. House of Representatives and the US Senate will not be involved in the upcoming vote to maintain net neutrality. Only five people at the FCC get to vote: Ajit Pai, Mignon Clyburn, Michael O'Rielly, Brendan Carr, and Jessica Rosenworcel.
 
