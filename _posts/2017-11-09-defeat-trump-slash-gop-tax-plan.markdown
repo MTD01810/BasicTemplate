@@ -21,8 +21,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * [Phone bank people in key states](https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/) - Indivisible National automatic dialing tool, it's easy and private
 * [Text people in key states](https://act.moveon.org/survey/mo-text-team-schedule/) - from MoveOn.org, even easier, also private
 * [Amplify on social media - MA](https://www.trumptaxscam.org/impact-of-the-trump-tax-scam-by-state#Massachusetts) - Tweet details to our Senators
-* [Amplify on social media - Key states]
- (https://trumptaxtoolkit.org/) - Graphics to tweet at key state Senators
+* [Amplify on social media - Key states](https://trumptaxtoolkit.org/) - Graphics to tweet at key state Senators
 * [Contact the press, Attend events](http://stoptrumptaxcuts.org/events/) - Press toolkits and events from multiple organizations
 
 **Get up to speed on the details**
