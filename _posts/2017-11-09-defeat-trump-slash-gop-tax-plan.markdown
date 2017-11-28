@@ -18,7 +18,7 @@ main-image: "/uploads/us-share-of-net-worth.jpg"
 * **Week of November 27: Senate vote**
 
 **Do something about it**
-* [Call your Members of Congress](https://www.trumptaxscam.org/scam/) - Call script provided, Contact info on the left
+* [Call your Members of Congress](https://www.trumptaxscam.org/calls-to-kill-the-tax-scam/) - Call script provided, Contact info on the left
 * [Overview of what to do and when](https://www.trumptaxscam.org/scam/) (Trump Tax Scam by Indivisible)
 * [Trump Tax Toolkit](https://trumptaxtoolkit.org/) - Social media amplification
 * [Stop Trump Tax Cuts](http://stoptrumptaxcuts.org/events/) - Toolkits
