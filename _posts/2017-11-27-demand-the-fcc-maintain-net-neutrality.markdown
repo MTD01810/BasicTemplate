@@ -14,9 +14,9 @@ Both Mignon and Jessica plan to vote keep net neutrality. To defeat the net neut
 
 **Do something about it**
 * Call the FCC - [Call script](http://bit.ly/2jOR6sE)
-     Ajit Pai (202-418-1000) or (202-418-2000)
-     Michael O'Rielly (202-418-2300)
-     Brendan Carr (202-418-2200)
+<BR>     Ajit Pai (202-418-1000) or (202-418-2000)
+<BR>     Michael O'Rielly (202-418-2300)
+<BR>     Brendan Carr (202-418-2200)
 * File a document to the FCC proceeding (GoFCCYourself.com from John Oliver) - [Webform](http://bit.ly/2ps1o05) Enter "I support strong net neutrality backed by Title 2 oversight of ISPs." in Brief Comments field.
 * Contact Congress and Sign the - [Save the Net from Trump](https://savethenetfromtrump.com/)
 
