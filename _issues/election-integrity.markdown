@@ -21,16 +21,16 @@ Another enormous focus of the Indivisible movement is to improve the integrity o
 * Paper ballot backups
 * [Census 2020 integrity](http://indivisibleandoverma.com/issues/census-2020-integrity.html)
 
-Ensuring an informed public
+**Ensuring an informed public**
 * Defending a free press
 * Mitigating fake news
 * Civics 101 - federal, [state](http://bit.ly/2kcxyyG), local
 
-Tracking leaders of both parties
+**Tracking leaders of both parties**
 * [Accountability](http://indivisibleandoverma.com/issues/accountability.html) of those elected to office
 * Term limits
 
-Some of the organizations we collaborate with on this front are:
+**Organizations leading the charge**
 * [League of Women Voters](http://lwv.org/)
 * [Let People Vote](https://www.aclu.org/other/let-people-vote-removing-restrictions-and-barriers-voting-america)
 * [Mass Vote](http://massvote.org/)
