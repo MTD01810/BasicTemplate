@@ -1,5 +1,5 @@
 ---
-title: Sign up to Get Out The Vote in Alabama
+title: Get Out The Vote in Alabama - Support Doug Jones
 date: 2017-11-15 10:44:00 -05:00
 categories:
 - action
@@ -16,8 +16,9 @@ main-image: "/uploads/alabama-senate-race.jpg"
 * [Doug Jones](https://dougjonesforsenate.com/doug/) - NOT accused of sexual assault 
 
 **Do something about it**
-* [Write postcards to voters](http://bit.ly/2Bu587I) (Postcards to Voters)
 * [Phone bank - call voters](http://bit.ly/2ACEKeo) (Indivisible Alabama)
+* [Tweet for Doug Jones](http://bit.ly/2i2dzhN)
+* [Write postcards to voters](http://bit.ly/2Bu587I) (Postcards to Voters)
 * [Contribute to a program that will bus voters to the polls](https://www.gofundme.com/eliminateroymoore) (Flip Alabama)
 
 **Learn more about the race**
