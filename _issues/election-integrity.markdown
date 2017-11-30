@@ -11,7 +11,7 @@ layout: post
 Another enormous focus of the Indivisible movement is to improve the integrity of elections going forward. This includes efforts against: 
 
 **Getting money out of politics**
-* Campaign finance reform
+* [Campaign finance reform](http://bit.ly/2AfJeGO) (League of Women Voters)
 * Transparency of donors
 
 **Voting policies to ensure a representative government**
@@ -28,6 +28,7 @@ Ensuring an informed public
 
 Tracking leaders of both parties
 * [Accountability](http://indivisibleandoverma.com/issues/accountability.html) of those elected to office
+* Term limits
 
 Some of the organizations we collaborate with on this front are:
 * [League of Women Voters](http://lwv.org/)
