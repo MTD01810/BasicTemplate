@@ -17,7 +17,7 @@ main-image: "/uploads/alabama-senate-race.jpg"
 
 **Do something about it**
 * [Phone bank - call voters](http://bit.ly/2ACEKeo) (Indivisible Alabama)
-* [Tweet for Doug Jones](http://bit.ly/2i2dzhN)
+* [Tweet for Doug Jones](http://bit.ly/2i2dzhN) (DougJones4Senate)
 * [Write postcards to voters](http://bit.ly/2Bu587I) (Postcards to Voters)
 * [Contribute to a program that will bus voters to the polls](https://www.gofundme.com/eliminateroymoore) (Flip Alabama)
 
