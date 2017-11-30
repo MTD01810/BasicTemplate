@@ -12,7 +12,8 @@ layout: post
 It's hard to comprehend that a first world country has such a frequent, deadly problem *and* the means to mitigate the issue, and yet year over year nothing changes. Enough. This is unacceptable. 
 
 **Recent Headlines**
-* [Massachusetts becomes first state to ban bump stocks](http://bit.ly/2xZHY6Y) (Mass Live 03Nov17)
+* [Massachusetts becomes first state to ban bump stocks](http://bit.ly/2xZHY6Y) (Mass Live, 3 Nov 17)
+* [What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer](http://nyti.ms/2kdAPO5) (NYT, 7 Nov 17)
 
 **What you can do today**
 * [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
@@ -43,7 +44,6 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [The Gun Violence Archive](http://www.gunviolencearchive.org/)
 * [Mass Shooting Tracker](http://bit.ly/22O38iV)
 * [Gun Violence by the Numbers](https://everytownresearch.org/gun-violence-by-the-numbers/)
-* [What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer](http://nyti.ms/2kdAPO5) (NYT, 7 Nov 17)
 
 <BR>
 [**Mass Shootings Since Sandy Hook**](https://www.vox.com/a/mass-shootings-sandy-hook) (Vox)
