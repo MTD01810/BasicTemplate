@@ -1,5 +1,5 @@
 ---
-title: Get Out The Vote in Alabama - Support Doug Jones
+title: Get Out The Vote in Alabama - Support Doug Jones for Senate
 date: 2017-11-15 10:44:00 -05:00
 categories:
 - action
