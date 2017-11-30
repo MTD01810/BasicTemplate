@@ -43,6 +43,7 @@ It's hard to comprehend that a first world country has such a frequent, deadly p
 * [The Gun Violence Archive](http://www.gunviolencearchive.org/)
 * [Mass Shooting Tracker](http://bit.ly/22O38iV)
 * [Gun Violence by the Numbers](https://everytownresearch.org/gun-violence-by-the-numbers/)
+* [What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer](http://nyti.ms/2kdAPO5) (NYT, 7 Nov 17)
 
 <BR>
 [**Mass Shootings Since Sandy Hook**](https://www.vox.com/a/mass-shootings-sandy-hook) (Vox)
