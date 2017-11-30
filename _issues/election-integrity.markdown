@@ -9,14 +9,25 @@ layout: post
 ---
 
 Another enormous focus of the Indivisible movement is to improve the integrity of elections going forward. This includes efforts against: 
-* Campaign finance reform, transparency of donors
-* [Accountability](http://indivisibleandoverma.com/issues/accountability.html) of those elected to office
+
+**Getting money out of politics**
+* Campaign finance reform
+* Transparency of donors
+
+**Voting policies to ensure a representative government**
 * Gerrymandering
 * Voter suppression
 * Automatic voter registration
 * Paper ballot backups
 * [Census 2020 integrity](http://indivisibleandoverma.com/issues/census-2020-integrity.html)
-* Ensuring an informed public by defending a free press and mitigating fake news
+
+Ensuring an informed public
+* Defending a free press
+* Mitigating fake news
+* Civics 101 - federal, [state](http://bit.ly/2kcxyyG), local
+
+Tracking leaders of both parties
+* [Accountability](http://indivisibleandoverma.com/issues/accountability.html) of those elected to office
 
 Some of the organizations we collaborate with on this front are:
 * [League of Women Voters](http://lwv.org/)
