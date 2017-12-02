@@ -1,6 +1,10 @@
 ---
 title: Sen Ed Markey Town Hall
 date: 2017-12-01 20:27:00 -05:00
+categories:
+- event
+tags:
+- town hall
 main-image: "/uploads/ed-markey-town-hall.jpg"
 event-start-date: 2017-12-10 17:00:00 -05:00
 event-end-date: 2017-12-10 18:30:00 -05:00
