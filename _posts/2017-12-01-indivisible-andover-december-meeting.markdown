@@ -19,6 +19,6 @@ Please join us the Tuesday before Christmas to keep the momentum up. Lots to rep
 
 We are allowed to bring food & drink, so let's bring festive treats (liquid and not) to celebrate the winter solstice and holidays. The first 30 minutes of the meeting are for socializing, or for reenacting the final scene of "It's a Wonderful Life" ... your call. 
 
-I look forward to seeing everyone there!
-
 We will be in the "Meeting Room" . Enter the building in the right of the courtyard through the door that says "Children's Center". We are up the stairs and to the right. 
+
+I look forward to seeing everyone there!
