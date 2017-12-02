@@ -8,6 +8,7 @@ main-image: "/uploads/winter-solstice.jpg"
 event-start-date: 2017-12-19 18:30:00 -05:00
 event-end-date: 2017-12-19 20:30:00 -05:00
 Location: Christ Church, 25 Central Street, Andover, MA 01810
+RSVP-link: https://www.facebook.com/events/138903993439001/
 ---
 
 Please join us the Tuesday before Christmas to keep the momentum up. Lots to report on. 
