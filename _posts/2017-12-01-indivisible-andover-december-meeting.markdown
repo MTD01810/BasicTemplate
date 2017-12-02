@@ -3,7 +3,7 @@ title: Indivisible Andover - December meeting
 date: 2017-12-01 20:55:00 -05:00
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/winter-solstice.jpg"
 event-start-date: 2017-12-19 18:30:00 -05:00
 event-end-date: 2017-12-19 20:30:00 -05:00
