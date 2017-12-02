@@ -12,11 +12,10 @@ Location: Christ Church, 25 Central Street, Andover, MA 01810
 
 Please join us the Tuesday before Christmas to keep the momentum up. Lots to report on. 
 
-Agenda
-6:30 - 7:00 - Socialize, network, meet your fellow resistors
-7:00 - 7:30 - Update since Nov meeting
-7:30 - 8:30 - Guest speakers on environmental activism:
-- Peter Polga-Hecimovich of the Environmental Voter Project 
+**Agenda**
+* 6:30 - 7:00 - Socialize, network, meet your fellow resistors
+* 7:00 - 7:30 - Update since Nov meeting
+* 7:30 - 8:30 - Guest speakers on environmental activism - Peter Polga-Hecimovich of the Environmental Voter Project 
 
 We are allowed to bring food & drink, so let's bring festive treats (liquid and not) to celebrate the winter solstice and holidays. The first 30 minutes of the meeting are for socializing, or for reenacting the final scene of "It's a Wonderful Life" ... your call. 
 
