@@ -1,5 +1,5 @@
 ---
-title: Sen Ed Markey Town Hall
+title: Senator Ed Markey Town Hall
 date: 2017-12-01 20:27:00 -05:00
 categories:
 - event
