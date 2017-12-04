@@ -15,3 +15,5 @@ You can't operate at DEFCON 11 all day, every day. You have to take breaks - rem
 **Retail Therapy**
 * [Hate Has No Home Here](http://bit.ly/2AW63Az) - yard signs, car magnets, etc. 
 * [Boredwalk](http://bit.ly/2zP5k05) - feminist and political t-shirts
+* [Indivisible t-shirt](http://bit.ly/2AU48g5)
+* [The Woman Cards](http://bit.ly/2ac490z) - feminist playing cards
