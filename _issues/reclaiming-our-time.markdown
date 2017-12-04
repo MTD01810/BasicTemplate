@@ -20,3 +20,5 @@ You can't operate at DEFCON 11 all day, every day. You have to take breaks - rem
 * [Good Night Stories For Rebel Girls](http://bit.ly/2iNZ0QT) - feminist children's book
 * [Etsy](http://etsy.me/2A3otiI) - resistance jewelry, calendars, clothing
 * [WhineList on Etsy](http://etsy.me/2jeq7Uf) - resistance Christmas ornaments
+
+![womens-march-xmas-ornament.jpg](/uploads/womens-march-xmas-ornament.jpg)
