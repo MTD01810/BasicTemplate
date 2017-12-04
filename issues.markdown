@@ -20,4 +20,4 @@ layout: post
 Are actively working to erode our values on all fronts. It's exhausting, emotional, and overwhelming. So for the moments when you're just mad, please enter:
 * [The Screaming Room](http://indivisibleandoverma.com/issues/the-screaming-room) - This is not normal
 * [And Yet, She Persisted](http://indivisibleandoverma.com/issues/and-yet-she-persisted.html) - Resisting Trump and the GOP
-* Reclaiming Our Time
+* Reclaiming Our Time - Self-care in the age of Trump
