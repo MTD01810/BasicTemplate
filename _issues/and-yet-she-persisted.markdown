@@ -1,5 +1,5 @@
 ---
-title: And yet, she persisted
+title: And Yet, She Rersisted
 date: 2017-11-10 21:41:00 -05:00
 categories:
 - Issues
