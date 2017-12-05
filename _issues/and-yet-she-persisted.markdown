@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-There are a lot of fronts in this war and new battles each week. Between the sheer volume of shocking headlines and the visceral reactions they create, the resistance can be overwhelming. 
+Elizabeth Warren didn't sit down and shut up when she was told to, and neither should you. There are a lot of fronts in this war and new battles each week. Between the sheer volume of shocking headlines and the visceral reactions they create, the resistance can be overwhelming. 
 
 **But we are not alone**
 

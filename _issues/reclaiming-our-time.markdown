@@ -6,9 +6,11 @@ categories:
 layout: post
 ---
 
-You can't operate at DEFCON 11 all day, every day. You have to take breaks - remember, this is a marathon, not a sprint. Some ways to escape, mentally, temporarily, in order to preserve your sanity and energy, to live and fight another day. 
+Maxine Waters doesn't let anyone tell her how she should spend her time, and neither should you.
 
-**General suggestions**
+You can't operate at DEFCON 11 all day, every day. You have to take breaks - Remember, this is a marathon, not a sprint. Here are some ways to escape, mentally, even if only temporarily, in order to preserve your sanity and energy so you can live and fight another day. 
+
+**All types of self-care**
 * [9 self-care strategies in the era of Trump](http://bit.ly/2xSVtaU) (Non-Profit AF)
 * [Self Care in the Age of Trump](http://bit.ly/2ALSSBV) (Medium)
 
