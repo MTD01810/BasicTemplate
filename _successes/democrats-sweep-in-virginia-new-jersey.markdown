@@ -6,6 +6,7 @@ categories:
 tags:
 - Flip It Blue
 main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist.jpg"
+layout: media-item
 ---
 
 Nov 7, 2017 - A big blue wave of Democratic victories swept across the country, a signal that the resistance is gaining momentum. A definitive rejection of Trump and the current political climate: they won in historically entrenched red districts; women, blacks, Latinas, Asian-Americans, Sikhs, gay and transgender candidates won; and voters expressed a need to solve real civic issues over furthering hateful, discriminatory policies. Read more below. 
