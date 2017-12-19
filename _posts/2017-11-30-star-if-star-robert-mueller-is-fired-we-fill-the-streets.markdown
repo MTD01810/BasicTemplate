@@ -1,6 +1,6 @@
 ---
 title: "*IF* Robert Mueller is fired, We Fill the Streets"
-date: 2017-12-22 17:00:00 -05:00
+date: 2017-11-30 17:00:00 -05:00
 categories:
 - event
 main-image: "/uploads/mueller-fired-protest.GIF"
