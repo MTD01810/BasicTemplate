@@ -11,10 +11,10 @@ main-image: "/uploads/AL-special-election-map.GIF"
 
 Democrat Doug Jones has won the Alabama Senate special election, a victory that was a stunning upset in a deeply red state that voted overwhelmingly for President Trump. [Read full story on NPR.com](http://n.pr/2BYMd42)
 
-Election Breakdown
+**Election Breakdown**
 * [How the Tide Turned Against Roy Moore in Alabama](http://nyti.ms/2kJGRmt) (NYT)
 * [Black Voters in Alabama Pushed Back Against the Past](http://nyti.ms/2AUGRrn) (NYT)
 
-What's Next
+**What's Next**
 * [The Right (and Wrong) Lessons to Take From Doug Jones’s Remarkable Win in Alabama](http://nym.ag/2kg2gUC) (New York Magazine)
 * [Black Women Kept Roy Moore Out of Office. Here’s How to Actually Thank Them.](http://bit.ly/2jTiV0l) (The Cut)
