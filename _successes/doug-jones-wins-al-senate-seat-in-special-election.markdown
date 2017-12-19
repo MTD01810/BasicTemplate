@@ -6,7 +6,7 @@ categories:
 tags:
 - Flip It Blue
 is featured: true
-main-image: "/uploads/AL-special-election-map.GIF"
+main-image: "/uploads/alabama-senate-election-maps.png"
 ---
 
 Democrat Doug Jones has won the Alabama Senate special election, a victory that was a stunning upset in a deeply red state that voted overwhelmingly for President Trump. [Read full story on NPR.com](http://n.pr/2BYMd42)
