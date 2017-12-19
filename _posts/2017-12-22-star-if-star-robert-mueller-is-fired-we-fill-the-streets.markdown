@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/mueller-fired-protest.GIF"
 event-start-date: 2017-12-22 17:00:00 -05:00
 Location: |-
-  Corner of Rte 28 and 133 in Andover (Shawsheen area)
+  Intersection of Rte 28 and 133 in Shawsheen Village
   Andover, MA 01810
 RSVP-link: https://www.trumpisnotabovethelaw.org/event/mueller-firing-rapid-response/18877/signup/?source&s
 layout: post
