@@ -1,6 +1,8 @@
 ---
 title: Doug Jones wins AL Senate Seat in special election
 date: 2017-12-18 21:05:00 -05:00
+is featured: true
+main-image: "/uploads/AL-special-election-map.GIF"
 ---
 
 Democrat Doug Jones has won the Alabama Senate special election, a victory that was a stunning upset in a deeply red state that voted overwhelmingly for President Trump. [Read full story on NPR.com](http://n.pr/2BYMd42)
