@@ -16,7 +16,7 @@ layout: post
 
 This is an event planned as a rapid response protest in the event that Donald Trump fired special counsel Robert Mueller. Please note that the listed date is a placeholder and will be updated to be within 24 hours of the firing, should it occur. 
 
-**RSVP** to let the event host know that they can count on you to attend the event. 
+[**RSVP**](http://bit.ly/2BuSzsW) to let the event host know that they can count on you to attend the event. 
 
 Once you sign up, make sure to invite friends to join you at the event!
 
