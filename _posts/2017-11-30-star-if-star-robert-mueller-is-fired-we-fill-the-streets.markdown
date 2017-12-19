@@ -1,5 +1,5 @@
 ---
-title: "*IF* Robert Mueller is fired, We Fill the Streets"
+title: "*IF* Robert Mueller is fired, we fill the streets"
 date: 2017-11-30 17:00:00 -05:00
 categories:
 - event
