@@ -14,7 +14,9 @@ Democrat Doug Jones has won the Alabama Senate special election, a victory that 
 **Election Breakdown**
 * [How the Tide Turned Against Roy Moore in Alabama](http://nyti.ms/2kJGRmt) (NYT)
 * [Black Voters in Alabama Pushed Back Against the Past](http://nyti.ms/2AUGRrn) (NYT)
+* [Roy Moore's historic loss in Alabama was powered by digital transformation in politics](http://tek.io/2BvuUZy) (TechRepublic)
 
 **What's Next**
 * [The Right (and Wrong) Lessons to Take From Doug Jones’s Remarkable Win in Alabama](http://nym.ag/2kg2gUC) (New York Magazine)
-* [Black Women Kept Roy Moore Out of Office. Here’s How to Actually Thank Them.](http://bit.ly/2jTiV0l) (The Cut)
+* [Black Women Kept Roy Moore Out of Office - Here’s How to Actually Thank Them](http://bit.ly/2jTiV0l) (The Cut)
+* [Demand Tax Bill Vote Delayed Until Doug Jones Seated](http://bit.ly/2AUfZH9) (5 Calls)
