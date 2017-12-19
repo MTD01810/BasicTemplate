@@ -7,8 +7,9 @@ tags:
 - social justice
 position: 1
 main-image: "/uploads/boston-free-speech-rally.jpg"
+layout: media-item
 ---
 
-BOSTON ― A week after a white supremacist at a rally in Virginia killed one person and injured more than a dozen others, thousands of counterprotesters in Boston turned out to oppose participants of a self-described “free speech” rally with a message of their own: White supremacy has no place in this country.
+Aug 19, 2017 ― A week after a white supremacist at a rally in Virginia killed one person and injured more than a dozen others, thousands of counterprotesters in Boston turned out to oppose participants of a self-described “free speech” rally with a message of their own: White supremacy has no place in this country.
 
 Read the entire [Huffington Post article](https://www.huffingtonpost.com/entry/boston-rally_us_59963564e4b0e8cc855cbb42).
