@@ -1,6 +1,10 @@
 ---
 title: Doug Jones wins AL Senate Seat in special election
 date: 2017-12-18 21:05:00 -05:00
+categories:
+- Success
+tags:
+- Flip It Blue
 is featured: true
 main-image: "/uploads/AL-special-election-map.GIF"
 ---
