@@ -14,7 +14,7 @@ Indivisible groups across the country are working together to get as many progre
 **Our upcoming elections**
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (currently held by Niki Tsongas)
 * [MA Governor](http://indivisibleandoverma.com/issues/election-ma-governor) (currently held by Charlie Baker)
-* Essex-18 Massachusetts District seat currently held by Jim Lyons
+* Essex-18 Massachusetts District seat (currently held by Jim Lyons)
 
 National organizations working to flip red seats blue in strategic elections across the country: 
 * [Indivisible 435](https://indivisible435.org/)
