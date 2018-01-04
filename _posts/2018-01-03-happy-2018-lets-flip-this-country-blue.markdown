@@ -1,6 +1,10 @@
 ---
 title: Happy 2018! Let's flip this country BLUE
 date: 2018-01-03 21:39:00 -05:00
+categories:
+- action
+tags:
+- flip it blue
 is featured: true
 main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist-14e755.jpg"
 ---
