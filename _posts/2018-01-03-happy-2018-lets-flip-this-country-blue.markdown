@@ -17,9 +17,7 @@ Indivisible groups across the country are working together to get as many progre
 * Essex-18 Massachusetts District seat (currently held by Jim Lyons)
 * Two Andover Town Selectman seats
 
-Federal - The House of Representatives has 435 seats, **70** of which we consider competitive. These are the Swing Districts, where Congress is won and lost. To get a say in our government, we'll need to win back at least **24** of them. (Sister District)
-
-**Get Involved **
+**Federal** - Win back the Senate and House
 * [Indivisible 435](https://indivisible435.org/)
 * [Brand New Congress](https://brandnewcongress.org/)
 * [Flippable](https://www.flippable.org/)
