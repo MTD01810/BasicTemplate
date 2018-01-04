@@ -11,13 +11,13 @@ main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist-14e755.jpg"
 
 Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes the many special elections that are slated to take place between now and the midterms.
 
-**Our upcoming elections**
+**Own Your Home Turf** our upcoming elections
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (currently held by Niki Tsongas)
 * [MA Governor](http://indivisibleandoverma.com/issues/election-ma-governor) (currently held by Charlie Baker)
 * Essex-18 Massachusetts District seat (currently held by Jim Lyons)
 * Two Andover Town Selectman seats
 
-The House of Representatives has 435 seats, **70** of which we consider competitive. These are the Swing Districts, where Congress is won and lost. To get a say in our government, we'll need to win back at least **24** of them. (Sister District)
+Federal - The House of Representatives has 435 seats, **70** of which we consider competitive. These are the Swing Districts, where Congress is won and lost. To get a say in our government, we'll need to win back at least **24** of them. (Sister District)
 
 National organizations working to flip red seats blue in strategic elections across the country 
 * [Indivisible 435](https://indivisible435.org/)
