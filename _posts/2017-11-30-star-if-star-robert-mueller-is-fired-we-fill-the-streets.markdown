@@ -1,10 +1,10 @@
 ---
-title: "*IF* Robert Mueller is fired, we fill the streets"
+title: If Robert Mueller is fired, we fill the streets
 date: 2017-11-30 17:00:00 -05:00
 categories:
 - event
 main-image: "/uploads/mueller-fired-protest.GIF"
-event-start-date: 2017-12-22 17:00:00 -05:00
+event-start-date: 2018-01-20 09:00:00 -05:00
 Location: |-
   Intersection of Rte 28 and 133 in Shawsheen Village
   Andover, MA 01810
