@@ -1,13 +1,14 @@
 ---
 title: Defeat Trump/GOP Tax Plan
 date: 2017-11-09 13:11:00 -05:00
+published: false
 categories:
 - action
 tags:
 - tax
 - taxes
 - tax reform
-is featured: true
+is featured: false
 main-image: "/uploads/us-share-of-net-worth.jpg"
 ---
 
