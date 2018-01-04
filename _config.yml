@@ -2,11 +2,11 @@
 title: Indivisible Andover
 timezone: America/New_York
 collections:
-  posts:
-    title: Actions & Events
-    output: true
   issues:
     title: Issues
+    output: true
+  posts:
+    title: Posts
     output: true
   representatives:
     title: Representatives
