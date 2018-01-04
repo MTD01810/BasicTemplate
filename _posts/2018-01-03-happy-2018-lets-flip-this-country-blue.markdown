@@ -11,7 +11,7 @@ main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist-14e755.jpg"
 
 Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes the many special elections that are slated to take place between now and the midterms.
 
-**Our upcoming elections**
+**Our upcoming elections**<BR>
 Federal
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 6, 2018)
 
