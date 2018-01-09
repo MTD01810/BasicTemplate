@@ -32,4 +32,4 @@ Organizations supporting women candidates:
 
 <BR>
 **Popular vote distribution map** (Vox)
-![2016 election map of US from Vox - Jan 2018.png](/uploads/2016%20election%20map%20of%20US%20from%20Vox%20-%20Jan%202018.png)
+![2016 Popular vote distribution from Vox.png](/uploads/2016%20Popular%20vote%20distribution%20from%20Vox.png)
