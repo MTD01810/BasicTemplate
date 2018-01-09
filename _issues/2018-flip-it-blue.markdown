@@ -31,4 +31,5 @@ Organizations supporting women candidates:
 * [IGNITE National](http://www.ignitenational.org/)
 
 <BR>
-![2016nationwidecountymapshadedbyvoteshare.png](/uploads/2016nationwidecountymapshadedbyvoteshare.png)
+**Popular vote distribution map** (Vox)
+![2016 election map of US from Vox - Jan 2018.png](/uploads/2016%20election%20map%20of%20US%20from%20Vox%20-%20Jan%202018.png)
