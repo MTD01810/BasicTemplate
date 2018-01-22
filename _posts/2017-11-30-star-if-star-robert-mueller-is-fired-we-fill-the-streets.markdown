@@ -4,7 +4,8 @@ date: 2017-11-30 17:00:00 -05:00
 categories:
 - event
 main-image: "/uploads/mueller-fired-protest.GIF"
-event-start-date: 2018-01-20 09:00:00 -05:00
+call-script-text: "![you-cant-fire-the-truth.jpg](/uploads/you-cant-fire-the-truth.jpg)"
+event-start-date: 2018-02-28 12:00:00 -05:00
 Location: |-
   Intersection of Rte 28 and 133 in Shawsheen Village
   Andover, MA 01810
