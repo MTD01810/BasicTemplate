@@ -10,4 +10,4 @@ event-end-date: 2018-02-07 21:00:00 -05:00
 Location: Memorial Hall Library <BR>2 N Main Street, Andover, MA
 ---
 
-The Andover Democratic Town Committee will be holding its annual caucus to elect Delegates and Alternates to the 2018 Massachusetts State Party Convention (held in Worcester on June 1st & 2nd).  This is a nominating convention, so delegates will have the opportunity to cast votes for Governor, Lieutenant Governor, Attorney General, Treasurer, Auditor, Secretary of State, and US Senator. I will be sending out a future email with more information on the caucus and convention, but wanted to send out the date so you can mark it on your calendars.
+The Andover Democratic Town Committee will be holding its annual caucus to elect Delegates and Alternates to the 2018 Massachusetts State Party Convention (held in Worcester on June 1st & 2nd).  This is a nominating convention, so delegates will have the opportunity to cast votes for Governor, Lieutenant Governor, Attorney General, Treasurer, Auditor, Secretary of State, and US Senator. There will be more information on the caucus and convention forthcoming, but save the date.
