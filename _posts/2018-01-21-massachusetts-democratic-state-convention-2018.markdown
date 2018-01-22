@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/Mass-dems-logo.png"
 event-start-date: 2018-06-01 00:00:00 -04:00
 event-end-date: 2018-06-02 00:00:00 -04:00
-Location: DCU Center <BR>Worcester, MA
+Location: DCU Center Worcester, MA
 ---
 
 The 2018 Massachusetts Democratic Party Endorsing Convention will take place at the DCU Center in Worcester on June 1st and 2nd, 2018.
