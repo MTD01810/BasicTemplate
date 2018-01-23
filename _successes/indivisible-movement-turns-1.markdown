@@ -3,10 +3,11 @@ title: Indivisible Movement Turns One!
 date: 2018-01-01 16:16:00 -05:00
 categories:
 - Success
+is featured: true
 main-image: "/uploads/cambridge-march-2018.jpg"
 ---
 
-Happy one year since the Women's March! Thank you to all who marched near and far, in large crowds and small groups, on foot and in spirit. We have spent the last year getting organized, focused, and channeling our rage in to action. 
+January 20, 2018 - Happy one year since the Women's March! Thank you to all who marched near and far, in large crowds and small groups, on foot and in spirit. We have spent the last year getting organized, focused, and channeling our rage in to action. 
 
 A nice summary of some of the progress our sister groups were able to achieve: [Indivisible at One](https://www.youtube.com/watch?v=styg2uRoYtk) (Rachel Maddow)
 
