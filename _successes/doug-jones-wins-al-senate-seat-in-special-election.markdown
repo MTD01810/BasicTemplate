@@ -5,7 +5,7 @@ categories:
 - Success
 tags:
 - Flip It Blue
-is featured: true
+is featured: false
 main-image: "/uploads/alabama-senate-election-maps.png"
 ---
 
