@@ -6,6 +6,6 @@ categories:
 main-image: "/uploads/cambridge-march-2018.jpg"
 ---
 
-What is "Indivisible"? This video is a pretyt good summary:
+What is "Indivisible"? This video is a pretty good summary:
 
 [Indivisible at 1](https://www.youtube.com/watch?v=styg2uRoYtk) (Rachel Maddow)
