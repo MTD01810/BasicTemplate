@@ -1,6 +1,6 @@
 ---
 title: Massachusetts Democratic State Convention 2018
-date: 2018-01-21 20:30:00 -05:00
+date: 2018-06-01 20:30:00 -04:00
 categories:
 - event
 main-image: "/uploads/Mass-dems-logo.png"
