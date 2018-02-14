@@ -11,9 +11,9 @@ Location: Christ Church, 25 Central Street, Andover, MA 01810
 RSVP-link: https://www.facebook.com/events/1737460982959817/
 ---
 
-Next meeting is Tuesday Feb 27
-
 We will be using this meeting to kickoff our 2018 efforts, so let's have an all-hands-on deck attendance. This year will be primarily focused on elections and voter engagement, with prioritization on our home turf. 
+
+Since Andover's local elections for Board of Selectmen and School Committee are on March 27 (four weeks away!), that will be the focus of February's meeting.
 
 **Agenda**
 * 6:30 - 7:00 - Socialize, network, meet your fellow resistors
