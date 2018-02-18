@@ -28,7 +28,7 @@ February Meeting Theme - Local Elections and Get out the Vote
 **Get Out the Vote Effort**
 * There will be a number of ways you can get involved in the local election between now and March 27th to help drive a strong progressive turnout
 * Indivisible Andover is collaborating with other activist groups in and around Andover on ways to share time, tools, information, and messaging. 
-* If you would like to get involved - please reach out via facebook or email. 
+* If you would like to get involved - please reach out. 
 
 **Meeting Logistics**
 * Same place - The Meeting Room at Christ Church, 25 Central Street, Andover
