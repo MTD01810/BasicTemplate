@@ -23,7 +23,7 @@ Meet the Candidates
 Agenda
 * Indivisible Andover - Mission Overview
 * GOTV Update - Plan of Attack and Progress
-* Candidate presentations - Includes an opportunity to provide **feedback **on their message, ask **questions**, and **volunteer **to support their campaigns.
+* Candidate presentations - Includes an opportunity to provide **feedback** on their message, ask **questions**, and **volunteer** to support their campaigns.
 
 As usual, we will be in the "Meeting Room". Enter the building in the right of the courtyard through the door that says "Children's Center". We are up the stairs and to the right. 
 
