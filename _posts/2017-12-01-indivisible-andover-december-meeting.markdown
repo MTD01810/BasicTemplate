@@ -13,7 +13,7 @@ RSVP-link: https://www.facebook.com/events/1737460982959817/
 
 Our focus this year will be on getting as many Dems elected as possible - at the local, state, and federal levels; on our home turf and in sister districts all over the country. The local Andover town election is only five weeks away, so that will be our primary objective for now.
 
-February Meeting Theme - Local Elections and Get out the Vote
+**February Meeting Theme** - Local Elections and Get out the Vote
  
 **Meet the Candidates** 
 * [Annie Gilbert](https://annieforandover.org/) - Board of Selectmen candidate
