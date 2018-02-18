@@ -16,8 +16,8 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 February Meeting Theme - Local Elections and Get out the Vote
  
 Meet the Candidates 
-* Annie Gilbert - Board of Selectmen candidate
-* Chris Huntress - Board of Selectmen candidate
+* [Annie Gilbert](https://annieforandover.org/) - Board of Selectmen candidate
+* [Chris Huntress](http://www.huntressforselectman.com/) - Board of Selectmen candidate
 * [Reaching out to other candidates ... stay tuned]
 
 Agenda
