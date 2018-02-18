@@ -15,18 +15,25 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 
 February Meeting Theme - Local Elections and Get out the Vote
  
-Meet the Candidates 
+**Meet the Candidates** 
 * [Annie Gilbert](https://annieforandover.org/) - Board of Selectmen candidate
 * [Chris Huntress](http://www.huntressforselectman.com/) - Board of Selectmen candidate
 * [Reaching out to other candidates ... stay tuned]
 
-Agenda
+**Agenda**
 * Indivisible Andover - Mission Overview
 * GOTV Update - Plan of Attack and Progress
 * Candidate presentations - Includes an opportunity to **provide feedback** on their message, **ask questions**, and **volunteer** to support their campaigns.
 
-As usual, we will be in the "Meeting Room". Enter the building in the right of the courtyard through the door that says "Children's Center". We are up the stairs and to the right. 
+**Get Out the Vote Effort**
+* There will be a number of ways you can get involved in the local election between now and March 27th to help drive a strong progressive turnout
+* Indivisible Andover will be collaborating with other area activist groups on ways to share time, tools, information, and messaging. 
+* If you would like to get involved - please reach out via facebook or email. 
 
-We are allowed to bring food & drink (we are mad enough, no need to be hangry too). And all are welcome - spouses, kids, and even a moderate republican. 
+**Meeting Logistics**
+* Same place - The Meeting Room at Christ Church, 25 Central Street, Andover
+* Same time - 6:30-8:30 pm
+* Beer, wine, snacks are welcome (We are mad enough, no need to be hangry too ...)
+* Bring a friend, spouse, kids - the more the merrier
 
-Hope to see you there! #resist #persist
+Hope to see you there!
