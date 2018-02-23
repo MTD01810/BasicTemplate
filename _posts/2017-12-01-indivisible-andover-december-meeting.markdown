@@ -19,7 +19,7 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 * [Annie Gilbert](https://annieforandover.org/) - Board of Selectmen candidate
 * [Chris Huntress](http://www.huntressforselectman.com/) - Board of Selectmen candidate
 * [Susan McCready](http://susan4andoversc.com/) - School Committee candidate
-* [Reaching out to other candidates ... stay tuned]
+* [Tracey Spruce](https://spruceforandover.org/) - School Committee candidate
 
 **Agenda**
 * Indivisible Andover - Mission Overview
