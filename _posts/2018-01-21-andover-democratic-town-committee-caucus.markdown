@@ -3,7 +3,7 @@ title: Andover Democratic Town Committee Caucus
 date: 2018-01-21 19:00:00 -05:00
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/Andover%20Public%20Library-f60609.jpg"
 event-start-date: 2018-02-26 19:00:00 -05:00
 event-end-date: 2018-02-26 21:00:00 -05:00
