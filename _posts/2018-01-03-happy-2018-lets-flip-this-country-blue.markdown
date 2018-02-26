@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - flip it blue
-is featured: true
+is featured: false
 main-image: "/uploads/the_great_wave_off_kanagawa_by_annihilist-14e755.jpg"
 ---
 
