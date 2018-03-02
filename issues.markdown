@@ -7,7 +7,7 @@ layout: post
 
 ### Our Primary Mission
 **To elect progressive candidates and reform the electoral system to ensure a more representative government** 
-* [2018 Mission Overview](http://indivisibleandoverma.com/issues/2018/03/02/mission-overview.html)
+* [Mission Overview](http://indivisibleandoverma.com/issues/2018/03/02/mission-overview.html)
 * [2018 - Flip It Blue](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html) - Getting progressive candidates elected with the election rules we have today
 * [Election Integrity](http://indivisibleandoverma.com/issues/election-integrity.html) - Changing the rules to improve the representation of future elections
 
