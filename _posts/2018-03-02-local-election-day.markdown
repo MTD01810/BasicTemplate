@@ -10,8 +10,7 @@ event-end-date: 2018-03-27 20:00:00 -04:00
 Location: http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx
 ---
 
-March 27th, 2018
-Local Election
+Local Election on March 27th, 2018
 
 * **Board of Selectmen** - 2 seats, 4 candidates
 * **School Committee** - 2 seats, 3 candidates
