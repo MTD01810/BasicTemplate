@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
 event-start-date: 2018-03-27 07:00:00 -04:00
 event-end-date: 2018-03-27 20:00:00 -04:00
-Location: http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx
+Location: Find your voting precinct
 ---
 
 Local Election on March 27th, 2018
@@ -16,3 +16,4 @@ Local Election on March 27th, 2018
 * **School Committee** - 2 seats, 3 candidates
 * **Town Moderator** - 1 seat, 2 candidates
 
+[Find your voting precinct](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
