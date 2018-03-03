@@ -10,3 +10,7 @@ Location: DCU Center Worcester, MA
 ---
 
 The 2018 Massachusetts Democratic Party Endorsing Convention will take place at the DCU Center in Worcester on June 1st and 2nd, 2018.
+
+The delegates representing Andover were selected at the Democratic Town Caucus on Feb 26, 2018. Two of our Indivisible members were selected to go. 
+
+For details on the complete list of delegates and alternates, please go to: http://www.andoverdemocrats.org/
