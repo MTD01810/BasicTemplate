@@ -5,8 +5,8 @@ categories:
 - Event
 is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
-event-start-date: 2018-03-27 00:00:00 -04:00
-event-end-date: 2018-03-27 00:00:00 -04:00
+event-start-date: 2018-03-27 07:00:00 -04:00
+event-end-date: 2018-03-27 20:00:00 -04:00
 Location: http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx
 ---
 
