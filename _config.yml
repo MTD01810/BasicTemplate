@@ -65,8 +65,9 @@ subtitle: You have found the greater 01810 chapter of the resistance. Allies fro
 email: indivisible.andover@gmail.com
 baseurl: 
 url: indivisibleandoverma.com
-twitter_username: "@IndivisibleAnd"
 facebook_username: groups/1885479951686757/
+twitter_username: "@IndivisibleAnd"
+instagram_username: indivisible andover
 background-image: "/uploads/ducklings-pussyhats.jpg"
 member-count: 275+
 footer-title: Get involved. Help build a movement.
@@ -81,4 +82,3 @@ exclude:
 - Gemfile
 - Gemfile.lock
 google_analytics: 
-instagram_username: indivisible andover
