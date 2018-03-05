@@ -14,5 +14,10 @@ date: 2018-03-04 19:39:00 -05:00
 * Annie Gilbert - [Learn more about Annie](https://annieforandover.org/), [Get involved](https://annieforandover.org/campaign-support/)
 * Chris Huntress - [Learn more about Chris](http://www.huntressforselectman.com/), [Get involved](http://www.huntressforselectman.com/photos)
 
+**School Committee** race
+2 seats available, 4 candidates. Based on the Indivisible values that we expect in our leadership, please join us in supporting: 
+* Susan McCready - [Learn more about Susan](http://susan4andoversc.com/), [Get involved](http://susan4andoversc.com/volunteer)
+* Tracey Spruce - [Learn more about Tracey](https://spruceforandover.org/), [Get involved](https://spruceforandover.org/support/)
+
 **Why this race is important**
 Discourse on the Board of Selectmen has been increasingly divisive, dysfunctional and the attacks are personal. Please watch the [video footage of the Feb 26 Board of Selectmen meeting](http://bit.ly/2tiNQdq) and judge for yourself. (Fast forward to the 1:15 point in the recording.)
