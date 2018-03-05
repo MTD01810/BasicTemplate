@@ -10,13 +10,18 @@ layout: post
 
 Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes the many special elections that are slated to take place between now and the midterms.
 
-Indivisible Andover is not aligned with any one party, nor will we endorse candidates. However, it is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
+Indivisible Andover is not aligned with any one party. It is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
 
-Our upcoming elections:
-* [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) (Nov 6, 2018)
-* [MA Gubernatorial race](http://indivisibleandoverma.com/issues/election-ma-governor) (Nov 6, 2018)
+Local Election - Tuesday **March 27th**!
+* 
 
-Organizations working to flip red seats blue in strategic elections across the country: 
+Our upcoming state elections (primary Sept 4, election Nov 6)
+* [MA Gubernatorial race](http://indivisibleandoverma.com/issues/election-ma-governor)
+
+Our upcoming federal elections:
+* [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) 
+
+National organizations working to flip red seats blue in strategic elections across the country: 
 <BR>
 [![brand-new-congress.png](/uploads/brand-new-congress.png)](https://brandnewcongress.org/)
 [![flippable.png](/uploads/flippable.png)](https://www.flippable.org/)
