@@ -15,10 +15,12 @@ Indivisible Andover is not aligned with any one party. It is our goal to give ca
 Local Election - Tuesday **March 27th**!
 * 
 
-Our upcoming state elections (primary Sept 4, election Nov 6)
+Our upcoming state and federal elections (Primary Sept 4, Election Nov 6)
+
+State races
 * [MA Gubernatorial race](http://indivisibleandoverma.com/issues/election-ma-governor)
 
-Our upcoming federal elections:
+Federal races
 * [MA-03 Congressional District seat](http://indivisibleandoverma.com/issues/election-ma-03-congressional-district-seat.html) 
 
 National organizations working to flip red seats blue in strategic elections across the country: 
