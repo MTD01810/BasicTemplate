@@ -12,11 +12,10 @@ Indivisible groups across the country are working together to get as many progre
 
 Indivisible Andover is not aligned with any one party. It is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
 
-Local Election - Tuesday **March 27th**!
+[Local Election](http://indivisibleandoverma.com/issues/andover-local-election-mar-27-2018.html) - Tuesday **March 27th**! 
 * Board of Selectmen 
 * School Committee 
 * Town Moderator
-* [Click here for details and ways to get engaged](http://indivisibleandoverma.com/issues/andover-local-election-mar-27-2018.html)
 
 Our upcoming state and federal elections (Primary Sept 4, Election Nov 6)
 
