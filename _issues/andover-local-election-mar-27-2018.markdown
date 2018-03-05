@@ -7,7 +7,7 @@ layout: post
 ---
 
 **Timeline**
-* Feb 6 - Nomination deadline for candidates (see list below)
+* Feb 6 - Nomination deadline for candidates (PASSED)
 * Mar 7 - Deadline to [register to vote](http://bit.ly/1IYJYjQ)
 * Mar 26 Noon - Deadline for Town Clerk to receive [absentee ballots](http://bit.ly/2I5r4cy)
 * Mar 27 - Election Day
