@@ -16,7 +16,7 @@ Local Election - Tuesday **March 27th**!
 * Board of Selectmen 
 * School Committee 
 * Town Moderator
-* Click here for details and ways to get engaged
+* [Click here for details and ways to get engaged](http://indivisibleandoverma.com/issues/andover-local-election-mar-27-2018.html)
 
 Our upcoming state and federal elections (Primary Sept 4, Election Nov 6)
 
