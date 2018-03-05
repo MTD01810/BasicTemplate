@@ -12,6 +12,8 @@ layout: post
 * Mar 26 Noon - Deadline for Town Clerk to receive [absentee ballots](http://bit.ly/2I5r4cy)
 * Mar 27 - Election Day
 
+In the time between now and election day, there are many ways to get involved and make an impact. 
+
 **Board of Selectmen** race
 2 seats available, 4 candidates. Based on the Indivisible values that we expect in our leadership, please join us in supporting: 
 * [Annie Gilbert](https://annieforandover.org/) - [Get involved](https://annieforandover.org/campaign-support/) in Annie's campaign
