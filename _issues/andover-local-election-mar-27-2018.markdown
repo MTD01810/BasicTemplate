@@ -14,7 +14,7 @@ layout: post
 
 **Board of Selectmen** race
 2 seats available, 4 candidates. Based on the Indivisible values that we expect in our leadership, please join us in supporting: 
-* Annie Gilbert - [Learn more about Annie](https://annieforandover.org/), [Get involved](https://annieforandover.org/campaign-support/)
+* [Annie Gilbert](https://annieforandover.org/) - [Get involved] (https://annieforandover.org/campaign-support/) in Annie's campaign
 * Chris Huntress - [Learn more about Chris](http://www.huntressforselectman.com/), [Get involved](http://www.huntressforselectman.com/photos)
 
 **School Committee** race
