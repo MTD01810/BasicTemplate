@@ -13,11 +13,10 @@ Location: Find your voting precinct
 Andover’s 2018 Town Election is on Tuesday, March 27th, 2018
 Polls are Open from 7:00 AM to 8:00 PM.
 
-* **Board of Selectmen** - 2 seats, 4 candidates
-* **School Committee** - 2 seats, 3 candidates
-* **Town Moderator** - 1 seat, 2 candidates
+[Review the races and candidates](http://bit.ly/2Fejmiw).
 
-[Find your voting precinct](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
+**Find your voting precinct**
+* [Enter your residential address here](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
 
 **Find your polling location**
 * Precincts 1 & 3 vote at the [Andover Senior Center](http://bit.ly/2FYicVe), 30 Whittier Court
