@@ -10,10 +10,16 @@ event-end-date: 2018-03-27 20:00:00 -04:00
 Location: Find your voting precinct
 ---
 
-Local Election on March 27th, 2018
+Andover’s 2018 Town Election is on Tuesday, March 27th, 2018
+Polls are Open from 7:00 AM to 8:00 PM.
 
 * **Board of Selectmen** - 2 seats, 4 candidates
 * **School Committee** - 2 seats, 3 candidates
 * **Town Moderator** - 1 seat, 2 candidates
 
 [Find your voting precinct](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
+
+**Find your polling location**
+* Precincts 1 & 3 vote at the Center at Punchard (Andover Senior Center), [30 Whittier Court](http://bit.ly/2FjdPr3)
+* Precincts 4, 5, & 6 vote at the [Wood Hill Middle School](http://bit.ly/2oVs2iB) Gymnasium. The Middle School is at the intersection of High Plain Road and Cross Street, directly next to High Plain Elementary School.
+* Precincts 2, 7, 7A, 8, 9 & 9A vote at the [Andover High School](http://bit.ly/2tjpBvV), 80 Shawsheen Road
