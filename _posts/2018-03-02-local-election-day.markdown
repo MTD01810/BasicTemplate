@@ -25,4 +25,4 @@ Location: Find your voting precinct
 * Precincts 4, 5, & 6 vote at the [Wood Hill Middle School](http://bit.ly/2oVs2iB) Gymnasium. The Middle School is at the intersection of High Plain Road and Cross Street, directly next to High Plain Elementary School.
 * Precincts 2, 7, 7A, 8, 9 & 9A vote at the [Andover High School](http://bit.ly/2tjpBvV), 80 Shawsheen Road
 
-Or call the Andover Town Clerk’s office at 978-623-8255 for additional support. 
+Or call the **Andover Town Clerk**’s office at 978-623-8255 for additional support. 
