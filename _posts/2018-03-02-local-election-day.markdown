@@ -17,7 +17,8 @@ Location: Find your voting precinct
 * [Review the races and candidates](http://bit.ly/2Fejmiw).
 
 **Find your voting precinct**
-* [Enter your residential address here](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
+* [Enter your residential address](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
+* Look it up on a [map of the town](https://andoverma.gov/DocumentCenter/View/2013)
 
 **Find your polling location**
 * Precincts 1 & 3 vote at the [Andover Senior Center](http://bit.ly/2FYicVe), 30 Whittier Court
