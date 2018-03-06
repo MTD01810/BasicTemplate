@@ -10,8 +10,8 @@ layout: post
 * Feb 6 - Nomination deadline for candidates (PASSED)
 * Mar 7 - Deadline to [register to vote](http://bit.ly/1IYJYjQ)
 * Mar 13 - Debate
-* Mar 26 Noon - Deadline for Town Clerk to receive [absentee ballots](http://bit.ly/2I5r4cy)
-* Mar 27 - Election Day
+* Mar 26 (Noon) - Deadline for Town Clerk to receive [absentee ballots](http://bit.ly/2I5r4cy)
+* Mar 27 - Election Day! [Find your precinct](http://bit.ly/2Fg0mjI).
 
 In the time between now and election day, there are many ways to get involved and make an impact. 
 
