@@ -14,7 +14,7 @@ Location: Find your voting precinct
 ### Tuesday, March 27th, 2018
 ### Polls are Open from 7:00 AM to 8:00 PM
 
-[Review the races and candidates](http://bit.ly/2Fejmiw).
+* [Review the races and candidates](http://bit.ly/2Fejmiw).
 
 **Find your voting precinct**
 * [Enter your residential address here](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
