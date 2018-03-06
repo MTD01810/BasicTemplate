@@ -20,6 +20,6 @@ Polls are Open from 7:00 AM to 8:00 PM.
 [Find your voting precinct](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
 
 **Find your polling location**
-* Precincts 1 & 3 vote at the Center at Punchard (Andover Senior Center), [30 Whittier Court](http://bit.ly/2FjdPr3)
+* Precincts 1 & 3 vote at the [Andover Senior Center](http://bit.ly/2FYicVe), 30 Whittier Court
 * Precincts 4, 5, & 6 vote at the [Wood Hill Middle School](http://bit.ly/2oVs2iB) Gymnasium. The Middle School is at the intersection of High Plain Road and Cross Street, directly next to High Plain Elementary School.
 * Precincts 2, 7, 7A, 8, 9 & 9A vote at the [Andover High School](http://bit.ly/2tjpBvV), 80 Shawsheen Road
