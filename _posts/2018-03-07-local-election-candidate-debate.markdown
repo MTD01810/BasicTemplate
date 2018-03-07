@@ -7,12 +7,12 @@ is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
 event-start-date: 2018-03-13 18:30:00 -04:00
 event-end-date: 2018-03-13 21:00:00 -04:00
-Location: Andover Public Safety Center at 32 North Main St.
+Location: Wood Hill Middle School at 11 Cross Street
 ---
 
 Service Club of Andover and the Andover Townsman will host the [2018 Candidates Forum](http://bit.ly/2trRAt4)
 * When: Tuesday, March 13
-* Where: Andover Public Safety Center at 32 North Main St.
+* Where: Wood Hill Middle School at 11 Cross Street
 * Time: 6:30 – 7:00 PM arrival; Forum from 7:00 – 9:30 PM
 
 This event is open to the public and we encourage you to attend.  We are planning to have the Forum broadcast live by Andover Cable TV on the public access channel Comcast 8, Verizon 47 as well as live streamed at andovertv.org/livestreams.  It will also be recorded for later viewing on VOD (video on demand) that can be also found at andovertv.org. 
