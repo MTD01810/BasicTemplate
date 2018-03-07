@@ -17,7 +17,7 @@ Service Club of Andover and the Andover Townsman will host the [2018 Candidates 
 
 This event is open to the public and we encourage you to attend.  We are planning to have the Forum broadcast live by Andover Cable TV on the public access channel Comcast 8, Verizon 47 as well as live streamed at andovertv.org/livestreams.  It will also be recorded for later viewing on VOD (video on demand) that can be also found at andovertv.org. 
 
-[Review the races and candidates](http://bit.ly/2Fejmiw)
+[**Review the races and candidates**](http://bit.ly/2Fejmiw)
 
 **Board of Selectmen** - 2 seats for a 3 year term; 4 candidates running 
 * Robert A. Landry (incumbent) 
