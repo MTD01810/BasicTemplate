@@ -25,19 +25,19 @@ This event is open to the public and we encourage you to attend.  We are plannin
 
 **School Committee** - 2 seats for a 3 year term; 
 3 candidates running 
-* Susan K. McCready (Incumbent)
+* Susan K. McCready (incumbent)
 * Tracey E. Spruce
 * Shishan Wang
 
 **Town Moderator** - 1 seat for a year term; 
 2 candidates running  
-* Sheila M. Doherty (Incumbent)
+* Sheila M. Doherty (incumbent)
 * Keith M. Saxon
 
 Additionally, we have invited those who are running for office unchallenged including: 
 
 Trustees of the Punchard Free School - 2 seats for a 3 year term; 2 candidates
-* Eric Stubenhaus (Incumbent)
+* Eric Stubenhaus (incumbent)
 * Melissa M. Danisch
 
 Greater Lawrence Vocational Technical Regional School District Committee - 1 seat, 1 candidate
