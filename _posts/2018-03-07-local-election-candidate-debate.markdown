@@ -1,6 +1,8 @@
 ---
 title: Local Election - Candidate Debate
 date: 2018-03-07 12:13:00 -05:00
+categories:
+- event
 is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
 event-start-date: 2018-03-13 18:30:00 -04:00
