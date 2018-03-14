@@ -1,5 +1,5 @@
 ---
-title: Local Election - Candidate Debate
+title: Local Election - Candidate Forum
 date: 2018-03-07 12:13:00 -05:00
 categories:
 - event
@@ -10,9 +10,11 @@ event-end-date: 2018-03-13 21:00:00 -04:00
 Location: Wood Hill Middle School at 11 Cross Street
 ---
 
+NEW DATE AND LOCATION DUE TO WINTER STORM
+
 Service Club of Andover and the Andover Townsman will host the [2018 Candidates Forum](http://bit.ly/2trRAt4)
-* When: Tuesday, March 13
-* Where: Wood Hill Middle School at 11 Cross Street
+* When: Tuesday, **March 20**
+* Where: **West Middle School** at 70 Shawsheen Rd
 * Time: 6:30 – 7:00 PM arrival; Forum from 7:00 – 9:30 PM
 
 This event is open to the public and we encourage you to attend.  We are planning to have the Forum broadcast live by Andover Cable TV on the public access channel Comcast 8, Verizon 47 as well as live streamed at andovertv.org/livestreams.  It will also be recorded for later viewing on VOD (video on demand) that can be also found at andovertv.org. 
