@@ -23,4 +23,4 @@ The Conor Lamb PA-18 race isn't finalized yet, but as of now Lamb is ahead by ~6
 * Conor Lamb is no liberal. He never said anything anti-Trump, but did say he does not recognize Nancy Pelosi as the party leader in the House. So while this is a victory on paper, accountability will be a big part of ensuring that this flipped seat parlays in to sound policy. ([Details](http://cnn.it/2FHf5QE) CNN 13 Mar 2018)
 * There was a 3rd party candidate in this very close race who received a not-insignificant number of votes. We need to push for stacked rank voting so that these 3rd party candidates (who can and should run) do not result in voters' second choice ending up in office. ([Details](http://www.fairvote.org/rcv#rcvbenefits) Fair Vote)
 
-But for now - This is a victory and should be celebrated.
+**But for now - This is a victory and should be celebrated.**
