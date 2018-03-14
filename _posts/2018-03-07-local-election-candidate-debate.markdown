@@ -5,9 +5,9 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
-event-start-date: 2018-03-13 18:30:00 -04:00
-event-end-date: 2018-03-13 21:00:00 -04:00
-Location: Wood Hill Middle School at 11 Cross Street
+event-start-date: 2018-03-20 18:30:00 -04:00
+event-end-date: 2018-03-20 21:00:00 -04:00
+Location: West Middle School at 70 Shawsheen Rd.
 ---
 
 **NEW DATE AND LOCATION DUE TO WINTER STORM**
