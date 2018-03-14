@@ -10,7 +10,7 @@ event-end-date: 2018-03-13 21:00:00 -04:00
 Location: Wood Hill Middle School at 11 Cross Street
 ---
 
-NEW DATE AND LOCATION DUE TO WINTER STORM
+**NEW DATE AND LOCATION DUE TO WINTER STORM**
 
 Service Club of Andover and the Andover Townsman will host the [2018 Candidates Forum](http://bit.ly/2trRAt4)
 * When: Tuesday, **March 20**
