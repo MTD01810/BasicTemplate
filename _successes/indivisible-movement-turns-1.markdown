@@ -3,7 +3,7 @@ title: Indivisible Movement Turns One!
 date: 2018-01-01 16:16:00 -05:00
 categories:
 - Success
-is featured: true
+is featured: false
 main-image: "/uploads/cambridge-march-2018.jpg"
 ---
 
