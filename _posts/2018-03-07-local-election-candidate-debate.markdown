@@ -1,9 +1,10 @@
 ---
 title: Local Election - Candidate Forum
 date: 2018-03-07 12:13:00 -05:00
+published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/andover-districts-graphic.GIF"
 event-start-date: 2018-03-20 18:30:00 -04:00
 event-end-date: 2018-03-20 21:00:00 -04:00
