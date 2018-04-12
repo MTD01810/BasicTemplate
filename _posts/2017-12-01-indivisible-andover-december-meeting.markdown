@@ -1,7 +1,6 @@
 ---
 title: Indivisible Andover - April meeting
 date: 2017-12-01 20:55:00 -05:00
-published: false
 categories:
 - event
 is featured: true
