@@ -1,9 +1,10 @@
 ---
 title: Election Day - Mar 27!
 date: 2018-03-02 21:06:00 -05:00
+published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/andover-districts-graphic.GIF"
 event-start-date: 2018-03-27 07:00:00 -04:00
 event-end-date: 2018-03-27 20:00:00 -04:00
