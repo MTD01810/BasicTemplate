@@ -1,6 +1,8 @@
 ---
 title: Indivisible Andover - May meeting
 date: 2018-04-11 21:20:00 -04:00
+categories:
+- event
 main-image: "/uploads/representative-congress.png"
 event-start-date: 2018-05-29 18:30:00 -04:00
 event-end-date: 2018-05-29 20:30:00 -04:00
