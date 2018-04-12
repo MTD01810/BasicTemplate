@@ -3,6 +3,7 @@ title: Indivisible Andover - June meeting
 date: 2018-04-11 21:27:00 -04:00
 categories:
 - event
+main-image: "/uploads/mass-dems-logo-dark.png"
 event-start-date: 2018-06-26 18:30:00 -04:00
 event-end-date: 2018-06-26 20:30:00 -04:00
 Location: Christ Church, 25 Central Street, Andover, MA 01810
