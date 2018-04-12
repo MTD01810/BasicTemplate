@@ -3,7 +3,7 @@ title: Conor Lamb projected winner in close PA-18 House Seat special election
 date: 2018-03-14 15:28:00 -04:00
 categories:
 - Success
-is featured: true
+is featured: false
 main-image: "/uploads/PA-18%20conor%20lamb%20results.jpg"
 ---
 
