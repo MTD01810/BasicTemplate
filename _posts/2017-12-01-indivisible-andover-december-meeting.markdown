@@ -4,9 +4,9 @@ date: 2017-12-01 20:55:00 -05:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/winter-solstice.jpg"
-event-start-date: 2018-02-27 18:30:00 -05:00
-event-end-date: 2018-02-27 20:30:00 -05:00
+main-image: "/uploads/money-in-politics.jpg"
+event-start-date: 2018-04-24 18:30:00 -04:00
+event-end-date: 2018-04-24 20:30:00 -04:00
 Location: Christ Church, 25 Central Street, Andover, MA 01810
 RSVP-link: https://www.facebook.com/events/1737460982959817/
 ---
