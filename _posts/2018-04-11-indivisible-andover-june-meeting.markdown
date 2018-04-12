@@ -1,6 +1,6 @@
 ---
 title: Indivisible Andover - June meeting
-date: 2018-04-11 21:27:00 -04:00
+date: 2018-04-11 20:27:00 -04:00
 categories:
 - event
 main-image: "/uploads/mass-dems-logo-dark.png"
