@@ -14,6 +14,7 @@ RSVP-link: https://www.facebook.com/events/1737460982959817/
 Our focus this year will be on getting as many Dems elected as possible - at the local, state, and federal levels; on our home turf and in sister districts all over the country. 
 
 **Guest Speakers**
+* [Josh Zakim](https://www.joshzakim.com/) - Candidate for MA Secretary of State
 * [Dan Koh](https://koh2018.com/) - Candidate for Congress MA-03 
 * Sherri Riesner - Will speak about money in politics. Sherri is a member of [Represent.Us](https://represent.us/) and [American Promise](http://www.americanpromise.net/).
 
