@@ -1,6 +1,8 @@
 ---
 title: Indivisible Andover - Meet the Candidates event
 date: 2018-04-13 15:06:00 -04:00
+categories:
+- event
 main-image: "/uploads/andover-districts-graphic.GIF"
 event-start-date: 2018-05-03 18:30:00 -04:00
 event-end-date: 2018-05-03 20:30:00 -04:00
