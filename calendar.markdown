@@ -8,6 +8,3 @@ layout: calendar
 ---
 
 There are so many ways to get involved in person. Highlighted events are listed individually, and the Google Calendar below includes many more events (Local and State - blue, Capitol Calendar - red, US Holidays - gray).
-
-Other ways to find events by topic, geography
-* [Resistance Calendar](http://bit.ly/2nzMJDB) - A grassroots volunteer-run listing of progressive political action. Everywhere.
