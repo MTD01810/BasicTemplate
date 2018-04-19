@@ -14,7 +14,7 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 
 **Guest Speakers**
 * [Lori Trahan](https://loritrahan.com/) - Candidate for MA Secretary of State
-* Pam Poindexter and Diane Riemer, two members of our Indivisible chapter, will give us a recap of their experience as delegates at the M[ass Democratic Convention](https://massdems.org/convention/).
+* Pam Poindexter and Diane Riemer, two members of our Indivisible chapter, will give us a recap of their experience as delegates at the [Mass Democratic Convention](https://massdems.org/convention/).
 
 **Meeting Logistics**
 * Same place - The Meeting Room at Christ Church, 25 Central Street, Andover
