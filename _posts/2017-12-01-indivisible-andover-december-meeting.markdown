@@ -16,7 +16,7 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 **Guest Speakers**
 * [Josh Zakim](https://www.joshzakim.com/) - Candidate for MA Secretary of State
 * [Dan Koh](https://koh2018.com/) - Candidate for Congress MA-03 
-* Sherri Riesner - Will speak about money in politics. Sherri is a member of [Represent.Us](https://represent.us/) and [American Promise](http://www.americanpromise.net/).
+* Sherri Riesner - Will speak about money in politics and efforts underway to repeal Citizens United. Sherri is a member of [Represent.Us](https://represent.us/) and [American Promise](http://www.americanpromise.net/).
 
 [Represent.Us](https://represent.us/) works nationally and is based in Massachusetts. Represent.Us has a broad democracy-movement agenda that includes reforming lobbying legislation, campaign finance, and electoral processes to strengthen representative democracy so that our government truly does…represent us!  Massachusetts is not a target state for a Represent.Us-driven legislative action at this time. However, volunteer chapters have been busy working with partner organizations on ballot initiatives, educating the public, and passing state bills related to campaign finance and electoral reforms. Last spring, the 2 state chapters led an effort to pass 25 non-binding anti-corruption resolutions in town meetings across the state. These resolutions call on our state legislators to to work for reforms that will strengthen democracy. Several towns are working to pass additional resolutions this year. 
 
