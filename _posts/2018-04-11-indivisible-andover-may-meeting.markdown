@@ -14,7 +14,8 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 
 **Guest Speakers**
 * [Alexandra Chandler](https://www.alexandrachandler.com/) - Candidate for Congress MA-03 
-* A proxy from Elizabeth Warren's campaign
+* [Mike Armano](https://armanoforsenate.com/) - Candidate for MA State Senate
+* A proxy from [Elizabeth Warren](https://elizabethwarren.com/)'s campaign
 
 **Meeting Logistics**
 * Same place - The Meeting Room at Christ Church, 25 Central Street, Andover
