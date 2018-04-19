@@ -8,9 +8,3 @@ layout: calendar
 ---
 
 There are so many ways to get involved in person. Highlighted events are listed individually, and the Google Calendar below includes many more events.
-
-**Legend**
-* Light blue - Indivisible Andover and town events
-* Navy blue - Events hosted by sister groups
-* Red - Capitol Calendar (from Indivisible National)
-* Gray - US Holidays
