@@ -12,8 +12,8 @@ Location: Christ Church, 25 Central Street, Andover, MA
 Our focus this year will be on getting as many Dems elected as possible - at the local, state, and federal levels; on our home turf and in sister districts all over the country.
 
 **Guest Speakers**
-* Juana Matias - Candidate for MA-03 Congressional seat
-* Rufus Gifford - Candidate for MA-03 Congressional seat
+* [Juana Matias](https://juanamatias.com/) - Candidate for MA-03 Congressional seat
+* [Rufus Gifford](https://rufusgifford.com/) - Candidate for MA-03 Congressional seat
 
 **Meeting Logistics**
 * Same place - The Meeting Room at Christ Church, 25 Central Street, Andover
