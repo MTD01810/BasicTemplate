@@ -14,6 +14,7 @@ Our focus this year will be on getting as many Dems elected as possible - at the
 **Guest Speakers**
 * [Barbara L'Italien](http://teambarbara.com/) - Candidate for MA-03 Congressional seat
 * [Barry Finegold](https://www.barryfinegold.com/) - Candidate for MA State Senate
+* [Tram Ngyuen](http://votetram.com/) - Candidate for 18th Essex State Representative
 
 **Meeting Logistics**
 * Same place - The Meeting Room at Christ Church, 25 Central Street, Andover
