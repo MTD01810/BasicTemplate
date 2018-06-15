@@ -1,9 +1,10 @@
 ---
 title: Indivisible Andover - April meeting
 date: 2018-04-15 20:55:00 -04:00
+published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/money-in-politics.jpg"
 event-start-date: 2018-04-24 18:30:00 -04:00
 event-end-date: 2018-04-24 20:30:00 -04:00
