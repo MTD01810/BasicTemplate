@@ -12,7 +12,7 @@ RSVP-link: https://www.facebook.com/events/1737460982959817/
 
 Our focus this year will be on getting as many progressive candidates elected as possible - at the local, state, and federal levels; on our home turf and in sister districts all over the country.
 
-Please come meet the candidates and learn about our get out the vote plans at our next meeting, Tuesday, June 26th.  
+Please come meet the candidates and learn about our get out the vote plans at our next meeting, Tuesday, June 26th. (Check out the [coverage of our last meeting](https://bit.ly/2tbZ93J) in the local paper, The Andover Townsman.)
 
 **Guest Speakers**
 * [Lori Trahan](https://loritrahan.com/) - Candidate for MA-03 Congressional seat
