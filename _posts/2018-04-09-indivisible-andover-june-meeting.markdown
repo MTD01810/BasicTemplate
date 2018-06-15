@@ -4,7 +4,7 @@ date: 2018-04-09 20:27:00 -04:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/Andover01.png"
+main-image: "/uploads/MA-3rd-District-7cb9cd.jpg"
 event-start-date: 2018-06-26 18:30:00 -04:00
 event-end-date: 2018-06-26 20:30:00 -04:00
 Location: Christ Church, 25 Central Street, Andover, MA 01810
