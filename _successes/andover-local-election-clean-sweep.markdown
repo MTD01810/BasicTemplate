@@ -3,7 +3,7 @@ title: Andover Local Election - Clean Sweep!
 date: 2018-02-01 21:36:00 -05:00
 categories:
 - Success
-is featured: true
+is featured: false
 main-image: "/uploads/postcard-for-local-election-2.jpg"
 ---
 
