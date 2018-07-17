@@ -11,9 +11,13 @@ Location: Christ Church 25 Central Street, Andover, MA 01810
 RSVP-link: https://www.facebook.com/events/1897240443911543/
 ---
 
-Our focus this year will be on getting as many Dems elected as possible - at the local, state, and federal levels; on our home turf and in sister districts all over the country. 
+You thought you'd get the summer off? THIS summer? The summer before the 2018 midterms? Not so fast. 
 
-**Guest Speakers**
+The big blue wave is set to sweep across even Massachusetts. Charlie Baker is, based on polling data anyway, a popular, moderate, well funded Republican incumbent. But he's vulnerable, read more: [Why Charlie Baker is beatable](https://commonwealthmagazine.org/opinion/why-charlie-baker-is-beatable/) (CommonWealth)
+
+Please join us to meet the Democratic candidates who are FOR sanctuary cities, gun control, healthcare, a woman's right to choose, a living minimum wage, and transgender protections - to name a few of the issues that are at risk right now.
+
+**Come Meet the Candidates**
 * [Jay Gonzalez](https://jay4ma.com/) - Candidate for Governor of Massachusetts
 * [Quentin Palfrey](https://www.quentinpalfrey.com/) - Candidate for Lieutenant Governor of Massachusetts
 
