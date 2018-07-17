@@ -13,7 +13,7 @@ RSVP-link: https://www.facebook.com/events/1897240443911543/
 
 You thought you'd get the summer off? THIS summer? The summer before the 2018 midterms? Not so fast. 
 
-The big blue wave is set to sweep across even Massachusetts. Charlie Baker is, based on polling data anyway, a popular, moderate, well funded Republican incumbent. But he's vulnerable, read more: [Why Charlie Baker is beatable](https://commonwealthmagazine.org/opinion/why-charlie-baker-is-beatable/) (CommonWealth)
+The big blue wave is set to sweep across even Massachusetts. Charlie Baker is, based on polling data anyway, a "popular", moderate-ish, well-funded Republican incumbent. But he's vulnerable, read more: [Why Charlie Baker is beatable](https://commonwealthmagazine.org/opinion/why-charlie-baker-is-beatable/) (CommonWealth)
 
 Please join us to meet the Democratic candidates who are FOR sanctuary cities, gun control, healthcare, a woman's right to choose, a living minimum wage, and transgender protections - to name a few of the issues that are at risk right now.
 
