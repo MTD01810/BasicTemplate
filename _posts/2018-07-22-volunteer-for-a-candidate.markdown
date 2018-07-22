@@ -1,6 +1,8 @@
 ---
 title: Volunteer for a Candidate
 date: 2018-07-22 14:19:00 -04:00
+categories:
+- action
 tags:
 - action
 main-image: "/uploads/Canvass.jpg"
