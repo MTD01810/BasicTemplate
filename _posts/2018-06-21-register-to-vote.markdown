@@ -11,7 +11,8 @@ main-image: "/uploads/register-to-vote-word-cloud.png"
 
 One of our biggest efforts between now and the midterms will be to drive voter turnout. Make sure you are able to do your part by making your vote count:
 1. Make sure you are registered to vote in time. [Check your registration status here](https://bit.ly/1IYJYjQ).
-2. Look to see if you are going to be in town on the day of both the primary and the election. If not, request an absentee ballot by the deadline.
+2. Look to see if you are going to be in town on the day of both the primary and the election. If not, request an absentee ballot by the deadline. ([Absentee voting details for Andover, MA](https://bit.ly/2I5r4cy))
+3. Ask your friends and family if they are registered to vote. Repeat steps 1 and 2. 
 
 ### Key Dates and Milestones
 **August**
