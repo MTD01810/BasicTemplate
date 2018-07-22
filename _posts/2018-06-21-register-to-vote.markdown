@@ -19,7 +19,7 @@ One of our biggest efforts between now and the midterms will be to drive voter t
 * Aug 31 - Deadline to request an absentee ballot. 
 
 **September**
-* Sep 4 - PRIMARY ELECTION! (Note: this is the Tuesday right after Labor Day.)
+* Sep 4 - PRIMARY ELECTION! (*Note: this is the Tuesday right after Labor Day*.)
 * Sep 4 - Deadline for Town Hall to receive absentee ballot
 
 **October**
@@ -27,4 +27,4 @@ One of our biggest efforts between now and the midterms will be to drive voter t
 
 **November**
 * Nov 5 - Deadline to request an absentee ballot
-* **Nov 6 - ELECTION DAY! **
+* Nov 6 - ELECTION DAY!
