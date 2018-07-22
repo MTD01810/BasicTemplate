@@ -6,7 +6,7 @@ categories:
 tags:
 - GOTV
 is featured: true
-main-image: "/uploads/register-to-vote-word-cloud.png"
+main-image: "/uploads/Register-to-VOTE.jpg"
 ---
 
 One of our biggest efforts between now and the midterms will be to drive voter turnout. Make sure you are able to do your part by making your vote count:
