@@ -10,7 +10,7 @@ main-image: "/uploads/register-to-vote-word-cloud.png"
 ---
 
 One of our biggest efforts between now and the midterms will be to drive voter turnout. Make sure you are able to do your part by making your vote count:
-1. Make sure you are registered to vote in time.
+1. Make sure you are registered to vote in time. [Check your registration status here](https://bit.ly/1IYJYjQ).
 2. Look to see if you are going to be in town on the day of both the primary and the election. If not, request an absentee ballot by the deadline.
 
 ### Key Dates and Milestones
