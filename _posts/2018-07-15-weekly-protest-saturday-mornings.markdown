@@ -1,8 +1,10 @@
 ---
 title: Weekly Protest - Saturday mornings
-date: 2018-07-22 19:49:00 -04:00
+date: 2018-07-15 19:49:00 -04:00
 categories:
 - action
+main-image: "/uploads/saturday-morning-protest.jpg"
+Location: Shawsheen corner of routes 133 and 28
 ---
 
 Please come join us on the corner of routes 133 and 28 in Andover, Shawsheen corner right near Brickstone plaza. 
