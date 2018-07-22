@@ -1,5 +1,5 @@
 ---
-title: Issues
+title: Mission
 date: 2017-09-30 22:09:00 -04:00
 position: 0
 layout: post
