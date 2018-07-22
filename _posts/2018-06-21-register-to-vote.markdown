@@ -27,4 +27,4 @@ One of our biggest efforts between now and the midterms will be to drive voter t
 
 **November**
 * Nov 5 - Deadline to request an absentee ballot
-* **Nov 6 - ELECTION DAY! **
+* Nov 6 - ELECTION DAY!
