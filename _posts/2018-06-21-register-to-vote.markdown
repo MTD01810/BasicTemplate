@@ -14,6 +14,7 @@ One of our biggest efforts between now and the midterms will be to drive voter t
 2. Look to see if you are going to be in town on the day of both the primary and the election. If not, request an absentee ballot by the deadline. ([Absentee voting details for Andover, MA](https://bit.ly/2I5r4cy))
 3. Ask your friends and family if they are registered to vote. Repeat steps 1 and 2. 
 
+
 ### Key Dates and Milestones
 **August**
 * Aug 15 - Deadline to register to vote for September primary. [Check your registration status here](https://bit.ly/1IYJYjQ).
