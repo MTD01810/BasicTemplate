@@ -8,4 +8,10 @@ layout: post
 
 This is a draft of the new landing page that includes a way to get to the (secure) group to group networking tools.
 
-![elections-logo-png.png](/uploads/elections-logo-png.png)
+[elections-logo.PNG](/uploads/elections-logo.PNG)
+
+[GOTV-logo.PNG](/uploads/GOTV-logo.PNG)
+
+[Issues-logo.PNG](/uploads/Issues-logo.PNG)
+
+[G2G-networking-logo.PNG](/uploads/G2G-networking-logo.PNG)
