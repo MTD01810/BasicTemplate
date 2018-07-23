@@ -2,7 +2,7 @@
 title: G2G Networking landing page
 date: 2018-07-22 21:13:00 -04:00
 categories:
-- issue
+- Issues
 ---
 
 [[elections-logo.JPG](/uploads/elections-logo.JPG)](http://indivisibleandoverma.com/issues/2018-flip-it-blue.html)
