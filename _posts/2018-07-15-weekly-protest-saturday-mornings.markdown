@@ -17,4 +17,4 @@ So far we have protested:
 * The protection of the Russia investigation
 * General protesting against Trump
 
-Please bring a sign, sunscreen and friends. All are welcome - even pets!
+Please bring a sign, sunscreen and friends. All are welcome - even dogs!
