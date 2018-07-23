@@ -8,4 +8,4 @@ layout: post
 
 Help me help you. Help me help you.
 
-[elections-logo.JPG](/uploads/elections-logo.JPG)
+[elections-logo-b8437d.JPG](/uploads/elections-logo-b8437d.JPG)
