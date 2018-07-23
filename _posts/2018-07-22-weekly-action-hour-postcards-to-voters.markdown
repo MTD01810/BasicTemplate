@@ -10,7 +10,7 @@ Location: Panera Bread in North Andover, MA
 RSVP-link: https://www.facebook.com/events/2071127513214729/
 ---
 
-Want to make a big impact in just one hour a week? We will be writing postcards to Andover residents who are eligible to vote but are not yet registered. Please come help us drive local voter engagement and turnout for this fall's primary and mid-term election. 
+Want to make a big impact in just one hour a week? Join us on Wednesdays where we will be writing postcards to Andover residents who are eligible to vote but are not yet registered. Please come help us drive local voter engagement and turnout for this fall's primary and mid-term election. 
 
 * When: Wednesday evenings from 6:30-7:30 pm
 * Where: Panera Bread in North Andover
