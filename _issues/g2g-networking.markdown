@@ -7,5 +7,3 @@ categories:
 ---
 
 Here is a draft version of the new Mission landing page that includes a way to get to the Group to Group Networking form.
-
-[elections-logo.JPG](/uploads/elections-logo.JPG)
