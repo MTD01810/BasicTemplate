@@ -1,5 +1,5 @@
 ---
-title: G2G Networking landing page
+title: G2G Networking
 date: 2018-07-22 21:13:00 -04:00
 categories:
 - Issues
