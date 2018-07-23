@@ -1,5 +1,5 @@
 ---
-title: Make your vote count!
+title: Make your vote count - register!
 date: 2018-06-21 14:38:00 -04:00
 categories:
 - action
@@ -14,6 +14,8 @@ One of our biggest efforts between now and the midterms will be to drive voter t
 2. Look to see if you are going to be in town on the day of both the primary and the election. If not, request an absentee ballot by the deadline. ([Absentee voting details for Andover, MA](https://bit.ly/2I5r4cy))
 3. Ask your friends and family if they are registered to vote. Repeat steps 1 and 2. 
 
+**Why this is important**
+You can't assume you are registered. Voter rolls are being purged as a means of voter suppression. More information: "[Voter purges are on the rise in states with a history of racial discrimination](https://bit.ly/2O48XXq)" (Vox, July 2018) Take control of your constitutional right. 
 
 ### Key Dates and Milestones
 **August**
