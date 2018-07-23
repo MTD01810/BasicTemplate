@@ -6,6 +6,6 @@ categories:
 layout: post
 ---
 
-Help me help you. Help me help you.
+This is a draft of the new landing page that includes a way to get to the (secure) group to group networking tools.
 
 ![elections-logo-png.png](/uploads/elections-logo-png.png)
