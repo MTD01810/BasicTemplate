@@ -3,7 +3,7 @@ title: Indivisible Andover
 timezone: America/New_York
 collections:
   issues:
-    title: Mission
+    title: Issues
     output: true
   posts:
     title: Posts
