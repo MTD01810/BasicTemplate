@@ -7,3 +7,5 @@ layout: post
 ---
 
 Help me help you. Help me help you.
+
+[elections-logo.JPG](/uploads/elections-logo.JPG)
