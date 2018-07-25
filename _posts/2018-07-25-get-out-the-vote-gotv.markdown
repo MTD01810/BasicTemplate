@@ -2,7 +2,7 @@
 title: Get Out the Vote (GOTV)
 date: 2018-07-25 14:45:00 -04:00
 categories:
-- issue
+- action
 tags:
 - GOTV
 ---
