@@ -1,9 +1,10 @@
 ---
 title: Meet the Candidates event - July edition
 date: 2018-07-16 20:58:00 -04:00
+published: false
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/jay-quentin.JPG"
 event-start-date: 2018-07-24 18:30:00 -04:00
 event-end-date: 2018-07-24 20:30:00 -04:00
