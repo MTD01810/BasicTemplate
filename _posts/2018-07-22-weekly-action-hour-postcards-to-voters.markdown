@@ -6,6 +6,7 @@ categories:
 tags:
 - GOTV
 main-image: "/uploads/voter-reg-FRONT-2.JPG"
+event-start-date: 0006-01-01 00:03:58 -04:56
 Location: Panera Bread in North Andover, MA
 RSVP-link: https://www.facebook.com/events/2071127513214729/
 ---
