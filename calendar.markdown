@@ -11,4 +11,4 @@ There are so many ways to get involved in person. Highlighted events are listed 
 
 Weekly Events
 * [Wednesday Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30 pm @ Panera)
-* [Saturday Morning Protest](https://bit.ly/2LOHo2I) (10:00-11:00 am @ Shawsheen Square)
+* [Saturday Morning Protest](https://bit.ly/2LOHo2I) (10:00-11:00 am @ Shawsheen Sq)
