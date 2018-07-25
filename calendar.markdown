@@ -10,5 +10,5 @@ layout: calendar
 There are so many ways to get involved in person. Highlighted events are listed individually, and the Google Calendar below includes many more events.
 
 Weekly Events
-* [Wednesday Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30)
-* [Saturday Morning Protest](https://bit.ly/2LOHo2I) (10:00-11:00)
+* [Wednesday Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30 pm @ Panera)
+* [Saturday Morning Protest](https://bit.ly/2LOHo2I) (10:00-11:00 am @ Shawsheen Square)
