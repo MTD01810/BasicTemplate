@@ -5,11 +5,11 @@ date: 2018-07-25 14:45:00 -04:00
 
 **Are you interested in getting more voters to the polls?**
 
-If so, please join us as we canvass intermittent voters using the Environmental Voter Project's (EVP) get out the vote strategy. To sign up, go to our [EVP event posting](https://www.facebook.com/events/802896223251104/).
+If so, please join us as we canvass intermittent voters using the [Environmental Voter Project](https://www.environmentalvoter.org/)'s get out the vote strategy. To sign up, go to our [EVP event posting](https://www.facebook.com/events/802896223251104/).
 
 **Why do we love this strategy?**
 
-* It is simple. EVP uses sophisticated methods to identify progressive environmentalists with inconsistent voting records. All we have to do is ask those people to vote.
+* It's simple. EVP uses sophisticated methods to identify progressive environmentalists with inconsistent voting records. All we have to do is ask those people to vote.
 
 * EVP's strategy results in a significant increase in voter turnout (up to 13% or more) by environmentalists in the targeted community.
 
