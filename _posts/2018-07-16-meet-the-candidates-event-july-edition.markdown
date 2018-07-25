@@ -1,7 +1,6 @@
 ---
 title: Meet the Candidates event - July edition
 date: 2018-07-16 20:58:00 -04:00
-published: false
 categories:
 - event
 is featured: false
