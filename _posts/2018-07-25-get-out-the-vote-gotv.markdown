@@ -5,6 +5,7 @@ categories:
 - action
 tags:
 - GOTV
+main-image: "/uploads/evp-logo.png"
 ---
 
 **Are you interested in getting more voters to the polls?**
