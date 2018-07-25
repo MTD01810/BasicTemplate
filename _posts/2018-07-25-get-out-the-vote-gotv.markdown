@@ -22,7 +22,7 @@ Canvassing for the Environmental Voter Project is a simple process. You will hav
 If the answer is yes, this piece by Marcia Hohn, a member of our GOTV team, may help you get involved:
 
 **WHY I LIKE TO CANVASS**
-by Marcia Drew Hohn
+<BR>by Marcia Drew Hohn
 
 I was very apprehensive about canvassing when I started with Obama’s New Hampshire campaign in 2008 and continued for Hillary in 2016. Here is what I found to like about canvassing:
 
