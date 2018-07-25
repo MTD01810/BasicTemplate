@@ -10,7 +10,7 @@ layout: post
 
 Indivisible groups across the country are working together to get as many progressive candidates elected as possible. This effort includes races for the House of Representatives and Senate seats at the federal level, governorships, and state and local positions. It also includes the many special elections that are slated to take place between now and the midterms.
 
-Indivisible Andover is not aligned with any one party. It is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
+Indivisible Andover is not aligned with any political party. It is our goal to give candidates and voters opportunities to meet each other in order to vet and support the candidates we believe will serve their constituents with integrity and transparency.
 
 [Local Election](http://indivisibleandoverma.com/issues/andover-local-election-mar-27-2018.html) - Tuesday **March 27th**! 
 * Board of Selectmen 
