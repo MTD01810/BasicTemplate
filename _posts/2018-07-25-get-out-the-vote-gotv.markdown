@@ -21,4 +21,4 @@ Canvassing for the Environmental Voter Project is a simple process. You will hav
 
 If the answer is yes, this piece by Marcia Hohn, a member of our GOTV team, may help you get involved:
 
-![why-i-like-to-canvass.PNG](/uploads/why-i-like-to-canvass.PNG)
+![why-i-like-to-canvass-872c1f.PNG](/uploads/why-i-like-to-canvass-872c1f.PNG)
