@@ -1,5 +1,5 @@
 ---
-title: 2018 - Flip It Blue
+title: Elections
 date: 2017-09-30 21:02:00 -04:00
 categories:
 - Issues
