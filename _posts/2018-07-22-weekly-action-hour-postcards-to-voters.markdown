@@ -2,7 +2,7 @@
 title: Weekly Action Hour - Postcards to Voters
 date: 2018-07-22 15:07:00 -04:00
 categories:
-- action
+- event
 tags:
 - GOTV
 main-image: "/uploads/voter-reg-FRONT-2.JPG"
