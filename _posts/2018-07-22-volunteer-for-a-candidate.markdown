@@ -11,35 +11,35 @@ main-image: "/uploads/Canvass.jpg"
 We have met many worthy candidates at our events over the past several months. If you would like to volunteer to support a specific candidate, the contact information is provided below: 
 
 **Federal Senate race**
-* Elizabeth Warren - contact Jona Rivera (Jrivera@elizabethwarren.com)
+* [Elizabeth Warren](https://elizabethwarren.com/) - contact Jona Rivera (Jrivera@elizabethwarren.com)
 
 **Federal MA-03 Congressional race** (the "Niki Tsongas" seat)
-* Dan Koh - contact Andrew Brockwell (andrew@koh2018.com)
-* Alexandra Chandler - contact Lauren Young (Lauren@alexandrachandler.com)
-* Rufus Gifford - contact Meaghan Callahan (meaghan@rufusgifford.com) or Shanti Khanna (shanti@rufusgifford.com)
-* Juana Matias - contact Samantha Riemer (juana@juanamatias.com)
-* Jeff Ballinger - contact Tanyeli Ballinger (tanyabb@hotmail.com)
-* Lori Trahan - contact Grace Pezzella (grace@loritrahan.com) or Jon Latino (jon@loritrahan.com)
-* Barbara L'Italien - contact Joe Thibodeau (Joseph.Thibodeau02@gmail.com)
+* [Dan Koh](www.koh2018.com) - contact Andrew Brockwell (andrew@koh2018.com)
+* [Alexandra Chandler](www.alexandrachandler.com) - contact Lauren Young (Lauren@alexandrachandler.com)
+* [Rufus Gifford](www.rufusgifford.com) - contact Meaghan Callahan (meaghan@rufusgifford.com) or Shanti Khanna (shanti@rufusgifford.com)
+* [Juana Matias](www.juanamatias.com) - contact Samantha Riemer (juana@juanamatias.com)
+* [Jeff Ballinger](www..ballingerforcongress.com) - contact Tanyeli Ballinger (tanyabb@hotmail.com)
+* [Lori Trahan](www.loritrahan.com) - contact Grace Pezzella (grace@loritrahan.com) or Jon Latino (jon@loritrahan.com)
+* [Barbara L'Italien](www.teambarbara.com) - contact Joe Thibodeau (Joseph.Thibodeau02@gmail.com)
 
 **Federal MA-06 Congressional seat**
-* Seth Moulton - contact Tyler McEachern (ty@sethmoulton.com)
+* [Seth Moulton](www.sethmoulton.com) - contact Tyler McEachern (ty@sethmoulton.com)
 
 **Governor**
-* Jay Gonzalez - contact Aran Hamilton-Grenham (ahamiltongren@students.stonehill.edu) or Josh Troop (josh@jay4ma.com)
+* [Jay Gonzalez](www.jay4ma.com) - contact Aran Hamilton-Grenham (ahamiltongren@students.stonehill.edu) or Josh Troop (josh@jay4ma.com)
 
 **Lieutenant Governor**
-* Quentin Palfrey - contact Jess Lieberman (jess@quentinpalfrey.com)
+* [Quentin Palfrey](www.quentinpalfrey.com) - contact Jess Lieberman (jess@quentinpalfrey.com)
 
 **MA State Attorney General**
-* Maura Healey - contact Maureen Kelledy (Info@MauraHealey.com)
+* [Maura Healey](www.maurahealey.com) - contact Maureen Kelledy (Info@MauraHealey.com)
 
 **MA State Speaker of the House**
-* Josh Zakim - contact Fernando Ortiz (fernando@joshzakim.com)
+* [Josh Zakim](www.joshzakim.com) - contact Fernando Ortiz (fernando@joshzakim.com)
 
 **MA State Senate**
-* Barry Finegold - contact MaryRose Mazzola (maryrose@barryfinegold.com)
-* Mike Armano - contact Mike Armano (ArmanoForSenate@gmail.com)
+* [Barry Finegold](www.barryfinegold.com) - contact MaryRose Mazzola (maryrose@barryfinegold.com)
+* [Mike Armano](www.armanoforsenate.com) - contact Mike Armano (ArmanoForSenate@gmail.com)
 
 **MA State Rep 18th Essex**
-* Tram Ngyuen - contact Elaine Almquist (elaine.almquist@gmail.com)
+* [Tram Ngyuen](www.votetram.com) - contact Elaine Almquist (elaine.almquist@gmail.com)
