@@ -14,7 +14,7 @@ We have met many worthy candidates at our events over the past several months. I
 * [Elizabeth Warren](https://elizabethwarren.com/) - contact Jona Rivera (Jrivera@elizabethwarren.com)
 
 **Federal MA-03 Congressional race** (the "Niki Tsongas" seat)
-* [Dan Koh](www.koh2018.com) - contact Andrew Brockwell (andrew@koh2018.com)
+* [Dan Koh](http://www.koh2018.com) - contact Andrew Brockwell (andrew@koh2018.com)
 * [Alexandra Chandler](www.alexandrachandler.com) - contact Lauren Young (Lauren@alexandrachandler.com)
 * [Rufus Gifford](www.rufusgifford.com) - contact Meaghan Callahan (meaghan@rufusgifford.com) or Shanti Khanna (shanti@rufusgifford.com)
 * [Juana Matias](www.juanamatias.com) - contact Samantha Riemer (juana@juanamatias.com)
