@@ -7,6 +7,8 @@ is featured: true
 main-image: "/uploads/midterms-house-2018.jpg"
 ---
 
+**Do one thing a day, every day. ACT or DONATE**
+
 Remember how you felt the morning after the presidential election in 2016? Sick. And an overwhelming feeling that you should have done more. 
 
 Don't repeat that experience this November, the morning after the midterms. We have a way every type of activism you can do, and how for less than an hour a day, you can do something every day between now and the election. (And here's the key to this commitment: Any day you're booked solid or maybe exhausted, just contribute $5 to a worthy blue wave cause of your choice.)
