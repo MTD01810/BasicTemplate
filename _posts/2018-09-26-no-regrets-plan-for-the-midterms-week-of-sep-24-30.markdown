@@ -40,4 +40,4 @@ One act every day - so when you wake up on Nov 7th, whether you're floating on a
 **Sunday Sep 30**
 * NOT a rest day! Mitch McConnell doesn't rest when crafting his evil, duplicitous plans, so neither will we. Activist choice.
 
-**There - Week 1 is done! Was that so hard? **
+**There - Week 1 is done!**
