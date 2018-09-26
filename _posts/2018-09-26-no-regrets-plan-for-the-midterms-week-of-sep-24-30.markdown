@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/midterms-house-2018.jpg"
 ---
 
-**Do one thing a day, every day. ACT or DONATE**
+**Do one thing a day, every day. ACT or DONATE**            
 
 Remember how you felt the morning after the presidential election in 2016? Sick. And an overwhelming feeling that you should have done more. 
 
