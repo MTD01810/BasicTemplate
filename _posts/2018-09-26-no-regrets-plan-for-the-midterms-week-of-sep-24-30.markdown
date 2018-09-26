@@ -21,7 +21,7 @@ One act every day - so when you wake up on Nov 7th, whether you're floating on a
 * Democracy is not a spectator sport, and we're not done fighting yet. Please join us to learn about canvassing, text-banking, post-carding, and the many other easy ways to impact the midterms.
 
 **Wednesday Sep 26**
-* Weekly Action Hour - Postcards to Voters
+* [Weekly Action Hour - Postcards to Voters](http://indivisibleandoverma.com/action/2018/07/22/weekly-action-hour-postcards-to-voters.html)
 * At Panera in North Andover
 * 6:30-7:30 pm
 
@@ -32,7 +32,7 @@ One act every day - so when you wake up on Nov 7th, whether you're floating on a
 * Activist choice - based on options from the Sep meeting
 
 **Saturday Sep 29**
-* Weekly Protest
+* [Weekly Protest](http://indivisibleandoverma.com/action/2018/07/15/weekly-protest-saturday-mornings.html)
 * Shawsheen plaza (intersection of routes 28 and 133)
 * 10:00-11:00 am
 * B.Y.O. signs - Prize for most creativity, bring your A-game.
