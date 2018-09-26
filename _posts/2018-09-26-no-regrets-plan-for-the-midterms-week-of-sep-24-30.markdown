@@ -3,6 +3,8 @@ title: '"No Regrets" Plan for the Midterms - Week of Sep 24-30'
 date: 2018-09-26 18:48:00 -04:00
 categories:
 - action
+is featured: true
+main-image: "/uploads/midterms-house-2018.jpg"
 ---
 
 Remember how you felt the morning after the presidential election in 2016? Sick. And an overwhelming feeling that you should have done more. 
