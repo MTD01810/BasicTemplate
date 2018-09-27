@@ -1,6 +1,7 @@
 ---
 title: "‘It’s a Sea Change’ for Democratic Women in the Primaries"
 date: 2018-06-21 14:27:00 -04:00
+published: false
 is featured: true
 main-image: "/uploads/womens-march-washington-499179324-rc1a8662da60-rtrmadp-3de680.jpg"
 ---
