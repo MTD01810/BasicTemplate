@@ -1,5 +1,5 @@
 ---
-title: Weekly Action Hour - Postcards to Voters
+title: Postcards to Voters - every Wednesday @ Panera
 date: 2018-07-22 15:07:00 -04:00
 categories:
 - action
