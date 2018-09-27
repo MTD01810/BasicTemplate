@@ -3,7 +3,7 @@ title: Canvassing
 date: 2018-09-26 21:52:00 -04:00
 categories:
 - Success
-main-image: "/uploads/canvassing.jpg"
+main-image: "/uploads/canvassing-58a6e3.jpg"
 ---
 
 **Why canvass?**
