@@ -11,7 +11,7 @@ main-image: "/uploads/canvassing.jpg"
 * It's an easy ask - you don't have to change minds
 * Targeting intermittent voters is complementary to the super voters typically targeted by campaigns
 
-All of the different reasons and times you can canvass:
+Canvassing opportunities:
 1. [EVP canvassing with Indivisible Andover](https://bit.ly/2LPgjfV)
 * Training every Saturday, or on request
 
