@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/canvassing.jpg"
 ---
 
-**Why canvass? **
+**Why canvass?**
 * It's the most effective way to reach voters
 * It's an easy ask - you don't have to change minds
 * Targeting intermittent voters is complementary to the super voters typically targeted by campaigns
