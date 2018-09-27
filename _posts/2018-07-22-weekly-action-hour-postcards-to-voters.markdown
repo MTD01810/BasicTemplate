@@ -1,5 +1,5 @@
 ---
-title: Postcards to Voters - every Wednesday @ Panera
+title: Postcards to Voters - every Wednesday
 date: 2018-07-22 15:07:00 -04:00
 categories:
 - action
