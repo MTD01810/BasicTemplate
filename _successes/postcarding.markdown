@@ -17,3 +17,9 @@ Post-carding opportunities:
 2. [Need to Impeach](https://bit.ly/2xQa4mR) - Order stamped, addressed postcards that you simply have to personalize and mail.
 * The cut off date for ordering cards is October 10
 * It takes 10-14 days for them to arrive
+
+3. Write a thank you note to Dr. Ford
+* Dr Christine Ford
+* c/o Palo Alto University
+* 1791 Arastradero Rd
+* Palo Alto, CA 94304
