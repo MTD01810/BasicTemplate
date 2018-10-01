@@ -4,7 +4,7 @@ date: 2018-09-26 18:48:00 -04:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/blue%20wave.png"
+main-image: "/uploads/pumpkin-wave.jpg"
 ---
 
 **Do one thing a day, every day. ACT or DONATE**
