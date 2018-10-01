@@ -18,7 +18,7 @@ Any day you're booked solid (or maybe just exhausted) and therefore can't ACT, y
 * (The fund has reached $1.7M already ... )
 * [Hold Susan Collins accountable](https://bit.ly/2NbuPiK)
 
-**RAINN **- Rape, Abuse, Incest National Network
+**RAINN** - Rape, Abuse, Incest National Network
 * Based on Dr. Ford's testimony during the Kavanaugh hearings from last week, you can donate to RAINN, the largest sexual assault support organization in the US.
 * [Support RAINN](https://donate.rainn.org/)
 
