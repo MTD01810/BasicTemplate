@@ -4,7 +4,7 @@ date: 2018-09-26 18:48:00 -04:00
 categories:
 - action
 is featured: true
-main-image: "/uploads/midterms-house-2018.jpg"
+main-image: "/uploads/blue%20wave.png"
 ---
 
 **Do one thing a day, every day. ACT or DONATE**
