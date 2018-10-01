@@ -12,15 +12,6 @@ This new era has ushered in unprecedented issues, errors, risks, and division. T
 * [The Weekly List](http://theweeklylist.org/) -The “new normal” of American politics is not normal. The Weekly List reminds us of that. On a weekly basis, the List tracks specific news stories representing eroding norms under the current regime. Taken together, they reveal a nation pushed towards authoritarianism, the wielding of unchecked governmental authority by one person or group at the expense of the freedom of those who oppose them.
 * [WTF Just Happened Today?](http://bit.ly/2l2FvCp) - The daily shock and awe in national politics
 
-
-**Tracking the Trump-Russia Investigation**
-* [Team Trump’s ties to Russian interests](https://www.washingtonpost.com/graphics/national/trump-russia/?utm_term=.6a7cf975e8b4) (WaPo)
-* [Tracking the investigations of the Special Council, the Senate and House.](http://www.cnn.com/interactive/2017/politics/russia-investigations/) (CNN)
-
-**Objective analysis of controversial topics**
-* [Fox's Shep Smith takes apart the Uranium One conspiracy](http://bit.ly/2APXpjW) (Media Matters 14Nov17)
-* [Uranium One Story: Joy Ann Reid reviews conservative reporter's talking reports](http://bit.ly/2zLpJUp) (MSNBC 29Oct17)
-
 **Credible news sources to track headlines**
 * [The Washington Post](https://www.washingtonpost.com/) "Democracy dies in darkness"
 * [The New York Times](https://www.nytimes.com/)
