@@ -3,7 +3,7 @@ title: Donate
 date: 2018-09-30 21:27:00 -04:00
 categories:
 - Success
-main-image: "/uploads/donate.png"
+main-image: "/uploads/grassroots-donations.jpg"
 ---
 
 Any day you're booked solid (or maybe just exhausted) and therefore can't ACT, you can contribute $5 to a worthy blue wave cause of your choice. Here are some ideas:
