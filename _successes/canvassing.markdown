@@ -14,7 +14,8 @@ main-image: "/uploads/canvassing-58a6e3.jpg"
 Canvassing opportunities:
 1. [EVP canvassing with Indivisible Andover](https://bit.ly/2LPgjfV)
 * Training every Saturday, or on request
+* Once you're trained and you have your EVP turf, you can canvass whenever you want. 
 
-2. Unity campaign to support Dems running for MA seats up and down the ticket
+2. Volunteer for the [Coordinated Campaign](https://act.myngp.com/Forms/-5510369440999142400) to support Dems running for MA seats up and down the ticket
 
 3. For any of the three ballot questions
