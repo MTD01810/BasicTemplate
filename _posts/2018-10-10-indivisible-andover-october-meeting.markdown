@@ -3,7 +3,7 @@ title: Indivisible Andover - October meeting
 date: 2018-10-10 16:15:00 -04:00
 categories:
 - event
-main-image: "/uploads/ballot-questions-2018.png"
+main-image: "/uploads/ballot-questions-2018-small.png"
 event-start-date: 2018-10-23 18:30:00 -04:00
 event-end-date: 2018-10-23 20:30:00 -04:00
 Location: Christ Church - Parish Hall, 25 Central St, Andover
