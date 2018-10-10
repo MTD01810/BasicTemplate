@@ -23,5 +23,5 @@ Come join us at our last meeting before the midterms for an overview of the thre
 * A "yes" vote on this referendum keeps in place a law, passed in 2016 and signed by Gov. Charlie Baker. The law prohibits discrimination of gender identity in places of public accommodation, like retail stores. A "no" vote would repeal the law.
 * We will have a guest speaker for a 'Yes' vote
 
-Additional Guidance
+**Additional Guidance**
 * [League of Women Voters of Mass](https://bit.ly/2nYnqbE)
