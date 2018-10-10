@@ -22,7 +22,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 
 * Canvass for [Tram Nguyen](https://votetram.com/get-involved/)
 * 4:00-6:30 pm
-* Tram/Seth Moulton HQ, 203 Turnpike St., Ste 303, North Andover, MA
+* Tram/Seth Moulton HQ, 203 Turnpike St, Suite 303, North Andover
 
 **Tuesday Oct 9**
 * [Weekly Text-banking](https://bit.ly/2ItgDjy) - Training and outreach to non-voting environmentalists in Florida 
@@ -36,19 +36,19 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 
 **Wednesday Oct 10**
 * [Phone banking for Tram](https://bit.ly/2C6d8y9)
-4:30 pm - 8:00 pm (come when you can, stay as long as you can)
-* Tram/Seth Moulton HQ, 203 Turnpike St., Ste 303, North Andover, MA
+* 4:30 pm - 8:00 pm (come when you can, stay as long as you can)
+* Tram/Seth Moulton HQ, 203 Turnpike St, Suite 303, North Andover
 
 * [Weekly Action Hour - Postcards to Voters](https://bit.ly/2JSX4QO)
 * At Panera in North Andover
 * 6:30-7:30 pm
 
-* [Candidate Forum](https://bit.ly/2REoY8k) - hosted by League of Women Voters
+* [Candidate Forum](https://bit.ly/2REoY8k) - hosted by League of Women Voters Andover/North Andover
 * 6:30-9:00 pm
-* The Stevens Estate, 723 Osgood Street
+* The Stevens Estate, 723 Osgood Street, North Andover
 
 **Thursday Oct 11**
-* [Weekly Webinar](https://bit.ly/2OfH5Db) - Winning the 2018 Midterms, hosted by Indivisible MA
+* [Weekly Webinar](https://bit.ly/2OfH5Db) - Winning the 2018 Midterms, hosted by [Indivisible MA](https://www.indivisible-ma.org/)
 * 8:00-9:00 pm
 * [RSVP ](https://bit.ly/2IKikcp)to get the link for the webinar
 
@@ -59,7 +59,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 * [Weekly Protest](https://bit.ly/2LOHo2I)
 * Shawsheen plaza (intersection of routes 28 and 133)
 * 10:00-11:00 am
-* B.Y.O. signs - Prize for most creativity, bring your A-game.
+* B.Y.O. signs - Prize for most creativity, bring your A-game
 
 * [Sign holding for Tram Nguyen](https://bit.ly/2IMO6Wq)
 * 10:00 am-1:00 pm
@@ -82,7 +82,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 
 * Democrats Coordinated Campaign
 * 2:00 pm
-* Tram/Seth Headquarters, 203 Turnpike St, Suite 303, North Andover
+* Tram/Seth Moulton HQ, 203 Turnpike St, Suite 303, North Andover
 
 * [Weekly Post-carding](https://bit.ly/2pKR9Wp) - Additional day and time added!!
 * 3:00-4:00 pm
