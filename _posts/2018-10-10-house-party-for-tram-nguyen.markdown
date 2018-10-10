@@ -6,6 +6,7 @@ categories:
 main-image: "/uploads/tram.jpg"
 event-start-date: 2018-10-22 19:00:00 -04:00
 event-end-date: 2018-10-22 20:30:00 -04:00
+Location: Address provided upon RSVP
 RSVP-link: https://www.facebook.com/events/165085267758390/
 ---
 
