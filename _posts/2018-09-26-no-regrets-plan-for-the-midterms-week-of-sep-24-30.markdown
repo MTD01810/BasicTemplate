@@ -43,7 +43,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 * At Panera in North Andover
 * 6:30-7:30 pm
 
-* [Candidate Forum](https://bit.ly/2REoY8k) - hosted by League of Women Voters
+* [Candidate Forum](https://bit.ly/2REoY8k) - hosted by League of Women Voters Andover/North Andover
 * 6:30-9:00 pm
 * The Stevens Estate, 723 Osgood Street
 
