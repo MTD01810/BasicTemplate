@@ -14,12 +14,14 @@ main-image: "/uploads/postcarding.jpg"
 Post-carding opportunities: 
 1. [Postcards to Voters](https://bit.ly/2JSX4QO) every Wed at Panera, 6:30-7:30
 
-2. [Need to Impeach](https://bit.ly/2xQa4mR) - Order stamped, addressed postcards that you simply have to personalize and mail.
+2. [MomsRising.org GOTV campaign](https://bit.ly/2ybtSBg) for infrequent women voters
+* Sign up now to send just 5 postcards to registered voters who haven't always voted on Election Day in the past. We'll send you a packet of pre-addressed, pre-stamped postcards. All you need to do is write a quick note of encouragement and drop them in the mail. 
+
+3. [Postcards to Voters](https://postcardstovoters.org/) from Tony the Democrat
+* Text JOIN to (484) 275-2229 or Email us at Join@TonyTheDemocrat.org
+
+4. [Need to Impeach](https://bit.ly/2xQa4mR) - Order stamped, addressed postcards that you simply have to personalize and mail.
 * The cut off date for ordering cards is October 10
 * It takes 10-14 days for them to arrive
 
-3. Write a thank you note to Dr. Ford
-* Dr Christine Ford
-* c/o Palo Alto University
-* 1791 Arastradero Rd
-* Palo Alto, CA 94304
+
