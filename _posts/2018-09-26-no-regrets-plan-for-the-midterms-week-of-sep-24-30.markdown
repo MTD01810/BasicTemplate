@@ -22,7 +22,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 
 * Canvass for [Tram Nguyen](https://votetram.com/get-involved/)
 * 4:00-6:30 pm
-* Tram's HQ office: 203 Turnpike St, Suite 303, North Andover
+* Tram/Seth Moulton HQ, 203 Turnpike St., Ste 303, North Andover, MA
 
 **Tuesday Oct 9**
 * [Weekly Text-banking](https://bit.ly/2ItgDjy) - Training and outreach to non-voting environmentalists in Florida 
@@ -37,7 +37,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 **Wednesday Oct 10**
 * [Phone banking for Tram](https://bit.ly/2C6d8y9)
 4:30 pm - 8:00 pm (come when you can, stay as long as you can)
-* Tram/Seth Moulton HQ, 203 Turnpike St., Ste 303, * North Andover, MA
+* Tram/Seth Moulton HQ, 203 Turnpike St., Ste 303, North Andover, MA
 
 * [Weekly Action Hour - Postcards to Voters](https://bit.ly/2JSX4QO)
 * At Panera in North Andover
