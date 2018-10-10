@@ -45,7 +45,7 @@ One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we
 
 * [Candidate Forum](https://bit.ly/2REoY8k) - hosted by League of Women Voters Andover/North Andover
 * 6:30-9:00 pm
-* The Stevens Estate, 723 Osgood Street
+* The Stevens Estate, 723 Osgood Street, North Andover
 
 **Thursday Oct 11**
 * [Weekly Webinar](https://bit.ly/2OfH5Db) - Winning the 2018 Midterms, hosted by Indivisible MA
