@@ -7,11 +7,8 @@ main-image: "/uploads/postcarding.jpg"
 ---
 
 **Why postcard?**
-
 * It's surprisingly effective
-
 * It's social! If you do it in groups.
-
 * But you can do it anywhere
 
 Post-carding opportunities:
