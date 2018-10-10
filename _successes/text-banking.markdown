@@ -1,5 +1,5 @@
 ---
-title: Text Banking
+title: Texting
 date: 2018-09-26 22:11:00 -04:00
 categories:
 - Success
