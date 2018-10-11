@@ -22,7 +22,7 @@ Any day you're booked solid (or maybe just exhausted) and therefore can't ACT, y
 * TWENTY-THREE right-wing groups are launching attacks against Heidi to turn this critical seat red. She’s counting on grassroots supporters like you to help her fight back.
 * [Give now](https://bit.ly/2CBoM5g) to keep Heidi Heitkamp fighting for us in the Senate!
 
-**RAINN** - Rape, Abuse, Incest National Network
+**Rape, Abuse, Incest National Network (RAINN)**
 * Based on Dr. Ford's testimony during the Kavanaugh hearings from last week, you can donate to RAINN, the largest sexual assault support organization in the US.
 * [Support RAINN](https://donate.rainn.org/)
 
