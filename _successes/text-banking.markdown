@@ -29,7 +29,7 @@ main-image: "/uploads/text-banking.png"
 * Get connected with the team and other hosts to make sure you have everything you need to get your house party up and running.
 * [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeK5caAGd6Nca4WadhZ0ydbpP5B91sjoCYbR0a5gFH9lNTPBQ/viewform?source=KS_EM_FR_B90D_181009_3_4&refcode=KS_EM_FR_B90D_181009_3_4)
 
-[Vote With Me](https://votewithme.us/) app
-* See which friends live in swing districts and need your reminder to vote
+**Friend to friend texting** in swing districts via VoteWithMe
 * This free app uses public voter files to tell us which of our phone contacts didn't vote in 2014 or 2016 and gives us an way to nudge them to vote in 2018.
 * The app was used in the PA-18 to help Conor Lamb get elected, and in controlled trial found that it was 20x more effective than standard campaign tactics. Wow!
+* Get the [Vote With Me](https://votewithme.us/) app
