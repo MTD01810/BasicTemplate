@@ -19,6 +19,7 @@ Any day you're booked solid (or maybe just exhausted) and therefore can't ACT, y
 * [Support the candidates](https://secure.actblue.com/donate/fmslate1#social) in these key swing districts
 
 **SENATE - Defend Heidi Heitkamp in North Dakota**
+* Senator Heitkamp voted against Kavanaugh's nomination to the Supreme Court. 
 * TWENTY-THREE right-wing groups are launching attacks against Heidi to turn this critical seat red. She’s counting on grassroots supporters like you to help her fight back.
 * [Give now](https://bit.ly/2CBoM5g) to keep Heidi Heitkamp fighting for us in the Senate!
 
