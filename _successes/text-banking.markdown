@@ -32,4 +32,4 @@ main-image: "/uploads/text-banking.png"
 **Friend to friend texting** in swing districts via VoteWithMe
 * This free app uses public voter files to tell us which of our phone contacts didn't vote in 2014 or 2016 and gives us an way to nudge them to vote in 2018.
 * The app was used in the PA-18 to help Conor Lamb get elected, and in controlled trial found that it was 20x more effective than standard campaign tactics. Wow!
-* Get the [Vote With Me](https://votewithme.us/) app
+* [Get the app](https://votewithme.us/)
