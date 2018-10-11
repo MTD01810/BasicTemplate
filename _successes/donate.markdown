@@ -13,7 +13,7 @@ Any day you're booked solid (or maybe just exhausted) and therefore can't ACT, y
 * Your donation will support things like meeting room rentals, art supplies and transportation.
 * [Support us here](https://bit.ly/2zH0N24)
 
-**Force Multiplier**
+**HOUSE - Force Multiplier**
 * Help swing 15 congressional districts from Red to Blue by supporting front-running Democratic candidates
 * Your contribution will be divided evenly between Anthony Brindisi, Abby Finkenauer, and 13 other groups.
 * [Support the candidates](https://secure.actblue.com/donate/fmslate1#social) in these key swing districts
