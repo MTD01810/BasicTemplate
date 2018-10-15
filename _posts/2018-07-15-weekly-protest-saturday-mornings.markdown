@@ -19,6 +19,9 @@ So far we have protested:
 * Brett Kavanaugh's nomination to the Supreme Court
 * General protesting against Trump
 
-We also demonstrate on behalf of candidates we support and include messages that remind people to register and vote. 
+We also demonstrate: 
+* On behalf of candidates we support
+* To encourage people to register to vote
+* To remind people about when to vote - local election, primary, and now Nov 6th
 
-Please bring a sign, warm layers and friends. All are welcome - even dogs!
+Please bring signs, warm layers and friends. All are welcome - even dogs!
