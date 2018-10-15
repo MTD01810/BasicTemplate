@@ -1,5 +1,5 @@
 ---
-title: Protest - every Saturday
+title: Demonstrate - every Saturday
 date: 2018-07-15 19:49:00 -04:00
 categories:
 - action
@@ -15,6 +15,10 @@ So far we have protested:
 * The separation of immigrant families at the border
 * The need for better gun control (part of March for Our Lives)
 * The protection of the Russia investigation
+* "Moderate" Charlie Baker helping conservative Jim Lyons raise money
+* Brett Kavanaugh's nomination to the Supreme Court
 * General protesting against Trump
 
-Please bring a sign, sunscreen and friends. All are welcome - even dogs!
+We also demonstrate on behalf of candidates we support and include messages that remind people to register and vote. 
+
+Please bring a sign, warm layers and friends. All are welcome - even dogs!
