@@ -1,5 +1,5 @@
 ---
-title: '"No Regrets" Plan for the Midterms - Week 3 (Oct 8-14)'
+title: '"No Regrets" Plan for the Midterms - Week 4 (Oct 15-21)'
 date: 2018-09-26 18:48:00 -04:00
 categories:
 - action
