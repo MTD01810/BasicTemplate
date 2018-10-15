@@ -16,9 +16,7 @@ This is week 4 of a weekly schedule of ways for you to contribute to the blue wa
 One hour or $5 every day for 21 days. So when you wake up on Nov 7th, whether we're floating on a blue wave or not, you can honestly say you did everything you could.  
 
 **Monday Oct 15**
-* House Party for Tram Nguyen
-* 7:00 – 8:30 pm
-* Address will be provided upon [RSVP](https://www.facebook.com/events/165085267758390/)
+* Activist choice - ACT or [DONATE](https://bit.ly/2C6slPQ)
 
 **Tuesday Oct 16**
 * [Weekly Text-banking](https://bit.ly/2ItgDjy) - Training and outreach to non-voting environmentalists in Florida 
