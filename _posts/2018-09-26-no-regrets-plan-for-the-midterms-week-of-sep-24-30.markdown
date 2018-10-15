@@ -9,11 +9,11 @@ main-image: "/uploads/pumpkin-wave.jpg"
 
 **Do one thing a day, every day. ACT or DONATE**
 
-Remember how you felt the morning after the presidential election in 2016? Sick. And an overwhelming feeling that you should have done more. 
+Remember after the 2016 election when The Resistance pointed to the 2018 midterms as the greatest opportunity to offset the damage of this administration? At the time the midterm election seemed so far off - how were we going to manage for 2 years? Well, we did it. The midterms are now a mere 21 days away.
 
-Don't repeat that experience this November, the morning after the midterms. Each week between now and the midterms we will send out a weekly schedule of ways for you to contribute to the blue wave in less than an hour each day. Not available for our event? Pick your own. No time for anything? Contribute $5 to a worthy blue wave cause of your choice.
+This is week 4 of a weekly schedule of ways for you to contribute to the blue wave in less than an hour each day. Not available for a listed event? Pick your own. No time for anything? Contribute $5 to a worthy blue wave cause of your choice.
 
-One hour or $5 every day for 37 days. So when you wake up on Nov 7th, whether we're floating on a blue wave or not, you can honestly say you did everything you could. 
+One hour or $5 every day for 21 days. So when you wake up on Nov 7th, whether we're floating on a blue wave or not, you can honestly say you did everything you could.  
 
 **Monday Oct 8**
 * Postcards for [Amy McGrath (KY)](https://bit.ly/2yswSZx)
