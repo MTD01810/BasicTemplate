@@ -7,6 +7,7 @@ main-image: "/uploads/ballot-questions-2018-small.png"
 event-start-date: 2018-10-23 18:30:00 -04:00
 event-end-date: 2018-10-23 20:30:00 -04:00
 Location: Christ Church - Parish Hall, 25 Central St, Andover
+RSVP-link: https://www.facebook.com/events/2331577777077566/
 ---
 
 Come join us at our last meeting before the midterms for an overview of the three ballot questions voters will have to decide on, as well as activism opportunities in the final push to election day. 
