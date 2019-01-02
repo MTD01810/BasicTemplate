@@ -1,9 +1,10 @@
 ---
 title: '"No Regrets" Plan for the Midterms - Week 4 (Oct 15-21)'
 date: 2018-09-26 18:48:00 -04:00
+published: false
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/pumpkin-wave.jpg"
 ---
 
