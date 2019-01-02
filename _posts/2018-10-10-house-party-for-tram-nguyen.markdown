@@ -1,6 +1,7 @@
 ---
 title: House party for Tram Nguyen
 date: 2018-10-10 16:11:00 -04:00
+published: false
 categories:
 - event
 main-image: "/uploads/tram.jpg"

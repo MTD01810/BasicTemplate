@@ -1,6 +1,7 @@
 ---
 title: Canvass to Get Out the Vote
 date: 2018-07-25 14:45:00 -04:00
+published: false
 categories:
 - action
 tags:
