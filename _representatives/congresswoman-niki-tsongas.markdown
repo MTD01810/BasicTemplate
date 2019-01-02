@@ -13,4 +13,4 @@ website: https://tsongas.house.gov/
 layout: post
 ---
 
-Serving the [3rd District of Massachusetts](https://tsongas.house.gov/3rd-district/)
+Serving the [3rd District of Massachusetts](https://loritrahan.com/)
