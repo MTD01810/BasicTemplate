@@ -13,4 +13,3 @@ There are so many ways to get involved in person. Highlighted events are listed 
 * [Tuesdays - Text banking](https://bit.ly/2IPzAgr) (6:30-7:30 pm)
 * [Wednesdays - Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30 pm)
 * [Saturdays - Morning Protest](https://bit.ly/2LOHo2I) (10:00-11:00 am)
-* [Sundays- Postcards to Voters](https://bit.ly/2JSX4QO) (3:00-4:00 pm)
