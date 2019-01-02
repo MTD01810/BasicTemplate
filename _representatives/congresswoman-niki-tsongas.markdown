@@ -5,11 +5,9 @@ categories:
 - representative
 position: 2
 phone-numbers:
-  twitter: "@nikiinthehouse"
-  DC Office: "(202) 225-3411"
-  Lawrence Office: "(978) 459-0101"
-  Haverhill Office: "(978) 459.0101"
-website: https://tsongas.house.gov/
+  twitter: "@LoriUSCongress"
+  Lowell Office: 978-453-3200
+website: https://loritrahan.com/
 layout: post
 ---
 
