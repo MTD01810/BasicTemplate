@@ -1,6 +1,7 @@
 ---
 title: Indivisible Andover - October meeting
 date: 2018-10-10 16:15:00 -04:00
+published: false
 categories:
 - event
 main-image: "/uploads/ballot-questions-2018-small.png"
