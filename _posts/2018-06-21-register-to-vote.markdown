@@ -5,13 +5,15 @@ categories:
 - action
 tags:
 - GOTV
-is featured: false
+is featured: true
 main-image: "/uploads/Register-to-VOTE.jpg"
 ---
 
-One of our biggest efforts between now and the midterms will be to drive voter turnout. Make sure you are able to do your part by making your vote count:
-1. Make sure you are registered to vote in time. [Check your registration status here](https://bit.ly/1IYJYjQ).
-2. Look to see if you are going to be in town on the day of both the primary and the election. If not, request an absentee ballot by the deadline. ([Absentee voting details for Andover, MA](https://bit.ly/2I5r4cy))
+One of our biggest successes prior to the midterms was driving voter turnout. We will continue efforts on this front, locally and out-of-district, in order to 
+
+Make sure you are able to do your part by making your vote count:
+1. Make sure you are registered to vote. [Check your registration status here](https://bit.ly/1IYJYjQ).
+2. Look to see if you are going to be in town on the day of a given election. If not, request an absentee ballot by the deadline. ([Absentee voting details for Andover, MA](https://bit.ly/2I5r4cy))
 3. Ask your friends and family if they are registered to vote. Repeat steps 1 and 2. 
 
 **Why this is important**
@@ -21,10 +23,7 @@ One of our biggest efforts between now and the midterms will be to drive voter t
 
 Take control of your constitutional right!
 
-### Key Dates and Milestones
-**October**
-* Oct 17 - Deadline to register to vote for November election. [Check your registration status here](https://bit.ly/1IYJYjQ).
-
-**November**
-* Nov 5 - Deadline to request an absentee ballot
-* Nov 6 - ELECTION DAY!
+### Voter Registration in MA
+**General**
+* Deadline to register to vote in MA - 20 days prior to Election Day. [Check your registration status here](https://bit.ly/1IYJYjQ).
+* [MA Voter registration FAQs](https://www.rockthevote.org/voting-information/massachusetts/) (Rock the Vote)
