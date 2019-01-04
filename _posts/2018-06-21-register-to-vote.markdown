@@ -11,7 +11,7 @@ main-image: "/uploads/Register-to-VOTE.jpg"
 
 One of our biggest successes prior to the midterms was driving voter turnout. We will continue efforts on this front, locally and out-of-district, in order to maximize voter engagement and work towards better representation in our elected officials. 
 
-"“We do not have government by the majority. We have government by the majority who participate.” - Thomas Jefferson
+“We do not have government by the majority. We have government by the majority who participate.” - Thomas Jefferson
 
 Your vote is your voice. Here's how to make sure you are heard:
 1. Make sure you are registered to vote. [Check your registration status here](https://bit.ly/1IYJYjQ).
