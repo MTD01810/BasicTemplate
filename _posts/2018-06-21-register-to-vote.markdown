@@ -25,5 +25,5 @@ Your vote is your voice. Here's how to make sure you are heard:
 
 ### Voter Registration in MA
 **General**
-* Deadline to register to vote in MA - 20 days prior to Election Day. [Check your registration status here](https://bit.ly/1IYJYjQ).
+* Deadline to register to vote in MA - 20 days prior to Election Day
 * [MA Voter registration FAQs](https://www.rockthevote.org/voting-information/massachusetts/) (Rock the Vote)
