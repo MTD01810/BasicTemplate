@@ -1,5 +1,5 @@
 ---
-title: 2019 Women's March - Boston
+title: 2019 Women's March @ Boston
 date: 2019-01-08 16:54:00 -05:00
 categories:
 - event
@@ -13,4 +13,4 @@ Location: |-
 RSVP-link: https://www.eventbrite.com/e/2019-boston-womens-march-tickets-53064999843
 ---
 
-With a coalition of intersectional feminist organizations, March Forward Massachusetts is proud to announce the 2019 Boston Women's March returns to Boston Common on January 19, 2019. On this worldwide day of action, we show up together in solidarity with women and allies, in service of those who are most at risk from an agenda that seeks to marginalize and divide us. Our work that was outlined by the original Marches is far from complete. We continue to march forward, building energy and welcoming ever more activism into the arena, until the systems of supremacy which oppress us are dismantled. The 2019 March, taking place on the weekend before the Martin Luther King, Jr. holiday, lifts up the ongoing work in the struggle for civil rights for so many communities.
+With a coalition of intersectional feminist organizations, [March Forward Massachusetts](https://www.marchforwardmassaction.org/) is proud to announce the 2019 Boston Women's March returns to Boston Common on January 19, 2019. On this worldwide day of action, we show up together in solidarity with women and allies, in service of those who are most at risk from an agenda that seeks to marginalize and divide us. Our work that was outlined by the original Marches is far from complete. We continue to march forward, building energy and welcoming ever more activism into the arena, until the systems of supremacy which oppress us are dismantled. The 2019 March, taking place on the weekend before the Martin Luther King, Jr. holiday, lifts up the ongoing work in the struggle for civil rights for so many communities.
