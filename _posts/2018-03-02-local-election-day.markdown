@@ -1,7 +1,6 @@
 ---
-title: Election Day - Mar 27!
+title: Election Day - Mar 26!
 date: 2018-03-02 21:06:00 -05:00
-published: false
 categories:
 - event
 is featured: false
@@ -11,8 +10,8 @@ event-end-date: 2018-03-27 20:00:00 -04:00
 Location: Find your voting precinct
 ---
 
-### Andover’s 2018 Town Election is on 
-### Tuesday, March 27th, 2018
+### Andover’s 2019 Town Election is on 
+### Tuesday, March 26th, 2019
 ### Polls are Open from 7:00 AM to 8:00 PM
 
 * [Review the races and candidates](http://bit.ly/2Fejmiw).
