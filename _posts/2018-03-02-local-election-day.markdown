@@ -5,16 +5,14 @@ categories:
 - event
 is featured: false
 main-image: "/uploads/andover-districts-graphic.GIF"
-event-start-date: 2018-03-27 07:00:00 -04:00
-event-end-date: 2018-03-27 20:00:00 -04:00
+event-start-date: 2019-03-26 07:00:00 -04:00
+event-end-date: 2019-03-26 20:00:00 -04:00
 Location: Find your voting precinct
 ---
 
 ### Andover’s 2019 Town Election is on 
 ### Tuesday, March 26th, 2019
 ### Polls are Open from 7:00 AM to 8:00 PM
-
-* [Review the races and candidates](http://bit.ly/2Fejmiw).
 
 **Find your voting precinct**
 * [Enter your residential address](http://www.sec.state.ma.us/WhereDoIVoteMA/bal/MyElectionInfo.aspx)
