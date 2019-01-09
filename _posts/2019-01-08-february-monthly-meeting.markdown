@@ -16,7 +16,7 @@ Select Board candidates:
 
 School Committee candidates: 
 - Shannon Scully
-- Paul Murphy
+- [Paul Murphy](https://www.murphyforandover.org/)
 
 We will also have sitting Select Board member Annie Gilbert at the meeting, as well as sitting School Committee members Shannon Scully and Joel Blumstein.
 
