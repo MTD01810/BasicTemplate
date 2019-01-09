@@ -16,6 +16,9 @@ Select Board candidates:
 
 School Committee candidates: 
 - Shannon Scully
+- Paul Murphy
+
+We will also have sitting Select Board member Annie Gilbert at the meeting, as well as sitting School Committee members Shannon Scully and Joel Blumstein.
 
 (As confirmations come in we will continue to add names to the agenda.)
 
