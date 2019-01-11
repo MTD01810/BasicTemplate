@@ -7,6 +7,7 @@ main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
 event-start-date: 2019-02-26 18:30:00 -05:00
 event-end-date: 2019-02-26 20:30:00 -05:00
 Location: Parish Hall of Christ Church, Andover MA
+RSVP-link: https://bit.ly/2D3hcPK
 ---
 
 Please join us for a Meet the Candidates forum before the local election (on March 26). We will invite Select Board and School Committee candidates to come make a case for their candidacy. There will be time for mingling and 1:1 conversations with the candidates. 
