@@ -1,5 +1,5 @@
 ---
-title: 2019 Women's March @ Boston
+title: 2019 Women's March @ Boston - Get on the Bus!
 date: 2019-01-08 16:54:00 -05:00
 categories:
 - event
