@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Newsletter & Social
 date: 2017-02-16 22:58:00 -05:00
 position: 4
 mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
@@ -48,8 +48,20 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-Members of the Indivisible Andover chapter are defined by our action and find solidarity in our shared opposition to Trump and the Republican agenda. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
+Greater Andover Indivisible is a local chapter of a nationwide, grassroots movement. Our members are defined by action and find solidarity in our shared opposition to Trump and the Republican agenda. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
 
-Members of Indivisible Andover come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and non-citizens, women and men, all religions and colors. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
+Members of Greater Andover Indivisible come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and non-citizens, women and men, all religions and colors. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
 
 **All are welcome.**
+
+**Greater Andover Indivisible** 
+Andover, MA 01810
+Email: indivisible.andover@gmail.com
+Web: indivisibleandoverma.com
+Facebook: Indivisible Andover
+twitter: @IndivisibleAnd
+instagram: indivisible.andover
+
+[DONATE](https://bit.ly/2QGIEq9)
+
+**#resist #persist**
