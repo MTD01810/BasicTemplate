@@ -15,7 +15,7 @@ RSVP-link: https://www.eventbrite.com/e/2019-boston-womens-march-tickets-5306499
 
 We are renting a bus to take us in to the 3rd annual Women’s March in Boston! 
 * We will leave around 9:00 am to get to The Common at 10:00, and then we could leave around 1:00 to be back in town by 2:00 pm. 
-* We request an optional contribution of $20 (or $10 for students and teachers) to help defray the cost of the rental - less than parking and more fun than the train. 
+* We request an optional contribution of $20 (or $10 for students and teachers) to help defray the cost of the rental. (Hey, it's less than parking and more fun than the train.)
 * [Sign up for a spot](http://evite.me/jBGQBsZp8C)
 
 **More About the March**
