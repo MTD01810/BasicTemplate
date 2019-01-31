@@ -5,3 +5,4 @@ position: 2
 layout: media-grid
 ---
 
+[Get involved - What kind of activist are you?](http://indivisibleandoverma.com/issues/mobilizing-members.html)
