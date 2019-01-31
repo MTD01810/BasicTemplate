@@ -68,7 +68,7 @@ Web: indivisibleandoverma.com <BR>
 Facebook: Indivisible Andover <BR>
 twitter: @IndivisibleAnd <BR>
 instagram: indivisible.andover <BR>
-Pinterest: [Indivisible Andover](https://pin.it/emwchxfmesnjlc) <BR>
+Pinterest: Indivisible Andover <BR>
 
 [DONATE](https://bit.ly/2QGIEq9)
 
