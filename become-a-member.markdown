@@ -67,7 +67,8 @@ Email: indivisible.andover@gmail.com <BR>
 Web: indivisibleandoverma.com <BR>
 Facebook: Indivisible Andover <BR>
 twitter: @IndivisibleAnd <BR>
-instagram: indivisible.andover
+instagram: indivisible.andover <BR>
+Pinterest: [Indivisible Andover](https://pin.it/emwchxfmesnjlc) <BR>
 
 [DONATE](https://bit.ly/2QGIEq9)
 
