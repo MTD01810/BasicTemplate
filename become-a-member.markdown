@@ -14,31 +14,32 @@ mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-
   indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First
   Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"text\" value=\"\"
   name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-LNAME\">Last Name </label>\n\t<input type=\"text\" value=\"\" name=\"LNAME\"
-  class=\"\" id=\"mce-LNAME\">\n</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email
-  Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"email\" value=\"\"
-  name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div class=\"mc-field-group
-  size1of2\">\n\t<label for=\"mce-MMERGE3\">Phone Number </label>\n\t<input type=\"text\"
-  name=\"MMERGE3\" class=\"\" value=\"\" id=\"mce-MMERGE3\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-MMERGE4\">Zip Code </label>\n\t<input type=\"text\" value=\"\" name=\"MMERGE4\"
-  class=\"\" id=\"mce-MMERGE4\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-MMERGE7\">How did you hear of us? </label>\n\t<input type=\"text\" value=\"\"
-  name=\"MMERGE7\" class=\"\" id=\"mce-MMERGE7\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-MMERGE8\">What do you hope to get out of the group? </label>\n\t<input
-  type=\"text\" value=\"\" name=\"MMERGE8\" class=\"\" id=\"mce-MMERGE8\">\n</div>\n<div
-  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE9\">What topics/issues are most
-  important to you? </label>\n\t<input type=\"text\" value=\"\" name=\"MMERGE9\" class=\"\"
-  id=\"mce-MMERGE9\">\n</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE5\">Other
-  activism groups you are engaged with </label>\n\t<input type=\"text\" value=\"\"
-  name=\"MMERGE5\" class=\"\" id=\"mce-MMERGE5\">\n</div>\n<div class=\"mc-field-group
-  input-group\">\n    <strong>I am most interested in (select all): </strong>\n    <ul><li><input
-  type=\"checkbox\" value=\"1\" name=\"group[2431][1]\" id=\"mce-group[2431]-2431-0\"><label
-  for=\"mce-group[2431]-2431-0\">Canvassing</label></li>\n<li><input type=\"checkbox\"
-  value=\"2\" name=\"group[2431][2]\" id=\"mce-group[2431]-2431-1\"><label for=\"mce-group[2431]-2431-1\">Post-carding</label></li>\n<li><input
-  type=\"checkbox\" value=\"4\" name=\"group[2431][4]\" id=\"mce-group[2431]-2431-2\"><label
-  for=\"mce-group[2431]-2431-2\">Test banking</label></li>\n<li><input type=\"checkbox\"
-  value=\"8\" name=\"group[2431][8]\" id=\"mce-group[2431]-2431-3\"><label for=\"mce-group[2431]-2431-3\">Lobby
-  days and town halls</label></li>\n<li><input type=\"checkbox\" value=\"16\" name=\"group[2431][16]\"
+  for=\"mce-LNAME\">Last Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  type=\"text\" value=\"\" name=\"LNAME\" class=\"required\" id=\"mce-LNAME\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-EMAIL\">Email Address  <span class=\"asterisk\">*</span>\n</label>\n\t<input
+  type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\">\n</div>\n<div
+  class=\"mc-field-group size1of2\">\n\t<label for=\"mce-MMERGE3\">Phone Number </label>\n\t<input
+  type=\"text\" name=\"MMERGE3\" class=\"\" value=\"\" id=\"mce-MMERGE3\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE4\">Zip Code </label>\n\t<input
+  type=\"text\" value=\"\" name=\"MMERGE4\" class=\"\" id=\"mce-MMERGE4\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE7\">How did you hear of us?
+  </label>\n\t<input type=\"text\" value=\"\" name=\"MMERGE7\" class=\"\" id=\"mce-MMERGE7\">\n</div>\n<div
+  class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE8\">What do you hope to get
+  out of the group? </label>\n\t<input type=\"text\" value=\"\" name=\"MMERGE8\" class=\"\"
+  id=\"mce-MMERGE8\">\n</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE9\">What
+  topics/issues are most important to you? </label>\n\t<input type=\"text\" value=\"\"
+  name=\"MMERGE9\" class=\"\" id=\"mce-MMERGE9\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
+  for=\"mce-MMERGE5\">Other activism groups you are engaged with </label>\n\t<input
+  type=\"text\" value=\"\" name=\"MMERGE5\" class=\"\" id=\"mce-MMERGE5\">\n</div>\n<div
+  class=\"mc-field-group input-group\">\n    <strong>I am most interested in (select
+  all): </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\" name=\"group[2431][1]\"
+  id=\"mce-group[2431]-2431-0\"><label for=\"mce-group[2431]-2431-0\">Canvassing</label></li>\n<li><input
+  type=\"checkbox\" value=\"2\" name=\"group[2431][2]\" id=\"mce-group[2431]-2431-1\"><label
+  for=\"mce-group[2431]-2431-1\">Post-carding</label></li>\n<li><input type=\"checkbox\"
+  value=\"4\" name=\"group[2431][4]\" id=\"mce-group[2431]-2431-2\"><label for=\"mce-group[2431]-2431-2\">Test
+  banking</label></li>\n<li><input type=\"checkbox\" value=\"8\" name=\"group[2431][8]\"
+  id=\"mce-group[2431]-2431-3\"><label for=\"mce-group[2431]-2431-3\">Lobby days and
+  town halls</label></li>\n<li><input type=\"checkbox\" value=\"16\" name=\"group[2431][16]\"
   id=\"mce-group[2431]-2431-4\"><label for=\"mce-group[2431]-2431-4\">Protests</label></li>\n</ul>\n</div>\n\t<div
   id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
   style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
