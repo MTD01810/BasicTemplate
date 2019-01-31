@@ -64,12 +64,12 @@ Members of Greater Andover Indivisible come from all kinds of backgrounds and po
 
 **Greater Andover Indivisible** <BR>
 Andover, MA 01810 <BR>
-Email: indivisible.andover@gmail.com <BR>
-Web: indivisibleandoverma.com <BR>
-Facebook: Indivisible Andover <BR>
+email: indivisible.andover@gmail.com <BR>
+web: indivisibleandoverma.com <BR>
+facebook: Indivisible Andover <BR>
 twitter: @IndivisibleAnd <BR>
 instagram: indivisible.andover <BR>
-Pinterest: Indivisible Andover <BR>
+pinterest: Indivisible Andover <BR>
 
 [DONATE](https://bit.ly/2QGIEq9)
 
