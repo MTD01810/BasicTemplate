@@ -73,4 +73,4 @@ pinterest: Indivisible Andover <BR>
 
 [DONATE](https://bit.ly/2QGIEq9)
 
-**#resist #persist**
+**#resist   #persist**
