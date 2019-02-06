@@ -5,4 +5,4 @@ position: 2
 layout: media-grid
 ---
 
-### **Our 2019 Priorities** - [Mission Overview](http://indivisibleandoverma.com/issues/mission-overview.html)
+### **2019 Priorities** - [Mission Overview](http://indivisibleandoverma.com/issues/mission-overview.html)
