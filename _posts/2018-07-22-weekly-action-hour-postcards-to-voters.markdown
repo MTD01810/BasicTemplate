@@ -15,7 +15,7 @@ RSVP-link: https://www.facebook.com/events/2071127513214729/
 * It's social! If you do it in groups, but 
 * You can do it anywhere
 
-**Postcard with us**
+**Postcard with us** <BR>
 Want to make a big impact in just one hour a week? Join us on Wednesdays where we write postcards to voters in the community and in swing districts all over the country.
 * When: Wednesday evenings from 6:30-7:30 pm
 * Where: Panera Bread in North Andover
