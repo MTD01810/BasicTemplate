@@ -12,7 +12,7 @@ main-image: "/uploads/text-banking-at-neros.jpg"
 * It's FAST! You can text hundreds of people in an hour.
 * It's easy - here's a [text-banking overview](https://www.indivisible-ma.org/training-texting) from Indivisible MA
 
-**Text bank with us**
+**Text bank with us** <BR>
 Join us for an hour of good company and texting. Training is provided, coffee and snacks are optional. (And once trained, you can text wherever and whenever you're available.)
 * Tuesday evenings 6:30-7:30 pm
 * Cafe Nero, 77 Main St. Andover
