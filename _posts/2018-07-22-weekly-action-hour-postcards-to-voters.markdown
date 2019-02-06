@@ -21,7 +21,7 @@ Want to make a big impact in just one hour a week? Join us on Wednesdays where w
 * Where: Panera Bread in North Andover
 * What to bring: We provide the postcards but please bring stamps or $7 for the postage. 
 
-**Self-service post-carding**
+**Self-service postcarding**
 1. [MomsRising.org GOTV campaign](https://bit.ly/2ybtSBg) for infrequent women voters
    Sign up to order a packet of 5 pre-addressed, pre-stamped postcards to registered voters who haven't always voted in the past. All you need to do is write a quick note of encouragement and drop them in the mail.
 
