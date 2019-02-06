@@ -1,5 +1,5 @@
 ---
-title: Mission Overview 2017-18
+title: Mission Overview
 date: 2018-03-02 21:01:00 -05:00
 published: false
 categories:
