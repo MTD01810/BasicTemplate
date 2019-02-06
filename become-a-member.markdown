@@ -1,5 +1,5 @@
 ---
-title: Newsletter & Social
+title: Join Us
 date: 2017-02-16 22:58:00 -05:00
 position: 5
 mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/classic-10_7.css\"
