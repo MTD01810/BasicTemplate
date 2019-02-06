@@ -3,6 +3,7 @@ title: Donate
 date: 2019-02-05 21:26:00 -05:00
 categories:
 - action
+main-image: "/uploads/grassroots-donations.jpg"
 ---
 
 Any day you're booked solid (or maybe just exhausted) and therefore can't ACT, you can contribute to a worthy blue wave cause of your choice. Here are some ideas:
