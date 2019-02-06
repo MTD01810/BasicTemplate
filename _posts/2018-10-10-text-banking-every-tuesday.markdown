@@ -14,9 +14,9 @@ main-image: "/uploads/text-banking-at-neros.jpg"
 
 **Text bank with us** <BR>
 Join us for an hour of good company and texting. Training is provided, coffee and snacks are optional. (And once trained, you can text wherever and whenever you're available.)
-* Tuesday evenings 6:30-7:30 pm
-* Cafe Nero, 77 Main St. Andover
-* BYO smart phone or laptop
+* When: Tuesday evenings 6:30-7:30 pm
+* Where: Cafe Nero, 77 Main St. Andover
+* What to bring: BYO smart phone or laptop
 
 **Self-service texting**
 * [MoveOn](https://bit.ly/2Iu0Wsa)
