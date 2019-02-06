@@ -1,6 +1,6 @@
 ---
 title: Text-banking - every Tuesday
-date: 2018-10-10 16:00:00 -04:00
+date: 2019-02-03 21:26:00 -05:00
 categories:
 - action
 main-image: "/uploads/text-banking.png"

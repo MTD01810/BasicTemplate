@@ -1,6 +1,6 @@
 ---
 title: Postcards to Voters - every Wed
-date: 2018-07-22 15:07:00 -04:00
+date: 2019-02-04 21:26:00 -05:00
 categories:
 - action
 tags:
