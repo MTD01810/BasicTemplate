@@ -6,5 +6,3 @@ layout: media-grid
 ---
 
 **Our 2019 Priorities** - [Mission Overview](http://indivisibleandoverma.com/issues/mission-overview.html)
-
-**Get involved** - [What kind of activist are you?](http://indivisibleandoverma.com/issues/mobilizing-members.html)
