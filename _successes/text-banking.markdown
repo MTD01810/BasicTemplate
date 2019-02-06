@@ -1,7 +1,6 @@
 ---
 title: Texting
 date: 2018-09-26 22:11:00 -04:00
-published: false
 categories:
 - Success
 main-image: "/uploads/text-banking.png"
