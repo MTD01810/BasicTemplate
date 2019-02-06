@@ -17,7 +17,7 @@ And once you are signed up and trained, you can text wherever and whenever you'r
 * You can do it from any device
 * It's confidential - they don't get your number and you don't get theirs
 * It's FAST! You can text hundreds of people in an hour.
-* It's easy - here's a [Text-banking overview](https://www.indivisible-ma.org/training-texting) from Indivisible MA
+* It's easy - here's a [text-banking overview](https://www.indivisible-ma.org/training-texting) from Indivisible MA
 
 **Metrics**
 * At our session on Tue Oct 9th 15 people converged and sent over 5,000 texts in one hour! 
