@@ -18,7 +18,7 @@ Join us for an hour of good company and texting. Training is provided, coffee an
 * Cafe Nero, 77 Main St. Andover
 * BYO smart phone or laptop
 
-**Self-Service texting**
+**Self-service texting**
 * [MoveOn](https://bit.ly/2Iu0Wsa)
 * [Red2Blue](https://red2blue.org/texting/)
 * [Resistance Labs](https://resistancelabs.com/volunteer)
