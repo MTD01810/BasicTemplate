@@ -3,7 +3,7 @@ title: Text-banking - every Tuesday
 date: 2018-10-10 16:00:00 -04:00
 categories:
 - action
-main-image: "/uploads/text-banking-at-neros.jpg"
+main-image: "/uploads/text-banking.png"
 ---
 
 **Why text bank?**
