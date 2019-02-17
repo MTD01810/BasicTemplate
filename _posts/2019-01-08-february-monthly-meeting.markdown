@@ -17,7 +17,7 @@ Select Board candidates:
 - [Dan Koh](http://teamkoh.com/)
 
 School Committee candidates: 
-- Shannon Scully
+- [Shannon Scully](https://scullyforandover.org/)
 - [Paul Murphy](https://www.murphyforandover.org/)
 
 We will also have sitting Select Board members Annie Gilbert and Laura Gregory at the meeting, as well as sitting School Committee members Susan McCready and Joel Blumstein.
