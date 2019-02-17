@@ -2,7 +2,7 @@
 title: Local Presidents Day Protest to Fight Trump’s Fake Crisis
 date: 2019-02-16 19:14:00 -05:00
 categories:
-- action
+- event
 is featured: true
 main-image: "/uploads/MoveOn_logo.png"
 event-start-date: 2019-02-18 15:00:00 -05:00
