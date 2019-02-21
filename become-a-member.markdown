@@ -29,29 +29,29 @@ mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-
   id=\"mce-MMERGE8\">\n</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-MMERGE9\">What
   topics/issues are most important to you? </label>\n\t<input type=\"text\" value=\"\"
   name=\"MMERGE9\" class=\"\" id=\"mce-MMERGE9\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
-  for=\"mce-MMERGE5\">Other activism groups you are engaged with </label>\n\t<input
-  type=\"text\" value=\"\" name=\"MMERGE5\" class=\"\" id=\"mce-MMERGE5\">\n</div>\n<div
-  class=\"mc-field-group input-group\">\n    <strong>I am most interested in (select
-  all): </strong>\n    <ul><li><input type=\"checkbox\" value=\"1\" name=\"group[2431][1]\"
-  id=\"mce-group[2431]-2431-0\"><label for=\"mce-group[2431]-2431-0\">Canvassing</label></li>\n<li><input
-  type=\"checkbox\" value=\"2\" name=\"group[2431][2]\" id=\"mce-group[2431]-2431-1\"><label
-  for=\"mce-group[2431]-2431-1\">Post-carding</label></li>\n<li><input type=\"checkbox\"
-  value=\"4\" name=\"group[2431][4]\" id=\"mce-group[2431]-2431-2\"><label for=\"mce-group[2431]-2431-2\">Test
-  banking</label></li>\n<li><input type=\"checkbox\" value=\"8\" name=\"group[2431][8]\"
-  id=\"mce-group[2431]-2431-3\"><label for=\"mce-group[2431]-2431-3\">Lobby days and
-  town halls</label></li>\n<li><input type=\"checkbox\" value=\"16\" name=\"group[2431][16]\"
-  id=\"mce-group[2431]-2431-4\"><label for=\"mce-group[2431]-2431-4\">Protests</label></li>\n</ul>\n</div>\n\t<div
-  id=\"mce-responses\" class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\"
-  style=\"display:none\"></div>\n\t\t<div class=\"response\" id=\"mce-success-response\"
-  style=\"display:none\"></div>\n\t</div>    <!-- real people should not fill this
-  in and expect good things - do not remove this or risk form bot signups-->\n    <div
-  style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\"
-  name=\"b_5bf1c06ea06f0ff374e404ea2_649e846679\" tabindex=\"-1\" value=\"\"></div>\n
-  \   <div class=\"clear\"><input type=\"submit\" value=\"Subscribe\" name=\"subscribe\"
-  id=\"mc-embedded-subscribe\" class=\"button\"></div>\n    </div>\n</form>\n</div>\n<script
-  type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
+  for=\"mce-MMERGE5\">Other groups you are engaged with </label>\n\t<input type=\"text\"
+  value=\"\" name=\"MMERGE5\" class=\"\" id=\"mce-MMERGE5\">\n</div>\n<div class=\"mc-field-group
+  input-group\">\n    <strong>I am most interested in (select all): </strong>\n    <ul><li><input
+  type=\"checkbox\" value=\"1\" name=\"group[2431][1]\" id=\"mce-group[2431]-2431-0\"><label
+  for=\"mce-group[2431]-2431-0\">Progressive Leadership</label></li>\n<li><input type=\"checkbox\"
+  value=\"2\" name=\"group[2431][2]\" id=\"mce-group[2431]-2431-1\"><label for=\"mce-group[2431]-2431-1\">Civic
+  Engagement</label></li>\n<li><input type=\"checkbox\" value=\"4\" name=\"group[2431][4]\"
+  id=\"mce-group[2431]-2431-2\"><label for=\"mce-group[2431]-2431-2\">Election Integrity</label></li>\n<li><input
+  type=\"checkbox\" value=\"8\" name=\"group[2431][8]\" id=\"mce-group[2431]-2431-3\"><label
+  for=\"mce-group[2431]-2431-3\">Environment</label></li>\n<li><input type=\"checkbox\"
+  value=\"16\" name=\"group[2431][16]\" id=\"mce-group[2431]-2431-4\"><label for=\"mce-group[2431]-2431-4\">Healthcare</label></li>\n<li><input
+  type=\"checkbox\" value=\"32\" name=\"group[2431][32]\" id=\"mce-group[2431]-2431-5\"><label
+  for=\"mce-group[2431]-2431-5\">Other</label></li>\n</ul>\n</div>\n\t<div id=\"mce-responses\"
+  class=\"clear\">\n\t\t<div class=\"response\" id=\"mce-error-response\" style=\"display:none\"></div>\n\t\t<div
+  class=\"response\" id=\"mce-success-response\" style=\"display:none\"></div>\n\t</div>
+  \   <!-- real people should not fill this in and expect good things - do not remove
+  this or risk form bot signups-->\n    <div style=\"position: absolute; left: -5000px;\"
+  aria-hidden=\"true\"><input type=\"text\" name=\"b_5bf1c06ea06f0ff374e404ea2_649e846679\"
+  tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\"
+  value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n
+  \   </div>\n</form>\n</div>\n<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script
   type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes
-  = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='MMERGE3';ftypes[3]='phone';fnames[4]='MMERGE4';ftypes[4]='zip';fnames[6]='MMERGE6';ftypes[6]='url';fnames[7]='MMERGE7';ftypes[7]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[5]='MMERGE5';ftypes[5]='text';}(jQuery));var
+  = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='MMERGE3';ftypes[3]='phone';fnames[4]='MMERGE4';ftypes[4]='zip';fnames[7]='MMERGE7';ftypes[7]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[5]='MMERGE5';ftypes[5]='text';}(jQuery));var
   $mcj = jQuery.noConflict(true);</script>\n<!--End mc_embed_signup-->"
 layout: becomeAMember
 ---
