@@ -3,7 +3,7 @@ title: Town Hall with Rep. Lori Trahan
 date: 2019-02-21 17:51:00 -05:00
 categories:
 - event
-main-image: "/uploads/VoterChoiceMA.png"
+main-image: "/uploads/VoterChoiceMA.jpg"
 event-start-date: 2019-03-02 13:00:00 -05:00
 event-end-date: 2019-03-02 15:00:00 -05:00
 Location: Harvey Wheeler Community Center, 1276 Main St, West Concord
