@@ -5,7 +5,7 @@ categories:
 - action
 tags:
 - GOTV
-is featured: true
+is featured: false
 main-image: "/uploads/Register-to-VOTE.jpg"
 ---
 
