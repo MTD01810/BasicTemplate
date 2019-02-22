@@ -6,12 +6,11 @@ categories:
 main-image: "/uploads/blue-wave-japanese-style.jpg"
 ---
 
-Advocating the election of leaders who do not conform to conventional or partisan norms but instead seek innovative or "progressive" ways to lead while representing the values and opinions of their constituents.
+The Progressive Leadership working group is focused on getting progressive candidates elected at all levels of government. However, an election victory is not the ultimate goal - once in office we collaborate with elected officials to ensure meaningful policies are passed and precedents are defended in accordance with our overall agenda. 
 
 **Specific Efforts**
-Getting progressive candidates elected at all levels of government:
-* Federal – Senate, House
-* State – State Officers, State Senate, State House
+* Federal seats – Senate, House
+* State seats – State Officers, State Senate, State House
 * Local Boards and Committees
 * Judges
 * Home turf and out-of-district
@@ -26,6 +25,7 @@ Getting progressive candidates elected at all levels of government:
 * Attend Meet the Candidates events, debates
 * Support a specific campaign – Canvass, Post-carding, Text banking, Phone banking, Sign holding, Letters to the Editor, Donate $
 * Candidate vetting criteria, endorsements
+* Prioritizing out-of-district efforts
 
 **Groups to Collaborate With**
 * Swing Left
