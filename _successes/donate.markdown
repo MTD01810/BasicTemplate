@@ -1,6 +1,7 @@
 ---
 title: Donate
 date: 2018-09-30 21:27:00 -04:00
+published: false
 categories:
 - Success
 main-image: "/uploads/grassroots-donations.jpg"
