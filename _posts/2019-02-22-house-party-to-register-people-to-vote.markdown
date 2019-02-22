@@ -11,7 +11,7 @@ Location: 3 Athena Circle, Andover, MA 01810
 RSVP-link: https://bit.ly/2ErahRu
 ---
 
-**It's time to get to work on 2020! **
+**It's time to get to work on 2020!**
 
 Join me for a house party, where we'll be writing letters to unregistered voters in critical states, to provide registration links and instructions. The letters are pre-printed; you just add a short note.
 
