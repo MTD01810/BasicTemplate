@@ -17,6 +17,6 @@ Join me for a house party, where we'll be writing letters to unregistered voters
 
 Think about it: if you help register a voter in one of our targeted Super States, that voter can help us win a key Senate seat, a Presidential swing state, and key State House and Senate races necessary to roll back gerrymanders.
 
-RSVP here, and be sure to invite your friends too. It's all about maximizing the impact of your time and money. I hope to see you soon.
+Please RSVP, and be sure to invite your friends too. It's all about maximizing the impact of your time and money. I hope to see you soon.
 
 Judy
