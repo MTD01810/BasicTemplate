@@ -1,6 +1,8 @@
 ---
 title: Progressive Leadership
 date: 2019-02-22 18:26:00 -05:00
+categories:
+- Success
 main-image: "/uploads/blue-wave-japanese-style.jpg"
 ---
 
