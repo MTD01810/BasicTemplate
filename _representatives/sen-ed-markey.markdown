@@ -1,5 +1,5 @@
 ---
-title: Senator Ed Markey
+title: Senator Ed Markey (D-MA)
 date: 2017-02-03 20:58:00 -05:00
 categories:
 - representative
@@ -14,4 +14,4 @@ website: http://www.markey.senate.gov
 layout: post
 ---
 
-US Senator for Massachusetts
+Junior US Senator for Massachusetts

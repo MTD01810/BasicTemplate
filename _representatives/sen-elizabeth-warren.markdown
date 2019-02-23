@@ -1,5 +1,5 @@
 ---
-title: Senator Elizabeth Warren
+title: Senator Elizabeth Warren (D-MA)
 date: 2017-02-03 21:01:00 -05:00
 categories:
 - representative
@@ -15,4 +15,4 @@ website: https://www.warren.senate.gov
 layout: post
 ---
 
-US Senator for Massachusetts
+Senior US Senator for Massachusetts
