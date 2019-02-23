@@ -25,7 +25,7 @@ The Environment working group is focused on a broad swath of issues that include
 
 **Activism**
 * Pressure elected officials to protect the environment (defend existing protections, propose new legislation, vote for change)
-* Propose/support local initiatives, e.g. plastic bag ban
+* Propose and support local initiatives, e.g. plastic bag ban
 * Community service
 * Go outside
 
