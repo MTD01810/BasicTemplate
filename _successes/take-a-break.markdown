@@ -1,7 +1,6 @@
 ---
 title: Take a Break
 date: 2018-09-30 22:03:00 -04:00
-published: false
 categories:
 - Success
 main-image: "/uploads/50-ways-to-take-a-break.jpg"
