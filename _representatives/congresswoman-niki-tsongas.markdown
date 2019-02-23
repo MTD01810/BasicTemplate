@@ -14,4 +14,4 @@ website: https://trahan.house.gov/
 layout: post
 ---
 
-Serving the [3rd District of Massachusetts](https://loritrahan.com/)
+Serving the [3rd District of Massachusetts](https://trahan.house.gov/)
