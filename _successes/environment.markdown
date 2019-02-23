@@ -40,4 +40,4 @@ The Environment working group is focused on a broad swath of issues that include
 * Environmental Protection Agency (EPA)
 * League of Conservation Voters
 
-If interested in joining the Environment working group, please let us know. 
+If you are interested in joining the Environment working group, please contact us. 
