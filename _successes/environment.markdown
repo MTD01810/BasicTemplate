@@ -24,9 +24,20 @@ The Environment working group is focused on a broad swath of issues that include
 * Seabrook nuclear plant license (Local)
 
 **Activism**
-* 
+* Pressure elected officials to protect the environment (defend existing protections, propose new legislation, vote for change)
+* Propose/support local initiatives, e.g. plastic bag ban
+* Community service
+* Go outside
 
 **Groups to Collaborate With**
-* 
+* AVIS, Andover Trails Committee (Local)
+* Merrimack Valley People for Peace
+* Environmental League of Massachusetts
+* The Mass Nature Conservancy
+* 350.org
+* Sierra Club
+* Climate Progress
+* Environmental Protection Agency (EPA)
+* League of Conservation Voters
 
 If interested in joining the Environment working group, please let us know. 
