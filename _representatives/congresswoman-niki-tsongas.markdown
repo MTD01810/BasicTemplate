@@ -5,13 +5,10 @@ categories:
 - representative
 position: 2
 phone-numbers:
-  DC office: "(202) 225-3411"
-  Lowell office: "(978) 459-0101"
-  twitter: "@RepLoriTrahan"
-  facebook: "@RepLoriTrahan"
-  instagram: "@reploritrahan"
-website: https://trahan.house.gov/
+  twitter: "@LoriUSCongress"
+  Lowell Office: 978-453-3200
+website: https://loritrahan.com/
 layout: post
 ---
 
-Serving the [3rd District of Massachusetts](https://trahan.house.gov/)
+Serving the [3rd District of Massachusetts](https://loritrahan.com/)

@@ -86,7 +86,7 @@ layout: default
         {% if site.successes %}
           <!-- <div class="spacer"></div> -->
           <hr class="mt-4 mb-3">
-          <h5 class="mb-2">Mission and 2019 Focus</h5>
+          <h5 class="mb-2">Successes</h5>
 
           {% assign featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == true") %}
           {% assign not_featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == false") %}
@@ -101,7 +101,7 @@ layout: default
           {% endfor %}
 
           <div class="pagination">
-            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More issues &rarr;</a>
+            <a href="/successes.html" class="btn btn-link btn-flush ml-auto">More successes &rarr;</a>
           </div>
 
         {% endif %}
