@@ -14,18 +14,30 @@ The Environment working group is focused on a broad swath of issues that include
 * Drinkable water
 * Clean air
 
-**Upcoming Legislation**
+**Upcoming Legislation and Efforts**
 * Green New Deal (Federal)
+* Re-join Paris Agreement (Global)
+* Defend national parks from drilling/logging
+* Puerto Rico - recovery from Hurricane Maria
+* Flint water
 * Merrimack river and raw sewage (Local)
 * Seabrook nuclear plant license (Local)
-* Flint water, Puerto Rico
-* Defend national parks from drilling/logging
-* Re-join Paris Agreement (Global)
 
 **Activism**
-* 
+* Pressure elected officials to protect the environment (defend existing protections, propose new legislation, vote for change)
+* Propose/support local initiatives, e.g. plastic bag ban
+* Community service
+* Go outside
 
 **Groups to Collaborate With**
-* 
+* AVIS, Andover Trails Committee (Local)
+* Merrimack Valley People for Peace
+* Environmental League of Massachusetts
+* The Mass Nature Conservancy
+* 350.org
+* Sierra Club
+* Climate Progress
+* Environmental Protection Agency (EPA)
+* League of Conservation Voters
 
 If interested in joining the Environment working group, please let us know. 
