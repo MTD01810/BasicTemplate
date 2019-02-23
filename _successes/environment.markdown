@@ -14,13 +14,14 @@ The Environment working group is focused on a broad swath of issues that include
 * Drinkable water
 * Clean air
 
-**Upcoming Legislation**
+**Upcoming Legislation and Efforts**
 * Green New Deal (Federal)
+* Re-join Paris Agreement (Global)
+* Defend national parks from drilling/logging
+* Puerto Rico - recovery from Hurricane Maria
+* Flint water
 * Merrimack river and raw sewage (Local)
 * Seabrook nuclear plant license (Local)
-* Flint water, Puerto Rico
-* Defend national parks from drilling/logging
-* Re-join Paris Agreement (Global)
 
 **Activism**
 * 
