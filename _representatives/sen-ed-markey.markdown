@@ -5,10 +5,11 @@ categories:
 - representative
 position: 1
 phone-numbers:
-  twitter: "@SenMarkey"
   DC Office: "(202) 224-2742"
   BOS Office: "(617) 565-8519"
   Springfield Office: "(413) 785-4610"
+  twitter: "@SenMarkey"
+  facebook: "@EdJMarkey"
 website: http://www.markey.senate.gov
 layout: post
 ---
