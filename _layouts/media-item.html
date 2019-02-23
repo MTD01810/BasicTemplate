@@ -17,16 +17,8 @@ layout: default
 
   </div>
 
-  <div class="container mt-3 mb-4">
-    <div class="bg-medium clearfix">
-
-          {% if page.main-image %}
-            <img class="img-fluid media-item" itemprop="articleImage" src="{{ page.main-image }}">
-          {% endif %}
-
-    </div>
-  </div>
-
+  <!-- where image presentation code used to be -->
+  
   <div class="container">
 
     <div class="clearfix spacer"></div>
@@ -37,14 +29,26 @@ layout: default
 
         {{ content }}
 
+        
+  <div class="container mt-3 mb-4">
+    <div class="bg-medium clearfix">
+
+          {% if page.main-image %}
+            <img class="img-fluid media-item" itemprop="articleImage" src="{{ page.main-image }}">
+          {% endif %}
+
+    </div>
+  </div>
+
+        
         <p class="post-meta small">Posted <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
-        <!-- SHARE BUTTONS -->
+        <!-- SHARE BUTTONS
         {% include share-btns.html %}
 
 
         <div class="clearfix spacer"></div>
-        <div class="clearfix spacer"></div>
+        <div class="clearfix spacer"></div>  -->
 
       </div>
     </div>
@@ -60,7 +64,7 @@ layout: default
 
 </article>
 
-<!-- Modal - TURNED OFF BY MBEAMS 23 FEB 2019
+<!-- Modal -->
 <div class="modal fade" id="callModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
@@ -77,4 +81,4 @@ layout: default
     </div>
   </div>
 </div> 
- -->
+
