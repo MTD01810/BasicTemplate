@@ -1,5 +1,5 @@
 ---
-title: Congressman Seth Moulton (MA-06)
+title: Rep Seth Moulton (MA-06)
 date: 2017-09-29 23:39:00 -04:00
 categories:
 - representative
