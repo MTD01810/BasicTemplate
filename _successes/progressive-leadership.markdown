@@ -36,4 +36,4 @@ The Progressive Leadership working group is focused on getting progressive candi
 * Minuteman Indivisible (Lexington), Progressive MA
 * ADTC, Mass Dems
 
-If interested in joining the Progressive Leadership working group, please let us know. 
+If you are interested in joining the Progressive Leadership working group, please contact us. 
