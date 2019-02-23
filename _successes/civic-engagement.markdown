@@ -9,8 +9,8 @@ Efforts to drive citizen engagement with the government and exercise their right
 **Specific Efforts**
 * Representative Government
 * Get Out The Vote efforts (GOTV) - Voter registration, drive turnout
-* Voter education - policy process
-* Informed electorate – re: candidates, ballot initiatives, issues
+* Voter education - How an idea becomes a law
+* Informed electorate – Re: candidates, ballot initiatives, issues
 * Media Literacy
 
 **Upcoming Races**
