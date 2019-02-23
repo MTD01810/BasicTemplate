@@ -5,10 +5,12 @@ categories:
 - representative
 position: 0
 phone-numbers:
-  twitter: "@SenWarren"
   DC Office: "(202) 224-4543"
   BOS Office: "(617) 565-3170"
   Springfield Office: "(413) 788-2690"
+  twitter: "@SenWarren"
+  facebook: "@senatorelizabethwarren"
+  instagram: "@SenWarren"
 website: https://www.warren.senate.gov
 layout: post
 ---
