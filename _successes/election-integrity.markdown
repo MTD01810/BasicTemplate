@@ -1,7 +1,7 @@
 ---
 title: Election Integrity
 date: 2019-02-23 17:21:00 -05:00
-main-image: "/uploads/gerrymandering.JPG"
+main-image: "/uploads/gerrymandering-9b6e19.JPG"
 ---
 
 Efforts to guarantee that every eligible individual is able to vote and that no one’s vote is stolen or diluted. Ultimate goal is a government of elected officials who reflect the demographics and will of their constituencies. 
