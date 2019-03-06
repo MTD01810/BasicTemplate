@@ -3,7 +3,7 @@ title: House Party to register people to vote
 date: 2019-02-22 17:48:00 -05:00
 categories:
 - event
-is featured: false
+is featured: true
 main-image: "/uploads/swingleft2020.png"
 event-start-date: 2019-03-16 10:00:00 -04:00
 event-end-date: 2019-03-16 12:00:00 -04:00
