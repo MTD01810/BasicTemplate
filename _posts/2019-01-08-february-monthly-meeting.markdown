@@ -3,7 +3,7 @@ title: February Monthly Meeting
 date: 2019-01-08 16:06:00 -05:00
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
 event-start-date: 2019-02-26 18:30:00 -05:00
 event-end-date: 2019-02-26 20:30:00 -05:00
@@ -15,10 +15,15 @@ Please join us for a Meet the Candidates forum before the local election (on Mar
 
 Select Board candidates: 
 - [Dan Koh](http://teamkoh.com/)
+- Alex Bromberg
 
 School Committee candidates: 
 - [Shannon Scully](https://scullyforandover.org/)
 - [Paul Murphy](https://www.murphyforandover.org/)
+
+Moderator candidates:
+- Sheila Doherty
+- Keith Saxon
 
 We will also have sitting Select Board members Annie Gilbert and Laura Gregory at the meeting, as well as sitting School Committee members Susan McCready and Joel Blumstein.
 
