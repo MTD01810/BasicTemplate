@@ -11,7 +11,7 @@ categories:
 
 ### Resources we used to shape our agenda
 
-**Indivisible National **
+**Indivisible National**
 * Indivisible National has tapped in to their experience and resources to pull together some incredibly informative documents on what the next phase of the Blue Wave should look like. They are somewhat long, but worth it.
 * [Indivisible on Offense](https://indivisible.org/blog/introducing-indivisible-offense) - Overview
 * [Federal Guide](https://indivisible.org/campaign/indivisible-whats-next?akid=.82.XPFQeS&rd=1&t=12) - Plan for House of Reps
