@@ -2,7 +2,7 @@
 title: 2019 Mission and Resources
 date: 2019-03-10 13:54:00 -04:00
 categories:
-- Issues
+- Mission
 layout: post
 ---
 
