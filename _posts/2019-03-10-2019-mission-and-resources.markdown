@@ -2,7 +2,7 @@
 title: 2019 Mission and Resources
 date: 2019-03-10 13:44:00 -04:00
 categories:
-- post
+- issue
 ---
 
 **Our chpater**
