@@ -5,4 +5,4 @@ position: 2
 layout: media-grid
 ---
 
-### **2019** - [Mission Overview](http://indivisibleandoverma.com/issues/mission-overview.html)
+[2019 Mission Overview for our chapter](http://indivisibleandoverma.com/issues/mission-overview.html)
