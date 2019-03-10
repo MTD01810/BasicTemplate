@@ -5,4 +5,4 @@ position: 2
 layout: media-grid
 ---
 
-Details on our 2019 Mission can be found here. 
+Details on our [2019 Mission](../issues/2019-mission-and-resources.html)
