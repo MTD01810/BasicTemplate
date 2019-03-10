@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-**Our chapter**
+### Our chapter
 * The presentation from our January meeting that provides a complete list of the issues that were included in our Prioritization Survey. (Please note that this content is a work-in-progress.)
 * [2019 Mission Overview](http://indivisibleandoverma.com/issues/mission-overview.html)
 
