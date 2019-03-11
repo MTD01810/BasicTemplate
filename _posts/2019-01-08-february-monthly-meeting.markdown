@@ -13,7 +13,7 @@ RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/87883/
 
 **Please note**: We originally planned to hold our March meeting on Tue March 26th, but that conflicted with the local election. So we moved it to the Thursday *before* the election. 
 
-**First hour - Guest Speakers** <BR>
+**First hour - Guest Speakers**<BR>
 * David Kronman - Will review the results of our 2019 prioritization survey, with a particular focus on the ranked choice voting process that was used to determine the results.
 * A representative from Voter Choice - To discuss the current Ranked Choice Voting legislation that is being considered here on Beacon Hill. 
 
