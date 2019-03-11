@@ -7,9 +7,11 @@ is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
 ---
 
+The [local election](https://bit.ly/2Fg0mjI) is Tuesday, March 26th. We were lucky enough to have six of the ten candidates running at our February meeting. 
+
 Please get directly in touch with the campaigns for additional details on ways you can support the candidates. 
 
-**Select Board ** (4 candidates running for 2 seats, 3 yr term)
+**Select Board** (4 candidates running for 2 seats, 3 yr term)
 * [Dan Koh](http://teamkoh.com/)
 * [Roland Kim](https://www.rolandkim.com/)
 * [Alex Vispoli](http://alexvispoli.com/)
@@ -21,7 +23,7 @@ Please get directly in touch with the campaigns for additional details on ways y
 * [Shishan Wang](https://www.facebook.com/profile.php?id=540716967)
 * Joseph Grieve
 
-**Moderator **(2 candidates running for 1 seat, 1 yr term)
+**Moderator** (2 candidates running for 1 seat, 1 yr term)
 * [Sheila Doherty](https://www.facebook.com/SheilaMDohertyAndover/)
 * [Keith Saxon](https://ksaxo1.wixsite.com/keithsaxonmoderator)
 
