@@ -1,6 +1,7 @@
 ---
 title: Town Hall with Rep. Lori Trahan
 date: 2019-02-21 17:51:00 -05:00
+published: false
 categories:
 - event
 main-image: "/uploads/VoterChoiceMA.jpg"
