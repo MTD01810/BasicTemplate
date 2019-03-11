@@ -7,6 +7,8 @@ is featured: true
 main-image: "/uploads/andover-districts-graphic.GIF"
 ---
 
+The [local election](https://bit.ly/2Fg0mjI) is Tuesday, March 26th. We were lucky enough to have six of the ten candidates running at our February meeting. 
+
 Please get directly in touch with the campaigns for additional details on ways you can support the candidates. 
 
 **Select Board** (4 candidates running for 2 seats, 3 yr term)
