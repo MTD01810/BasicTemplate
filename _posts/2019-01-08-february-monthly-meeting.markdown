@@ -1,32 +1,15 @@
 ---
-title: February Monthly Meeting
+title: March Monthly Meeting
 date: 2019-01-08 16:06:00 -05:00
 categories:
 - event
-is featured: false
+is featured: true
 main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
-event-start-date: 2019-02-26 18:30:00 -05:00
-event-end-date: 2019-02-26 20:30:00 -05:00
+event-start-date: 2019-03-21 18:30:00 -04:00
+event-end-date: 2019-03-21 20:30:00 -04:00
 Location: Parish Hall of Christ Church, Andover MA
-RSVP-link: https://bit.ly/2D3hcPK
+RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/87883/
 ---
 
-Please join us for a Meet the Candidates forum before the local election (on March 26). We will invite Select Board and School Committee candidates to come make a case for their candidacy. There will be time for mingling and 1:1 conversations with the candidates. 
+**Please note**: We originally planned to hold our March meeting on Tue March 26th, but that conflicted with the local election. So we moved it to the Thursday *before* the election. 
 
-Select Board candidates: 
-- [Dan Koh](http://teamkoh.com/)
-- Alex Bromberg
-
-School Committee candidates: 
-- [Shannon Scully](https://scullyforandover.org/)
-- [Paul Murphy](https://www.murphyforandover.org/)
-
-Moderator candidates:
-- Sheila Doherty
-- Keith Saxon
-
-We will also have sitting Select Board members Annie Gilbert and Laura Gregory at the meeting, as well as sitting School Committee members Susan McCready and Joel Blumstein.
-
-(As confirmations come in we will continue to add names to the agenda.)
-
-Hope to see you there!
