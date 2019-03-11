@@ -1,6 +1,7 @@
 ---
 title: Local Presidents Day Protest to Fight Trump’s Fake Crisis
 date: 2019-02-16 19:14:00 -05:00
+published: false
 categories:
 - event
 is featured: false

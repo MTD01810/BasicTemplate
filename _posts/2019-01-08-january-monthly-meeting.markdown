@@ -1,6 +1,7 @@
 ---
 title: January Monthly Meeting
 date: 2019-01-08 16:03:00 -05:00
+published: false
 categories:
 - event
 is featured: false
