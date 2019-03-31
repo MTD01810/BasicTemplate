@@ -1,6 +1,7 @@
 ---
 title: Working Groups
 date: 2019-03-31 16:41:00 -04:00
+layout: page
 ---
 
 Thanks to everyone who participated in our March meeting where we kicked off our Working Groups. The topics were chosen based on the results of our 2019 prioritization survey. These teams will enable us to go on the offense in a number of fronts and to ensure our elected officials at all levels are making progress on our progressive agenda.  
