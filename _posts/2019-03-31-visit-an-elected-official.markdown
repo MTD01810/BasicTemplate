@@ -11,9 +11,9 @@ Interested in helping to build an ongoing relationship with our Reps? We are joi
 * MA-06 Collaborative - working with Rep. Seth Moulton 
 
 Ongoing dialog with our state level representatives:
-* State Senator Barry Finegold
-* State Rep Tram Nguyen
-* State Rep Frank Moran
-* State Rep Christina Minicucci
+* State Senator [Barry Finegold](https://malegislature.gov/Legislators/Profile/BRF0)
+* State Rep [Tram Nguyen](https://malegislature.gov/Legislators/Profile/TTN1)
+* State Rep [Frank Moran](https://malegislature.gov/Legislators/Profile/FAM1)
+* State Rep [Christina Minicucci](https://malegislature.gov/Legislators/Profile/CAM1)
 
-Not sure who your rep is? Check here.
+Not sure who your rep is? [Check here](https://malegislature.gov/Search/FindMyLegislator).
