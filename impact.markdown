@@ -7,5 +7,5 @@ layout: actions
 ---
 
 To do to make this section work: 
-- change the page type to something new/unique, maybe media-item? 
+- change the page type of the items included to something new/unique, maybe media-item? 
 - change right margin to 2018 metrics, not submit an action
