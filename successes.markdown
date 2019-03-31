@@ -7,4 +7,4 @@ layout: media-grid
 
 **Details on our [2019 Mission](../issues/2019-mission-and-resources.html)**
 <BR>
-**Learn more about our [Working Groups](..issues/working-groups.html)**
+**Learn more about our [Working Groups](../issues/working-groups.html)**
