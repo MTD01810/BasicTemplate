@@ -1,9 +1,10 @@
 ---
 title: Support the Local Candidates
 date: 2019-03-10 21:09:00 -04:00
+published: false
 categories:
 - action
-is featured: true
+is featured: false
 main-image: "/uploads/andover-districts-graphic.GIF"
 ---
 

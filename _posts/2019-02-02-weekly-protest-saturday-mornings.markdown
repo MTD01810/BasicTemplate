@@ -1,7 +1,6 @@
 ---
 title: Demonstrate - every Saturday
 date: 2019-02-02 21:26:00 -05:00
-published: false
 categories:
 - action
 main-image: "/uploads/saturday-morning-protest.jpg"
