@@ -1,6 +1,7 @@
 ---
 title: Local Election - Mar 26!
 date: 2018-03-02 21:06:00 -05:00
+published: false
 categories:
 - event
 is featured: false
