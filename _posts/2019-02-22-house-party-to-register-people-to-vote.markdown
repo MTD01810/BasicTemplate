@@ -1,6 +1,7 @@
 ---
 title: House Party to register people to vote
 date: 2019-02-22 17:48:00 -05:00
+published: false
 categories:
 - event
 is featured: false
