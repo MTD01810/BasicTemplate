@@ -1,6 +1,7 @@
 ---
 title: May Monthly Meeting
 date: 2018-04-15 20:55:00 -04:00
+published: false
 categories:
 - event
 is featured: false
