@@ -1,6 +1,7 @@
 ---
 title: March Monthly Meeting
 date: 2019-01-08 16:06:00 -05:00
+published: false
 categories:
 - event
 is featured: false
