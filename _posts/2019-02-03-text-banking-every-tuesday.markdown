@@ -1,7 +1,6 @@
 ---
-title: Text-banking - every Tuesday
+title: Text-banking - every other Tuesday
 date: 2019-02-03 21:26:00 -05:00
-published: false
 categories:
 - action
 main-image: "/uploads/text-banking.png"
@@ -24,6 +23,4 @@ Join us for an hour of good company and texting. Training is provided, coffee an
 * [Red2Blue](https://red2blue.org/texting/)
 * [Resistance Labs](https://resistancelabs.com/volunteer)
 * [VoteWithMe](https://votewithme.us/) - Friend to friend texting in swing districts
-
-**Metrics**
-* At our session on Tue Oct 9th 15 people converged and sent over 5,000 texts in one hour! 
+ 
