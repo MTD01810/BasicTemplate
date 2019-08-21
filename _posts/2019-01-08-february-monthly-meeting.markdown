@@ -10,6 +10,4 @@ event-end-date: 2019-09-26 20:30:00 -04:00
 Location: Parish Hall of Christ Church, Andover MA
 ---
 
-**Agenda coming soon**
-
-**All are welcome - hope to see you there!**
+Agenda coming soon ... 
