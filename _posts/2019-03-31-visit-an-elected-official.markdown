@@ -16,6 +16,6 @@ Ongoing dialog with our state level representatives:
 * State Senator [Barry Finegold](https://malegislature.gov/Legislators/Profile/BRF0)
 * State Rep [Tram Nguyen](https://malegislature.gov/Legislators/Profile/TTN1)
 * State Rep [Frank Moran](https://malegislature.gov/Legislators/Profile/FAM1)
-* State Rep [Christina Minicucci](https://malegislature.gov/Legislators/Profile/CAM1)
+* State Rep [Christina Minicucci](https://malegislature.gov/Legislators/Profile/CAM1) - Standing office hours Mondays 2-4 at Lawrence City Hall. Ask for Josselyn DeLeo.
 
 Not sure who your rep is? [Check here](https://malegislature.gov/Search/FindMyLegislator).
