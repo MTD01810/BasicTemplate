@@ -9,7 +9,7 @@ event-start-date: 2019-09-07 10:00:00 -04:00
 event-end-date: 2019-09-07 16:30:00 -04:00
 Location: Main Street, Andover
 RSVP-link: https://www.signupgenius.com/go/60B0B4CA4AF2AA1F49-andover
-layout: default
+layout: post
 ---
 
 Please join us Saturday Sept 7th for the largest block party in the Merrimack Valley! Come for the food and music, stay for the peaceful revolution. Bring the kids, bring the dog, and help us spread the word about how important civic engagement is. 
