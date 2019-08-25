@@ -4,7 +4,7 @@ date: 2019-08-25 13:56:00 -04:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/Bread%20&%20Roses%202018.JPG"
+main-image: "/uploads/bread&roses-website%20friendly%20picture.JPG"
 event-start-date: 2019-09-07 10:00:00 -04:00
 event-end-date: 2019-09-07 16:30:00 -04:00
 Location: Main Street, Andover
