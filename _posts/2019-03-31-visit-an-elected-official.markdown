@@ -8,7 +8,7 @@ layout: post
 
 Our federal congressmen hold Town Halls when they are not in DC, and our State congressmen hold Office Hours. Meeting with elected officials is an important aspect of driving change - a great opportunity to introduce yourself, ask questions, and even raise specific concerns. There are multiple ways to engage with them:
 
-**Visit a House Representative**
+**Visit a House Representative**<BR>
 Massachusetts District 3 Rep. Lori Trahan in-district office hours:
 * Lowell office (126 John St, Suite 12) - Mon-Fri 8:30-5:30
 * Lawrence office (15 Union St, 4th floor) - Tue & Thu 8:00-Noon
@@ -16,7 +16,7 @@ Massachusetts District 3 Rep. Lori Trahan in-district office hours:
 Massachusetts District 6 Rep. Seth Moulton in-district office hours:
 * Salem office (21 Front St) - (978) 531-1669
 
-**Join a Collaborative**
+**Join a Collaborative**<BR>
 Interested in helping to build an ongoing relationship with our Reps? We are joining forces with other Indivisible chapters in our congressional districts to forge a shared agenda and attend meetings together in order to be more impactful. For more information, please reach out:
 * MA-03 Collaborative - working with Rep. Lori Trahan
 * MA-06 Collaborative - working with Rep. Seth Moulton 
