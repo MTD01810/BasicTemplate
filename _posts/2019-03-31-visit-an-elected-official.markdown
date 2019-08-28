@@ -3,6 +3,7 @@ title: Visit an Elected Official
 date: 2019-03-31 17:57:00 -04:00
 categories:
 - action
+main-image: "/uploads/constituent-satisfaction-survey-word-cloud-compressed.jpg"
 layout: post
 ---
 
