@@ -1,17 +1,17 @@
 ---
-title: Local Presidents Day Protest to Fight Trump’s Fake Crisis
+title: "'We The People' solidarity march"
 date: 2019-02-16 19:14:00 -05:00
-published: false
 categories:
 - event
-is featured: false
-main-image: "/uploads/MoveOn_logo.png"
-event-start-date: 2019-02-18 15:00:00 -05:00
-event-end-date: 2019-02-18 17:00:00 -05:00
+is featured: true
+main-image: "/uploads/we%20the%20people%20march.jpg"
+event-start-date: 2019-09-21 10:00:00 -04:00
+event-end-date: 2019-09-21 10:00:00 -04:00
 Location: Shawsheen Square (intersection of routes 28 and 133)
-RSVP-link: https://act.moveon.org/event/crisis-response/124607/signup/
 ---
 
-Join Greater Andover Indivisible and other local organizations to fight Trump’s fake crisis and racist deportation force. Stand with us against the declaration of this unnecessary national emergency and abuse of power. The main threat our country is facing is not border crossings, but a dangerous assault on democracy. The president must respect Congress, the Constitution and the democratic process. Hope to see you there.
+We the People are marching to be seen and heard. We are marching to remind our elected officials that they work for us. We are marching because the current regime is a threat to our democracy and values. We are marching to demand accountability. Silence and inaction are complicity.
 
-[Please note: the protest is scheduled for 3:00 - 5:00 pm in order to demonstrate while there is still daylight. If there is a quorum of people who would like to protest at a different time, please feel free to turn up in this same location. It would be wonderful to have this run all day.]
+Please join us for a local solidarity march, joining hundreds of other locations across the country echoing the message that will be delivered in DC. 
+
+For more information please visit the [We the People](https://wethepeoplemarch.org/) website. 
