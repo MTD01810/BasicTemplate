@@ -6,7 +6,7 @@ categories:
 main-image: "/uploads/combating-global-warming-map-db2bd2.jpg"
 ---
 
-The Environment working group is focused on a broad swath of issues that include reversing climate change, renewable energy and protection of vital resources such as clean air and drinkable water. 
+The Environment working group is focused on the existential threat of climate change. Our efforts support town-wide renewable energy initiatives and ways for local activists to support [The Green New Deal](https://www.sierraclub.org/trade/what-green-new-deal#) and state laws addressing carbon reduction and climate change preparedness. 
 
 **Specific Efforts**
 * Climate change - prevention and recovery
