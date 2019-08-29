@@ -8,12 +8,6 @@ main-image: "/uploads/combating-global-warming-map-db2bd2.jpg"
 
 The Environment working group is focused on the existential threat of climate change. Our efforts support town-wide renewable energy initiatives and ways for local activists to support [The Green New Deal](https://www.sierraclub.org/trade/what-green-new-deal#) and state laws addressing carbon reduction and climate change preparedness. 
 
-**Specific Efforts**
-* Climate change - prevention and recovery
-* Renewable energy
-* Drinkable water
-* Clean air
-
 **Upcoming Legislation and Efforts**
 * Green New Deal (Federal)
 * Re-join Paris Agreement (Global)
