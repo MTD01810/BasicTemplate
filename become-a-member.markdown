@@ -56,9 +56,9 @@ mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-Greater Andover Indivisible is a local chapter of a nationwide, grassroots movement. Our members are defined by action and find solidarity in our shared opposition to Trump and the Republican agenda. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe resisting Trump is more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
+Greater Andover Indivisible (GAI) is a grassroots all-volunteer, non-profit organization working toward building a progressive future.  Since its founding in 2017, GAI has grown to over 500 members, including Massachusetts residents from Andover, North Andover, North Reading, Tewksbury and Wilmington.  GAI has played a key role in local Andover elections and the 2018 midterm elections.  GAI remains committed to providing its members – many of whom are new to political activism – with the insights, tools, and opportunities to affect change both locally and nationally.
 
-Members of Greater Andover Indivisible come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and non-citizens, women and men, all religions and colors. Most importantly, we are all patriots who want the best for our country and are willing to work for it.
+GAI is a chapter of [The Indivisible Project](https://indivisible.org/), a national grassroots organization that advocates for progressive political policies and leadership.  GAI is one of 150 chapters in Massachusetts and 6,000 across the country.
 
 **All are welcome.**
 
