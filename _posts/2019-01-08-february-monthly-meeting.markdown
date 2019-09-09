@@ -15,8 +15,8 @@ Please join us as we pick up our monthly meeting cadence after summer. The theme
 **Agenda**
 * Sign-In (6:30-6:45)
 * **Presentations** (6:45-8:00, 20 mins each)
-* The Work & Family Mobility Act - Pablo Ruiz, SEIU
-* Safe Communities Act - Merrimack Valley Project
+* The Work & Family Mobility Act - Pablo Ruiz, [SEIU](https://www.seiu.org/)
+* Safe Communities Act - [Merrimack Valley Project](https://www.merrimackvalleyproject.org/)
 * Legislators' perspective from the Public Safety and Homeland Security Committee - Christina Minicucci
 * Action Stations (8:00-8:30) Discover ways to engage, Q&A with working group leads, socialize.
 
