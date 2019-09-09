@@ -17,4 +17,4 @@ It's not too late to join. If you would like to get started with any of the grou
 
 What's entailed? Each working group can determine how they communicate, how often, and what their focus is going to be. The goal is to have five teams of people who understand each topic at a detailed level, with the power of the chapter behind them if and when action is necessary. It should not entail more work from any individual person, but the efforts will make the chapter much more effective. 
 
-![working-groups.JPG](/uploads/working-groups.JPG)
+[working-groups-v02.JPG](/uploads/working-groups-v02.JPG)
