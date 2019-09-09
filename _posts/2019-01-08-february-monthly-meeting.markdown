@@ -18,8 +18,6 @@ Please join us as we pick up our monthly meeting cadence after summer. The theme
 * The Work & Family Mobility Act - Pablo Ruiz, SEIU
 * Safe Communities Act - Merrimack Valley Project
 * Legislators' perspective from the Public Safety and Homeland Security Committee - Christina Minicucci
-* Action Stations (8:00-8:30)
-
-Discover ways to engage, Q&A with group leads, socialize
+* Action Stations (8:00-8:30) Discover ways to engage, Q&A with working group leads, socialize.
 
 We hope you can join us. As always, **all are welcome**. 
