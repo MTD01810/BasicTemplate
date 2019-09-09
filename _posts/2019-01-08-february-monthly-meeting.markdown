@@ -17,7 +17,7 @@ Please join us as we pick up our monthly meeting cadence after summer. The theme
 * **Presentations** (6:45-8:00, 20 mins each)
 * The Work & Family Mobility Act - Pablo Ruiz, [SEIU](https://www.seiu.org/)
 * Safe Communities Act - Trevor LaFauci, [Merrimack Valley Project](https://www.merrimackvalleyproject.org/)
-* Legislators' perspective from the Public Safety and Homeland Security Committee - [Christina Minicucci](https://www.facebook.com/pg/christina4rep/events/?ref=page_internal)
+* Legislators' perspective, Public Safety and Homeland Security Committee - [Christina Minicucci](https://www.facebook.com/pg/christina4rep/events/?ref=page_internal)
 * Action Stations (8:00-8:30) 
 
 We hope you can join us. As always, **all are welcome**. 
