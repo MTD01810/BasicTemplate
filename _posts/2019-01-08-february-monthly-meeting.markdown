@@ -10,4 +10,16 @@ event-end-date: 2019-09-26 20:30:00 -04:00
 Location: Parish Hall of Christ Church, 25 Central Street, Andover MA
 ---
 
-Agenda coming soon ... 
+Please join us as we pick up our monthly meeting cadence after summer. The theme of this meeting is immigration.
+
+**Agenda**
+* Sign-In (6:30-6:45)
+* **Presentations** (6:45-8:00, 20 mins each)
+* The Work & Family Mobility Act - Pablo Ruiz, SEIU
+* Safe Communities Act - Merrimack Valley Project
+* Legislators' perspective from the Public Safety and Homeland Security Committee - Christina Minicucci
+* Action Stations (8:00-8:30)
+
+Discover ways to engage, Q&A with group leads, socialize
+
+We hope you can join us. As always, **all are welcome**. 
