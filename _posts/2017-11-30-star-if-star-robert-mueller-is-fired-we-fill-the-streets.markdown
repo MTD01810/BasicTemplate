@@ -20,6 +20,6 @@ This September, millions of us will walk out of our workplaces and homes to join
 
 **Please note:** This event is meant to be a youth-led, student walk-out that takes place during the day on Friday. Please contact your school or office to see if there is an event you can join on Friday.
  
-Greater Andover Indivisible is adding our support to the [Global Climate Strike](https://globalclimatestrike.net/) during our regular **Saturday **morning demonstration (combined with the 'We the People' solidarity march).
+Greater Andover Indivisible is adding our support to the [Global Climate Strike](https://globalclimatestrike.net/) during our regular **Saturday** morning demonstration (combined with the 'We the People' solidarity march).
 
 Please bring your own signs, but we will also have some sign-making materials available for people who need them. 
