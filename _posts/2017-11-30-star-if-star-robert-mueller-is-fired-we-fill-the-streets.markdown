@@ -22,4 +22,4 @@ This September, millions of us will walk out of our workplaces and homes to join
  
 Greater Andover Indivisible is adding our support to the [Global Climate Strike](https://globalclimatestrike.net/) during our regular **Saturday** morning demonstration (combined with the 'We the People' solidarity march).
 
-Please bring your own signs, but we will also have some sign-making materials available for people who need them. 
+Please bring your own signs, but we will also have some sign-making materials available for people who need them as well. 
