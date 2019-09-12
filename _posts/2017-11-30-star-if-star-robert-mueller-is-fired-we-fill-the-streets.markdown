@@ -14,7 +14,7 @@ Location: |-
 layout: post
 ---
 
-**Our house is on fire — let’s act like it. **
+**Our house is on fire — let’s act like it.**
 
 This September, millions of us will walk out of our workplaces and homes to join young climate strikers on the streets and demand an end to the age of fossil fuels. We demand climate justice for everyone.
 
