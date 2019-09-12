@@ -1,5 +1,5 @@
 ---
-title: "'Global Climate Strike' solidarity march - SATURDAY (not Friday!)"
+title: "'Global Climate Strike' solidarity march - SATURDAY Sep 21"
 date: 2017-11-30 17:00:00 -05:00
 categories:
 - event
