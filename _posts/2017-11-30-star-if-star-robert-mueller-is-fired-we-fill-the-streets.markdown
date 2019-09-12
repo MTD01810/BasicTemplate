@@ -1,23 +1,25 @@
 ---
-title: 'National Protest: Release the Report'
+title: "'Global Climate Strike' solidarity march - SATURDAY (not Friday)"
 date: 2017-11-30 17:00:00 -05:00
-published: false
 categories:
 - event
 is featured: true
-main-image: "/uploads/mueller-fired-protest.GIF"
-event-start-date: 2018-04-04 17:00:00 -04:00
+main-image: "/uploads/global-climate-strike-logo.png"
+event-start-date: 2019-09-21 10:00:00 -04:00
+event-end-date: 2019-09-21 12:00:00 -04:00
 Location: |-
-  Intersection of Rte 28 and 133 in Shawsheen Village
+  Shawsheen Square - Intersection of Rte 28 and 133
+  (14 York Street for GPS)
   Andover, MA 01810
-RSVP-link: https://www.trumpisnotabovethelaw.org/event/mueller-firing-rapid-response/18877/signup/?source&s
 layout: post
 ---
 
-**National Day of Action this Thursday, April 4**
+**Our house is on fire — let’s act like it. **
 
-Join us to demand that Attorney General William Barr #ReleaseTheReport! Barr has failed to meet the deadline set by congressional leaders of Tuesday, April 2.
+This September, millions of us will walk out of our workplaces and homes to join young climate strikers on the streets and demand an end to the age of fossil fuels. We demand climate justice for everyone.
 
-Please RSVP and invite friends to join you at the event!
+**Please note:** This event is meant to be a youth-led, student walk-out that takes place during the day on Friday. Please contact your school or office to see if there is an event you can join on Friday.
+ 
+Greater Andover Indivisible is adding our support to the [Global Climate Strike](https://globalclimatestrike.net/) during our regular **Saturday **morning demonstration (combined with the 'We the People' solidarity march).
 
-A core principle shared by supporting organizations is a commitment to nonviolent, peaceful actions.  All actions that are sponsored or organized on this page are intended to be nonviolent and peaceful.  We expect all participants to act lawfully at all times and to seek to de-escalate any potential confrontation with those that disagree with our values.
+Please bring your own signs, but we will also have some sign-making materials available for people who need them. 
