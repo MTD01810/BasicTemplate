@@ -19,11 +19,11 @@ The Progressive Leadership working group is focused on getting progressive candi
 **Upcoming Races**
 * Local Town Elections - Spring 2020
 * Special and off-year Elections - 2019 and 2020
-* Prep for 2020 - Presidential, Senate, House and State elections
+* Prep for 2020 - Presidential, Senate, House and state elections
 
 **Activism**
 * Attend Meet the Candidates events, debates
-* Relay opportunities for members to support a specific campaign – Canvass, Post-carding, Text banking, Phone banking, Sign holding, Letters to the Editor, Donate $
+* Relay opportunities for members to support a specific campaign – canvass, post-carding, text banking, phone banking, sign holding, letters to the editor, donate $
 * Relay opportunities for members to help out-of-district/state efforts
 * Voter registration
 * Lobbying at State House and Town Halls with Congressional Representatives 
