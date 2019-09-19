@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: Who We Are
 date: 2019-03-10 13:54:00 -04:00
 categories:
 - Mission
