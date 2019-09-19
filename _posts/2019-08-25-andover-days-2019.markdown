@@ -1,5 +1,5 @@
 ---
-title: Andover Days 2019 - NEW DATE!!
+title: Andover Days 2019
 date: 2019-08-25 13:56:00 -04:00
 categories:
 - event
