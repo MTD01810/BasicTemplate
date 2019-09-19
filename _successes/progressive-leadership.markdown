@@ -29,11 +29,11 @@ The Progressive Leadership working group is focused on getting progressive candi
 * Lobbying at State House and Town Halls with Congressional Representatives 
 
 **Groups to Collaborate With**
-* Swing Left
-* Sister District
-* Brand New Congress
-* Flippable
-* Our Revolution (MA), Flip Massachusetts
-* Minuteman Indivisible (Lexington), Progressive MA
+* [Swing Left](https://swingleft.org/)
+* [Sister District](https://sisterdistrict.com/)
+* [Brand New Congress](https://brandnewcongress.org/)
+* [Flippable](https://flippable.org/)
+* [Our Revolution (MA)](http://ourrevolutionma.com/)
+* [Progressive MA](https://www.progressivemass.com/)
 
 If you are interested in joining the Progressive Leadership working group, please contact us. 
