@@ -17,15 +17,16 @@ The Progressive Leadership working group is focused on getting progressive candi
 * Particular work towards a more representative government, meaning support for candidates from underrepresented demographics: women, blacks, latinax, veterans, etc. 
 
 **Upcoming Races**
-* Andover Local Election - March 2019
-* Special elections (leftover from the midterms, e.g. NC)
-* Prep for 2020 - Presidential, Senate, House
+* Local Town Elections - Spring 2020
+* Special and off-year Elections - 2019 and 2020
+* Prep for 2020 - Presidential, Senate, House and State elections
 
 **Activism**
 * Attend Meet the Candidates events, debates
-* Support a specific campaign – Canvass, Post-carding, Text banking, Phone banking, Sign holding, Letters to the Editor, Donate $
-* Candidate vetting criteria, endorsements
-* Prioritizing out-of-district efforts
+* Relay opportunities for members to support a specific campaign – Canvass, Post-carding, Text banking, Phone banking, Sign holding, Letters to the Editor, Donate $
+* Relay opportunities for members to help out-of-district/state efforts
+* Voter registration
+* Lobbying at State House and Town Halls with Congressional Representatives 
 
 **Groups to Collaborate With**
 * Swing Left
