@@ -22,7 +22,7 @@ The Progressive Leadership working group is focused on getting progressive candi
 * Prep for 2020 - Presidential, Senate, House and state elections
 
 **Activism**
-* Attend Meet the Candidates events, debates
+* Attend meet the candidates events, debates
 * Relay opportunities for members to support a specific campaign – canvass, post-carding, text banking, phone banking, sign holding, letters to the editor, donate $
 * Relay opportunities for members to help out-of-district/state efforts
 * Voter registration
