@@ -15,3 +15,14 @@ Greater Andover Indivisible (GAI) is a grassroots all-volunteer, non-profit orga
 GAI is a chapter of The Indivisible Project, a national grassroots organization that advocates for progressive political policies and leadership.  GAI is one of 150 MA chapters and 6,000 across the country. <BR>
 
 GAI is not affiliated with any political party although we typically support progressive candidates, leaders, and issues.
+
+**Our Values and Principles**
+* American democracy should fairly and equitably represent all
+* All individuals deserve, respect, basic human rights, and freedom – without exception
+* Science, facts, and data are critical to our individual and collective advancement
+* No person is above the law
+* Differing views and perspectives should be expressed constructively and heard respectfully
+* Democracy is not a spectator sport; civic engagement is a shared responsibility
+
+**Anyone can be an activist.  No experience is necessary.**
+
