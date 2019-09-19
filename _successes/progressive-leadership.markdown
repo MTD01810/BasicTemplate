@@ -23,7 +23,7 @@ The Progressive Leadership working group is focused on getting progressive candi
 
 **Activism**
 * Attend Meet the Candidates events, debates
-* Relay opportunities for members to support a specific campaign – Canvass, Post-carding, Text banking, Phone banking, Sign holding, Letters to the Editor, Donate $
+* Relay opportunities for members to support a specific campaign – canvass, post-carding, text banking, phone banking, sign holding, letters to the editor, donate $
 * Relay opportunities for members to help out-of-district/state efforts
 * Voter registration
 * Lobbying at State House and Town Halls with Congressional Representatives 
