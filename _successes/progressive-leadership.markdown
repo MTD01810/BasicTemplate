@@ -35,6 +35,5 @@ The Progressive Leadership working group is focused on getting progressive candi
 * Flippable
 * Our Revolution (MA), Flip Massachusetts
 * Minuteman Indivisible (Lexington), Progressive MA
-* ADTC, Mass Dems
 
 If you are interested in joining the Progressive Leadership working group, please contact us. 
