@@ -19,7 +19,7 @@ The Progressive Leadership working group is focused on getting progressive candi
 **Upcoming Races**
 * Local Town Elections - Spring 2020
 * Special and off-year Elections - 2019 and 2020
-* Prep for 2020 - Presidential, Senate, House and State elections
+* Prep for 2020 - Presidential, Senate, House and state elections
 
 **Activism**
 * Attend Meet the Candidates events, debates
