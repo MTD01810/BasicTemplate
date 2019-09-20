@@ -24,10 +24,30 @@ Efforts are designed to guarantee that every eligible individual is able to vote
 * Addresses campaign spending
 * Requires candidates for President and Vice President to submit 10 years of tax returns
 
-H.R.4 – Voting Rights Advancement Act of 2019 (Federal)
+[H.R.4](https://www.congress.gov/116/bills/hr4/BILLS-116hr4ih.pdf) – Voting Rights Advancement Act of 2019 (Federal)
 * Reinstates voting protections passed by the Voter Rights Act of 1965 which the Supreme Court overturned in 2013 (Shelby County v. Holder.)
 * Split off from H.R.1 to be considered separately
 
+[S.12](https://malegislature.gov/Bills/191/S12) and [S.405](https://malegislature.gov/Bills/191/SD26) – Amendment to the Constitution allowing Prisoners to Vote (State)
+* Seeks to remove language from the MA constitution which prohibits prisoners from voting,
+* Current status: Proposed and placed on file
+
+Automatic Voter Registration (State, complete)<BR>
+
+Ranked Choice Voting – a.k.a. RCV (State)
+* [S.414](https://malegislature.gov/Bills/191/S414) / [H.719](https://malegislature.gov/Bills/191/H719) An Act Relative to RCV – Federal and State elections
+* [S.420](https://malegislature.gov/Bills/191/S420) / [H.635](https://malegislature.gov/Bills/191/H635) An Act Providing A Local Option for RCV in Municipal Elections
+
+Get Big Money Out of Politics
+* [H.J. 48](https://www.congress.gov/116/bills/hjres48/BILLS-116hjres48ih.pdf) – We the People Amendment (Federal)
+* Repeal Citizens United (State)
+* Track MA Citizens Commission progress and recommendation due Dec. 31, 2019
+
+Census 2020 (Federal)
+* Address census questions related to citizenship, LGBTQ, etc.
+
+Eliminate State Participation in the Interstate Crosscheck System ([Learn More](https://healthofstatedemocracies.org/factors/intercross.html))
+* This system is riddled with errors and has an outsized effect on communities of color
 
 **Activism**
 * Get elected officials to protect elections, propose legislation, vote for change
