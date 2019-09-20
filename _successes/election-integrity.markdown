@@ -54,7 +54,7 @@ Eliminate State Participation in the Interstate Crosscheck System ([Learn More](
 * Volunteer as a poll watcher
 * Support Census
 
-**Groups to Collaborate With**
+**Groups We Collaborate With**
 * [Lift + Every + Vote](https://lifteveryvote.org)
 * [Swing Left Greater Boston](https://swingleftboston.org)
 * [Voter Choice MA](https://www.voterchoicema.org)
@@ -70,4 +70,4 @@ Eliminate State Participation in the Interstate Crosscheck System ([Learn More](
 * [League of Women Voters](www.lwv.org)
 * Daily Kos [Voting Rights Roundup Weekly Newsletter](https://bit.ly/2kGM16N)
 
-If you are interested in joining the Election Integrity working group, please contact us. 
+If you are interested in joining the Election Integrity working group, please contact us. <BR>
