@@ -16,13 +16,18 @@ Efforts are designed to guarantee that every eligible individual is able to vote
 * Census Oversight
 
 **Upcoming Legislation**<BR>
-H.R.1 – For the People Act (Federal)
+[H.R.1](https://www.congress.gov/116/bills/hr1/BILLS-116hr1pcs.pdf) – For the People Act (Federal)
 * Addresses voter access, election integrity, election security, political spending, and ethics for the three branches of government
 * Expands voter registration and voting access, makes Election Day a federal holiday, and limits removing voters from voter rolls
 * Provides for states to establish independent, nonpartisan redistricting commissions
 * Sets forth provisions related to election security
 * Addresses campaign spending
 * Requires candidates for President and Vice President to submit 10 years of tax returns
+
+H.R.4 – Voting Rights Advancement Act of 2019 (Federal)
+* Reinstates voting protections passed by the Voter Rights Act of 1965 which the Supreme Court overturned in 2013 (Shelby County v. Holder.)
+* Split off from H.R.1 to be considered separately
+
 
 **Activism**
 * Get elected officials to protect elections, propose legislation, vote for change
