@@ -13,6 +13,6 @@ Location: Parish Hall of Christ Church 25 Central Street, Andover MA
 ### Theme: 2020 Elections - Strategy and Action
 
 **Agenda**
-* * ELECT535 - Michelle Olsen
+* ELECT535 - Michelle Olsen
 * GAI actions and events
 * Action stations 
