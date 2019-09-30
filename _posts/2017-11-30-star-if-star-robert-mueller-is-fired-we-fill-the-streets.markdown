@@ -1,6 +1,7 @@
 ---
 title: "'Global Climate Strike' solidarity march - SATURDAY Sep 21"
 date: 2017-11-30 17:00:00 -05:00
+published: false
 categories:
 - event
 is featured: false
