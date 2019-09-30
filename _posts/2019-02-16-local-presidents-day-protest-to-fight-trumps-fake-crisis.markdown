@@ -3,7 +3,7 @@ title: "'We The People' solidarity march"
 date: 2019-02-16 19:14:00 -05:00
 categories:
 - event
-is featured: true
+is featured: false
 main-image: "/uploads/we%20the%20people%20march.jpg"
 event-start-date: 2019-09-21 10:00:00 -04:00
 event-end-date: 2019-09-21 10:00:00 -04:00
