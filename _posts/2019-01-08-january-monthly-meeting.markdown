@@ -10,8 +10,9 @@ event-end-date: 2019-10-22 18:30:00 -04:00
 Location: Parish Hall of Christ Church 25 Central Street, Andover MA
 ---
 
+### Theme: 2020 Elections - Strategy and Action
+
 **Agenda**
-* Theme: 2020 Elections - Strategy and Action
-* ELECT535 - Michelle Olsen
+* * ELECT535 - Michelle Olsen
 * GAI actions and events
 * Action stations 
