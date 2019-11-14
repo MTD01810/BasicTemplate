@@ -14,7 +14,8 @@ RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/141643/
 ### Theme: The Environment and Climate Change
 
 **Agenda**
-On November 19, Greater Andover Indivisible (GAI) and [WECAN (Working to Educate for Climate Action Now)](https://www.massclimateaction.org/) will co-sponsor our chapter meeting to discuss strategies for tackling climate change at the national and local levels. 
+
+Greater Andover Indivisible (GAI) and [WECAN (Working to Educate for Climate Action Now)](https://www.massclimateaction.org/) will co-sponsor our chapter meeting to discuss strategies for tackling climate change at the national and local levels. 
 
 Guest speakers will discuss: 
 * Claire Teylouni and Nolan O’Brien from Senator Ed Markey’s office will give a presentation on the Green New Deal, the congressional resolution that lays out an ambitious plan for tackling climate change on a national level.
