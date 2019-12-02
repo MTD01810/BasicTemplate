@@ -1,17 +1,17 @@
 ---
-title: November Monthly Meeting
+title: December Monthly Meeting
 date: 2019-01-08 16:03:00 -05:00
 categories:
 - event
 is featured: true
 main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
-event-start-date: 2019-11-19 18:30:00 -05:00
-event-end-date: 2019-11-19 20:30:00 -05:00
+event-start-date: 2019-12-18 18:30:00 -05:00
+event-end-date: 2019-12-18 20:30:00 -05:00
 Location: Parish Hall of Christ Church 33 Central Street, Andover MA
-RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/141643/
 ---
 
-### Theme: The Environment and Climate Change
+### Theme: Election Integrity
+With a focus on Election Day Registration and the 2020 Census
 
 **Agenda**
 
