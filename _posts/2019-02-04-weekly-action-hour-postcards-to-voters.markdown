@@ -24,8 +24,9 @@ Want to make a big impact in just one hour a week? Join us on Wednesdays where w
 **Upcoming Campaigns** <BR>
 For the next several weeks, we’ll be offering postcarding campaigns provided by [Postcards to Voters](http://Postcardstovoters.org) which will include: 
 
-* Reminders to targeted voters to give Democrats a winning edge in Special Election races in key districts across the U.S. 
-* Reminders to targeted Florida residents to enroll for Vote By Mail balloting. Having more Democrats enrolled in FLORIDA'S VOTE BY MAIL "no excuses required" program will lead to more Democratic candidate wins. Why? Because voters enrolled in VBM cast ballots at a significantly stronger rate than those who vote in person.
+1. Reminders to targeted voters to give Democrats a winning edge in Special Election races in key districts across the U.S. 
+
+2. Reminders to targeted Florida residents to enroll for Vote By Mail balloting. Having more Democrats enrolled in FLORIDA'S VOTE BY MAIL "no excuses required" program will lead to more Democratic candidate wins. Why? Because voters enrolled in VBM cast ballots at a significantly stronger rate than those who vote in person.
 <BR>
 Note: Due to the holidays and GAI's December chapter meeting, we will NOT be holding our weekly postcarding action hours on Wednesday, November 27, December 18, December 25 and January 1.
 
