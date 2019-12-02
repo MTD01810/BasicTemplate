@@ -22,11 +22,12 @@ Want to make a big impact in just one hour a week? Join us on Wednesdays where w
 * What to bring: We provide the postcards but please bring stamps or $7 for the postage. 
 
 **Upcoming Campaigns** <BR>
-For the next several weeks, we'll be offering two postcarding campaigns. Join us to write cards for one of the following:
+For the next several weeks, we’ll be offering postcarding campaigns provided by [Postcards to Voters](http://Postcardstovoters.org) which will include: 
 
-1. Postcarding to support [BRENT FINNEGAN](https://www.brentfinnegan.com/cms/meet-brent/), who is running for the House of Delegates in VA District 26. All state seats in Virginia are up for election on Nov. 5. Currently the state senate is split 21R/19D and the House of Delegates is split 51R/49D. With some work, we have a very real opportunity to gain a Democratic majority in the Virginia state government. Brent Finnegan is a strong progressive candidate who lost his last election by 1800 votes. With his experience and name recognition he has a good chance of winning this fall. 
-
-2. Postcarding for [The ROE Act](https://www.plannedparenthoodaction.org/planned-parenthood-advocacy-fund-massachusetts-inc/issues/roe-act). Greater Andover Indivisible recently joined the ROE Act Coalition which is comprised of the NARAL, ACLU, and Planned Parenthood organizations in MA. To augment the Coalition's efforts, several Indivisible and allied groups have collaborated with us to create a “postcards to voters” campaign that has been blessed by the Coalition and paid for by the participating groups.
+* Reminders to targeted voters to give Democrats a winning edge in Special Election races in key districts across the U.S. 
+* Reminders to targeted Florida residents to enroll for Vote By Mail balloting. Having more Democrats enrolled in FLORIDA'S VOTE BY MAIL "no excuses required" program will lead to more Democratic candidate wins. Why? Because voters enrolled in VBM cast ballots at a significantly stronger rate than those who vote in person.
+<BR>
+Note: Due to the holidays and GAI's December chapter meeting, we will NOT be holding our weekly postcarding action hours on Wednesday, November 27, December 18, December 25 and January 1.
 
 **Self-service postcarding**
 1. [MomsRising.org GOTV campaign](https://bit.ly/2ybtSBg) for infrequent women voters
