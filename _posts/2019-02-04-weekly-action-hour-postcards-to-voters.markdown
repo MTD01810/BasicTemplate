@@ -29,12 +29,3 @@ For the next several weeks, we’ll be offering postcarding campaigns provided b
 2. Reminders to targeted Florida residents to enroll for Vote By Mail balloting. Having more Democrats enrolled in FLORIDA'S VOTE BY MAIL "no excuses required" program will lead to more Democratic candidate wins. Why? Because voters enrolled in VBM cast ballots at a significantly stronger rate than those who vote in person.
 
 *Note:* Due to the holidays and GAI's December chapter meeting, we will NOT be holding our weekly postcarding action hours on Wednesday, November 27, December 18, December 25 and January 1.
-
-**Self-service postcarding**
-1. [MomsRising.org GOTV campaign](https://bit.ly/2ybtSBg) for infrequent women voters
-   Sign up to order a packet of 5 pre-addressed, pre-stamped postcards to registered voters who haven't always voted in the past. All you need to do is write a quick note of encouragement and drop them in the mail.
-
-2. [Postcards to Voters](https://postcardstovoters.org/) from Tony the Democrat
-   Text JOIN to (484) 275-2229 or Email us at Join@TonyTheDemocrat.org
-
-3. [Need to Impeach](https://bit.ly/2xQa4mR) - Order stamped, addressed postcards that you simply have to personalize and mail. The cut off date for ordering cards is October 10, and it takes 10-14 days for them to arrive.
