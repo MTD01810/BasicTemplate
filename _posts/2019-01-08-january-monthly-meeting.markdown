@@ -12,7 +12,7 @@ RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/178777/
 ---
 
 ### Theme: Progressive Leadership
-With a focus on building progressive leadership and transparency in the MA State House in 2020
+With a focus on building progressive leadership and transparency in the MA State House in 2020 and making our blue state a leader in progressive policies
 
 Please note: New Location!! Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
 
