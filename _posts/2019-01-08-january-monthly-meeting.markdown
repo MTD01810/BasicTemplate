@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
 event-start-date: 2020-01-15 18:30:00 -05:00
 event-end-date: 2020-01-15 20:30:00 -05:00
-Location: NEW LOCATION Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
+Location: NEW LOCATION! Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
 RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/178777/
 ---
 
