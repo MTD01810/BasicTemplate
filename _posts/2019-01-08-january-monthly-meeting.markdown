@@ -1,26 +1,30 @@
 ---
-title: December Monthly Meeting
+title: January Monthly Meeting
 date: 2019-01-08 16:03:00 -05:00
 categories:
 - event
 is featured: true
 main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
-event-start-date: 2019-12-18 18:30:00 -05:00
-event-end-date: 2019-12-18 20:30:00 -05:00
-Location: Parish Hall of Christ Church 33 Central Street, Andover MA
+event-start-date: 2020-01-15 18:30:00 -05:00
+event-end-date: 2020-01-15 20:30:00 -05:00
+Location: NEW LOCATION! Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
+RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/178777/
 ---
 
-### Theme: Election Integrity
-With a focus on Election Day Registration and the 2020 Census
+### Theme: Progressive Leadership
+With a focus on building progressive leadership and transparency in the MA State House in 2020
+
+Please note: New Location!! Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
 
 **Agenda**
 
-Please join us for our next monthly chapter meeting.
+The Democratic majority in the Massachusetts State House has a profile that suggests potential for leadership on progressive issues. We as informed citizens and activists play a pivotal role in making that happen. At this meeting, learn how we can support the work of our elected leaders and be a voice in favor of progressive policies. It starts with understanding how our elected legislators actually vote and how we can collaborate to drive constructive change.
+
+The presentation will include a refresher on the basic tools for establishing a positive working relationship with our elected officials and strategic insights on how and who to lobby to be most effective.
 
 Guest speakers: 
-* Krisina, Mensik from Common Cause
-* Matt Allen from the ACLU of Massachusetts
-* Phil D’Agati from the U.S. Census Bureau
+* Erika Uyterhoeven and Matt Miller, co-founders of Act On Mass
+* Jay Kaufman, 24-year representative from Middlesex-15th to the MA State House, now lead of Beacon Leadership Collaborative
 
 Doors open at 6:30 for sign-in and socializing; the program begins promptly at 6:45 PM. Beverage, snack, dessert and monetary contributions are always appreciated.  
 
