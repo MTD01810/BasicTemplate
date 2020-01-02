@@ -1,5 +1,5 @@
 ---
-title: Postcards to Voters - every Wed
+title: Postcards to Voters - every Thu
 date: 2019-02-04 21:26:00 -05:00
 categories:
 - action
@@ -19,7 +19,7 @@ RSVP-link: https://www.facebook.com/events/2071127513214729/
 Want to make a big impact in just one hour a week? Join us on Wednesdays where we write postcards to voters in the community and in swing districts all over the country.
 * When: Wednesday evenings from 6:30-7:30 pm
 * Where: Panera Bread in North Andover
-* What to bring: We provide the postcards but please bring stamps or $7 for the postage. 
+* What to bring: We provide the postcards and address but when possible, please bring stamps or $5 for the postage. 
 
 **Upcoming Campaigns** <BR>
 For the next several weeks, we’ll be offering postcarding campaigns provided by [Postcards to Voters](http://Postcardstovoters.org) which will include: 
@@ -28,4 +28,3 @@ For the next several weeks, we’ll be offering postcarding campaigns provided b
 
 2. Reminders to targeted Florida residents to enroll for Vote By Mail balloting. Having more Democrats enrolled in FLORIDA'S VOTE BY MAIL "no excuses required" program will lead to more Democratic candidate wins. Why? Because voters enrolled in VBM cast ballots at a significantly stronger rate than those who vote in person.
 
-*Note:* Due to the holidays and GAI's December chapter meeting, we will NOT be holding our weekly postcarding action hours on Wednesday, November 27, December 18, December 25 and January 1.
