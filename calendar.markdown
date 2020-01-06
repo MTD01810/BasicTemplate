@@ -10,4 +10,4 @@ layout: calendar
 There are so many ways to get involved in person. Highlighted events are listed individually, and the Google Calendar below includes many more events.
 
 **Weekly Events** hosted by Indivisible Andover
-* [Wednesdays - Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30 pm)
+* [Thursdays - Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30 pm)
