@@ -10,12 +10,13 @@ Location: Panera Bread in North Andover, MA
 RSVP-link: https://www.facebook.com/events/2071127513214729/
 ---
 
-### Come Write Postcards to Help Save our Democracy
-* When: Thursday evenings from 6:30-7:30 pm
-* Where: Panera Bread in North Andover (58 Peters St, 01845)
+### Come Write Postcards to Help Save our Democracy!
 
 **Postcard with Greater Andover Indivisible** <BR>
 Want to make a big impact with like-minded folks just one hour a week? Join us on Thursdays as we write postcards to voters in the community and in swing districts all over the country.
+
+* When: Thursday evenings from 6:30-7:30 pm
+* Where: Panera Bread in North Andover (58 Peters St, 01845)
 
 We provide the postcards, markers, addresses and stamps. Contributions of $5 to help cover postage are welcomed, but not required.
 
