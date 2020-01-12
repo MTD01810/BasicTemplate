@@ -11,3 +11,4 @@ There are so many ways to get involved in person. Highlighted events are listed 
 
 **Weekly Events** hosted by Indivisible Andover
 * [Thursdays - Postcards to Voters](https://bit.ly/2JSX4QO) (6:30-7:30 pm)
+* [Saturdays - Weekly Demonstration](http://indivisibleandoverma.com/action/2019/02/02/weekly-protest-saturday-mornings.html) (10:00-11:00 am)
