@@ -1,29 +1,24 @@
 ---
-title: 2019 Women's March @ Boston - Get on the Bus!
+title: 2020 Women's Rally @ Andover
 date: 2019-01-08 16:54:00 -05:00
-published: false
 categories:
 - event
 main-image: "/uploads/Boston%20Womens%20March%2017.jpg"
-event-start-date: 2019-01-19 10:00:00 -05:00
-event-end-date: 2019-01-19 14:00:00 -05:00
-Location: |-
-  Boston Common
-  139 Tremont Street
-  Boston, MA 02111
-RSVP-link: https://www.eventbrite.com/e/2019-boston-womens-march-tickets-53064999843
+event-start-date: 2020-01-18 10:00:00 -05:00
+event-end-date: 2020-01-18 12:30:00 -05:00
+Location: Shawsheen Square, Andover
+RSVP-link: https://actionnetwork.org/events/womens-rally-andover-ma?source=direct_link&fbclid=IwAR2tNZPCQdvRRY8wUuqh5m01mQ_By07vpqshcodLI1rVYXhtl3NVFH9nmSI
 ---
 
-**We are renting a bus** to take us in to the 3rd annual Women’s March in Boston! 
-* We will leave around 9:00 am to get to The Common at 10:00, and then we could leave around 1:00 to be back in town by 2:00 pm. 
-* We request an optional contribution of $20 (or $10 for students and teachers) to help defray the cost of the rental. (Hey, it's less than parking and more fun than the train.)
-* BYO signs, flags and hats. Don't forget lunch and water. 
-* [Sign up for a spot](http://evite.me/jBGQBsZp8C)
+**No Women's March in Boston this year? No problem!**
 
-**More About the March**
+Join us for a Women's Rally in Andover as we gather in solidarity with millions across the country to mark the THIRD anniversary of the momentous 2017 Women's March.
 
-With a coalition of intersectional feminist organizations, [March Forward Massachusetts](https://www.marchforwardmassaction.org/) is proud to announce the 2019 Boston Women's March returns to Boston Common on January 19, 2019. 
+All activists are welcome, and please bring your signs about the issues we all care about: climate change, peace, immigration, gun control, healthcare, impeachment, and the 2020 election. Homemade hot pink hats are optional (but encouraged).
 
-On this worldwide day of action, we show up together in solidarity with women and allies, in service of those who are most at risk from an agenda that seeks to marginalize and divide us. Our work that was outlined by the original Marches is far from complete. We continue to march forward, building energy and welcoming ever more activism into the arena, until the systems of supremacy which oppress us are dismantled. 
+* **When**: Saturday January 18th from 10:00am-12:30pm
+* * Where: Shawsheen Square (14 York St for your GPS)
 
-The 2019 March, taking place on the weekend before the Martin Luther King, Jr. holiday, lifts up the ongoing work in the struggle for civil rights for so many communities.
+Please bring friends, family and even dogs.
+
+And RSVP so we know approximately how many people will be attending.
