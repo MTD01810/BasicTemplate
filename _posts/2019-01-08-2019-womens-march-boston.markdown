@@ -22,4 +22,4 @@ All activists are welcome, and please bring your signs about the issues we all c
 
 Please bring friends, family and even dogs.
 
-And RSVP so we know approximately how many people will be attending.
+And please RSVP so we know approximately how many people will be attending.
