@@ -16,8 +16,8 @@ Join us for a Women's Rally in Andover as we gather in solidarity with millions 
 
 All activists are welcome, and please bring your signs about the issues we all care about: climate change, peace, immigration, gun control, healthcare, impeachment, and the 2020 election. Homemade hot pink hats are optional (but encouraged).
 
-When: Saturday January 18th from 10:00am-Noon
-Where: Shawsheen Square (14 York St for your GPS)
+* **When**: Saturday January 18th from 10:00am-12:30pm
+* * Where: Shawsheen Square (14 York St for your GPS)
 
 Please bring friends, family and even dogs.
 
