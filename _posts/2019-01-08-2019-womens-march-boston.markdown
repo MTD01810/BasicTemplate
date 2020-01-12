@@ -3,6 +3,7 @@ title: 2020 Women's Rally @ Andover
 date: 2019-01-08 16:54:00 -05:00
 categories:
 - event
+is featured: true
 main-image: "/uploads/Boston%20Womens%20March%2017.jpg"
 event-start-date: 2020-01-18 10:00:00 -05:00
 event-end-date: 2020-01-18 12:30:00 -05:00
