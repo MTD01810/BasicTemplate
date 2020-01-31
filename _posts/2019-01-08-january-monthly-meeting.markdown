@@ -14,8 +14,6 @@ RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/217512/?refer
 ### Theme: Presidential Primary
 Who's your top pick for President? Not sure? 
 
-**New Location!! Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810**
-
 **Agenda**
 
 Our February meeting will be focused on two topics: preparing everyone for the Mass Presidential primary which will take place on "Super Tuesday" March 3rd; and providing a report-out from our 2020 Strategy Meeting (see above). To help each of us decide on a Presidential candidate, we will be holding a caucus-like event. What does that mean? Read on or watch the video (link at bottom):
