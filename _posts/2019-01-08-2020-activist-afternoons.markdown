@@ -1,14 +1,14 @@
 ---
-title: 'Activist Afternoons - Next one: Sun Mar 1'
+title: 'Activist Afternoons - Next one: Sun Mar 15'
 date: 2019-01-08 16:03:00 -05:00
 categories:
 - event
 is featured: true
 main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
-event-start-date: 2020-03-01 14:00:00 -05:00
-event-end-date: 2020-03-01 16:00:00 -05:00
+event-start-date: 2020-03-15 14:00:00 -04:00
+event-end-date: 2020-03-15 16:00:00 -04:00
 Location: Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
-RSVP-link: https://bit.ly/2wNyFLE
+RSVP-link: No RSVP necessary
 ---
 
 ### Theme: Building the 2020 Blue Wave
