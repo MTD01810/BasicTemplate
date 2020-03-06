@@ -8,7 +8,7 @@ main-image: "/uploads/new-logo-small-Aug2018-FINAL-b4b904.JPG"
 event-start-date: 2020-03-15 14:00:00 -04:00
 event-end-date: 2020-03-15 16:00:00 -04:00
 Location: Temple Emanuel 7 Haggetts Pond Road Andover, MA 01810
-RSVP-link: https://bit.ly/2wNyFLE
+RSVP-link: No RSVP necessary
 ---
 
 ### Theme: Building the 2020 Blue Wave
