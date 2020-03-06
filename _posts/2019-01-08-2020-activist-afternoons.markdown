@@ -25,6 +25,7 @@ Specific plans will vary from session to session, but options will include:
 * Texting
 * Post-carding stations
 * Letter writing
+* Friend-to-friend outreach
 * Phone-banking
 * Voter registration 
 * Canvassing training
