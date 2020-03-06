@@ -16,10 +16,18 @@ How to defeat Trump, flip the Senate and turn our country blue
 
 **Agenda**
 
-From now until the election in November, we will be holding action-packed events instead of our typical chapter meetings. Specific plans will vary from session to session, but we will always have texting and post-carding stations. Other options may include letter writing, phone-banking, and voter registration. This is a drop-in event so come for an hour or stay for two. Bring a friend or a group of friends. 
+From now until the election in November, we will be holding action-packed events instead of our typical chapter meetings. This is a drop-in event so come for an hour or stay for two. Bring a friend or a group of friends. 
 
 * When: Sunday March 15 2:00-4:00 pm
 * Where: Temple Emanuel, 7 Haggetts Pond Road, Andover 01810
+
+Specific plans will vary from session to session, but options will include:
+* Texting
+* Post-carding stations
+* Letter writing
+* Phone-banking
+* Voter registration 
+* Canvassing training
 
 Beverage, snack, dessert and monetary contributions are always appreciated.  
 
