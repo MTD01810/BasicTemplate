@@ -1,6 +1,7 @@
 ---
 title: 'Activist Afternoons - Next one: Sun Mar 15'
 date: 2019-01-08 16:03:00 -05:00
+published: false
 categories:
 - event
 is featured: true
