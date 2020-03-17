@@ -1,5 +1,5 @@
 ---
-title: Postcards to Voters - every Thu
+title: Postcarding
 date: 2019-02-04 21:26:00 -05:00
 categories:
 - action
