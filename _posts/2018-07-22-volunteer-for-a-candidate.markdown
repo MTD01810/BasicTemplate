@@ -6,7 +6,7 @@ categories:
 tags:
 - action
 is featured: true
-main-image: "/uploads/Canvass.jpg"
+main-image: "/uploads/statue-of-liberty-coronavirus.jpg"
 ---
 
 In light of the global pandemic affecting everyone, everywhere, we are putting all in-person actions on hold until further notice. We are actively working to provide options that you can do from home with minimal or no contact with other people. Please see below for alternatives to actions we have previously provided. And if you have other ideas, please submit those to indivisible.andover@gmail.com. Thank you, and stay well. 
