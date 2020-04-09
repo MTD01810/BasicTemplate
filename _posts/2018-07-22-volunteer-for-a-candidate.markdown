@@ -1,5 +1,5 @@
 ---
-title: COVID-19 and Activism (Mar 2020)
+title: COVID-19 and Activism (Spring 2020)
 date: 2018-07-22 14:19:00 -04:00
 categories:
 - action
