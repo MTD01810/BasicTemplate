@@ -10,25 +10,21 @@ Location: Panera Bread in North Andover, MA
 RSVP-link: https://www.facebook.com/events/2071127513214729/
 ---
 
-### Come Write Postcards to Help Save our Democracy!
+### Postcarding via Packages To-Go!
 
-**Postcard with Greater Andover Indivisible** <BR>
-Want to make a big impact with like-minded folks just one hour a week? Join us on Thursdays as we write postcards to voters in the community and in swing districts all over the country.
+Don't let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we will offer postcard packages to-go. Postcard packets are now available on Molly Beams' front porch (26 Cutler Rd, Andover). Feel free to stop by any time. 
 
-* When: Thursday evenings from 6:30-7:30 pm
-* Where: Panera Bread in North Andover (58 Peters St, 01845)
+Our packages include postcards, addresses, stamps and instructions. Contributions of $5-10 to help cover costs and postage are welcomed.
 
-We provide the postcards, markers, addresses and stamps. Contributions of $5 to help cover postage are welcomed, but not required.
+**Upcoming Postcard Campaigns** <BR>
+For the next several weeks, we’ll be offering postcarding campaigns provided by [Postcards to Voters](http://Postcardstovoters.org), [SwingLeft](https://swingleft.org/) or Reclaim Our Vote which will include: 
 
-**Upcoming Campaigns** <BR>
-For the next several weeks, we’ll be offering postcarding campaigns provided by [Postcards to Voters](http://Postcardstovoters.org) or [SwingLeft](https://swingleft.org/) which will include: 
+* Postcard packages for Reclaim our Vote notify voters of color in several southern states that they've been removed from the voter rolls and encourage them to re-register
 
-1. Reminders to targeted voters to give Democrats a winning edge in Special Election races in key districts across the U.S.
+* Reminders to targeted voters to give Democrats a winning edge in Special Election races in key districts across the U.S.
 
-2. Reminders to targeted Florida residents to enroll for Vote By Mail balloting (VBM). Having more Democrats enrolled in FLORIDA’S VOTE BY MAIL “no excuses required” program will lead to more Democratic candidate wins. Why? Because voters enrolled in VBM cast ballots at a significantly stronger rate than those who vote in person.
+* Reminders to targeted Florida residents to enroll for Vote By Mail balloting (VBM). Having more Democrats enrolled in FLORIDA’S VOTE BY MAIL “no excuses required” program will lead to more Democratic candidate wins.
 
-3. Other impactful voter registration drives as these become available.
+* Other impactful voter registration drives as these become available.
 
-Please join us!
-
-Sign up here: [RSVP](https://www.mobilize.us/indivisiblegreaterandover/event/189960/)
+Thank you! #resist #persist
