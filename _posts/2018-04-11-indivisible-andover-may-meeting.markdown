@@ -1,5 +1,5 @@
 ---
-title: Chapter Meeting - Thu May 7
+title: Virtual Chapter Meeting - Thu May 7
 date: 2018-04-11 21:20:00 -04:00
 categories:
 - event
@@ -15,8 +15,8 @@ Remember when more than fifty of us gathered in-person to share our goals and am
 
 At our May meeting, we'll review your goals for Greater Andover Indivisible's 2020 Strategy and discuss the connections between them and action opportunities we’ve identified to achieve our goals while maintaining social distancing.  
 
-**When**: Thursday May 7, 6:30-7:30 pm
-**Where**: Online
+* **When**: Thursday May 7, 6:30-7:30 pm
+* **Where**: Online
 
 Note that this meeting is being held on Zoom during our usual Blue Power Hour time. To get the Zoom meeting link please RSVP using the blue button to the left. 
 
