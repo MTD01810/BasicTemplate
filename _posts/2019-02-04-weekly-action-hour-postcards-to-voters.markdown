@@ -1,5 +1,5 @@
 ---
-title: Postcarding
+title: Postcard Packet Pick-Up
 date: 2019-02-04 21:26:00 -05:00
 categories:
 - action
@@ -12,7 +12,7 @@ RSVP-link: https://www.facebook.com/events/2071127513214729/
 
 ### Postcarding via Packages To-Go!
 
-Don't let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we will offer postcard packages to-go. Postcard packets are now available on Molly Beams' front porch (26 Cutler Rd, Andover). Feel free to stop by any time. 
+Don't let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we will offer postcard packages to-go. Postcard packets are now available on the front porch of (26 Cutler Rd, Andover). Feel free to stop by any time. 
 
 Our packages include postcards, addresses, stamps and instructions. Contributions of $5-10 to help cover costs and postage are welcomed.
 
