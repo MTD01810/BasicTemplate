@@ -1,28 +1,31 @@
 ---
-title: Demonstrate - every Saturday
+title: Saturday Protests are back!
 date: 2019-02-02 21:26:00 -05:00
-published: false
 categories:
 - action
 main-image: "/uploads/saturday-morning-protest.jpg"
 Location: Shawsheen corner of routes 133 and 28
 ---
 
-Please come join us on the corner of routes 133 and 28 in Andover, Shawsheen corner right near Brickstone plaza. 
+Please come join us in our usual location - the corner of routes 133 and 28 in Andover, Shawsheen corner near Brickstone plaza. 
 
 We will be there every **Saturday morning from 10:00-11:00 am**. 
 
-So far we have protested:
-* The separation of immigrant families at the border
-* The need for better gun control (part of March for Our Lives)
-* The protection of the Russia investigation
-* "Moderate" Charlie Baker helping conservative Jim Lyons raise money
-* Brett Kavanaugh's nomination to the Supreme Court
-* General protesting against Trump
+The need to restart our weekly demonstrations has been inspired by the recent **Black Lives Matter** protests. We must continue to keep this issue front and center in the national dialog, and show the people of color in this community that they are seen, heard, embraced and valued by allies. 
 
-We also demonstrate: 
-* On behalf of candidates we support
-* To encourage people to register to vote
-* To remind people about when to vote - local election, primary, and now Nov 6th
+To protest during the COVID crisis, please take the following measures:
+* Bring your own sign
+* Wear a mask
+* Social distance from other protesters
 
-Please bring signs, warm layers and friends. All are welcome - even dogs!
+All progressive issues are welcome at the stand-out, including but not limited to: 
+* Get Out The Vote! Register to vote
+* Vote Blue - Take back the Senate, Defend the House, Blue Wave
+* General protesting against Trump and his GOP enablers
+* Climate change
+* Healthcare - Especially in the wake of a global pandemic
+* Support for immigrant families
+* Gun control
+* Protecting the Environment
+
+Hope to see you there. #resist #persist
