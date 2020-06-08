@@ -17,9 +17,9 @@ Please join us for our June chapter meeting, where we will discuss new tactics w
 * **Where**: Online
 
 Agenda
-* Friends and Family outreach - How you can engage people across the country
-* Swing Left presentation on how phone-banking will defeat Susan Collins in Maine
-* Force Multiplier will talk about how they carefully select races and Democratic candidates to support and fund-raise through virtual meet-the-candidate events. In 2018, they raised $700K and won in 13 of the 15 races they chose.
+* **Friends and Family** outreach - How you can engage people across the country
+* **Swing Left** presentation on how phone-banking will defeat Susan Collins in Maine
+* **Force Multiplier** will talk about how they carefully select races and Democratic candidates to support and fund-raise through virtual meet-the-candidate events. In 2018, they raised $700K and won in 13 of the 15 races they chose.
 
 Note that this meeting is being held on Zoom during our usual Blue Power Hour time. To get the Zoom meeting link please RSVP using the blue button to the left. 
 
