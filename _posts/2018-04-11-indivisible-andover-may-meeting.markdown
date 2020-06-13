@@ -16,7 +16,7 @@ Please join us for our June chapter meeting, where we will discuss new tactics w
 * **When**: Thursday Jun 18, 7:00-8:00 pm
 * **Where**: Online
 
-Details
+**Details**
 * Senator Markey, a lifelong champion of progressive policies and legislation, will give a brief presentation before answering your questions.
 * This meeting is being held on Zoom. To get the **Zoom** meeting link please RSVP using the blue button to the left. 
 * There is no limit to the number of people who can attend, so please feel free to forward this event on to friends & family. 
