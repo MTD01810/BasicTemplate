@@ -1,5 +1,5 @@
 ---
-title: Virtual Event - A Conversation with Ed Markey
+title: Virtual Event - A Conversation with Senator Ed Markey
 date: 2018-04-11 21:20:00 -04:00
 categories:
 - event
