@@ -5,15 +5,16 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/Markey%20Event%20-%2018Jun20.png"
-event-start-date: 2020-06-18 19:00:00 -04:00
-event-end-date: 2020-06-18 20:00:00 -04:00
+event-start-date: 2020-06-18 18:00:00 -04:00
+event-end-date: 2020-06-18 19:00:00 -04:00
 Location: Online - please RSVP to receive link
 RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/279403/
 ---
 
 Please join us for our June chapter meeting, where we will discuss new tactics we are supporting to help restore democracy, progressive values, the economy, and sanity by winning big in November.
 
-* **When**: Thursday Jun 18, 7:00-8:00 pm
+*Please note the change in time*
+* **When**: Thursday Jun 18, 6:00-7:00 pm
 * **Where**: Online
 
 **Details**
