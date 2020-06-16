@@ -11,7 +11,7 @@ Location: Online - please RSVP to receive link
 RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/279403/
 ---
 
-Please join us for our June chapter meeting, where we will discuss new tactics we are supporting to help restore democracy, progressive values, the economy, and sanity by winning big in November.
+Please join us for a conversation with Senator Ed Markey (D-MA). 
 
 *Please note the change in time*
 * **When**: Thursday Jun 18, 6:00-7:00 pm
