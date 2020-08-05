@@ -1,18 +1,24 @@
 ---
-title: "'We The People' solidarity march"
+title: Phone Banking
 date: 2019-02-16 19:14:00 -05:00
-published: false
 categories:
-- event
+- action
 is featured: false
-main-image: "/uploads/we%20the%20people%20march.jpg"
-event-start-date: 2019-09-21 10:00:00 -04:00
-event-end-date: 2019-09-21 10:00:00 -04:00
-Location: Shawsheen Square (intersection of routes 28 and 133)
+main-image: "/uploads/phone-banking.jpg"
 ---
 
-We the People are marching to be seen and heard. We are marching to remind our elected officials that they work for us. We are marching because the current regime is a threat to our democracy and values. We are marching to demand accountability. Silence and inaction are complicity.
+**Why phone bank?**
+* Second only to canvassing, phone banking gets results.
+* Canvassing is not an option in 2020
+* So phone banking is really, really important.
 
-Please join us for a local solidarity march, joining hundreds of other locations across the country echoing the message that will be delivered in DC. 
+We know that many people dislike, even fear, the very idea of calling strangers. And we get it.  Really. Because we’ve been there.
 
-For more information please visit the [We the People](https://wethepeoplemarch.org/) website. 
+**Join Us for "A Taste of Phone Banking"** <BR>
+* On **Wednesday, August 12** we are offering “A Taste of Phonebanking.” 
+* You sign up, we provide training, and you make 10 measly phone calls.
+That’s it, you’re done in an hour, UNLESS, you decide it’s not so bad, or even that you kind of like it, and want to stay longer.
+* Also available: a personalized mini-phonebank. The training part will be faster than with multiple people, so you could be done with your 10 calls in 45 minutes. Sign up by yourself or bring an equally hesitant friend or neighbor.
+
+If interested in any of the above, please email us at indivisible.andover@gmail.com. 
+
