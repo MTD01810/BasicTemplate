@@ -25,4 +25,4 @@ Even before COVID, 2020 was going to be the most consequential election of our l
 * **Vote Early** - Vote in person but ahead of the election day at the Andover Town Clerk Office. [More information here](https://andoverma.gov/351/Early-Voting).
 * **Vote by Mail** - Click [here for more information](https://drive.google.com/file/d/1v_AYp5Iic0VWrauNnqvEVDLXoousaq6J/view)
 
-### “We do not have government by the majority. We have government by the majority who participate.” <BR>- Thomas Jefferson
+*“We do not have government by the majority. We have government by the majority who participate.”* <BR>- Thomas Jefferson
