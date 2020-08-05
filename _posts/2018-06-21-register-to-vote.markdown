@@ -12,11 +12,11 @@ main-image: "/uploads/Register-to-VOTE.jpg"
 Even before COVID, 2020 was going to be the most consequential election of our lifetime. That doesn't change, but the process of voting will. Please make a plan to vote, and notice that it will take more preparation and lead time than normal. 
 
 ### Upcoming Elections<BR>
-MA Democratic Primary
+**MA Democratic Primary**
 * September 1, 2020
 * Deadline to register: August 8
 
-General Election
+**General Election**
 * November 3, 2020
 * Deadline to register: October 24
 
