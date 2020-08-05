@@ -1,5 +1,5 @@
 ---
-title: Register to Vote
+title: Get Ready To Vote
 date: 2018-06-21 14:38:00 -04:00
 categories:
 - action
@@ -9,19 +9,20 @@ is featured: false
 main-image: "/uploads/Register-to-VOTE.jpg"
 ---
 
+Even before COVID, 2020 was going to be the most consequential election of our lifetime. That doesn't change, but voting does. Please make a plan to vote, and notice that it will take more preparation and lead time than normal. 
+
+### Upcoming Elections<BR>
+MA Democratic Primary
+* September 1, 2020
+* Deadline to register: August 8
+
+General Election
+* November 3, 2020
+* Deadline to register: October 24
+
+**Voting options in 2020**
+* Vote in Person - This option will still be available. But [confirm that you are registered](https://www.sec.state.ma.us/VoterRegistrationSearch/MyVoterRegStatus.aspx) well ahead of the deadline.
+* Vote Early - Vote in person but ahead of the election day at the Andover Town Clerk Office. [More information here](https://andoverma.gov/351/Early-Voting).
+* Vote by Mail - Click [here for more information](https://drive.google.com/file/d/1v_AYp5Iic0VWrauNnqvEVDLXoousaq6J/view)
+
 ### “We do not have government by the majority. We have government by the majority who participate.” <BR>- Thomas Jefferson
-
-**Why this is important**
-* You can't assume you are registered. 
-* Because of COVID concerns, voting by mail and early voting will both be important.
-* But with post office delays and expected volumes you have to start the process weeks ahead of the election.
-
-**How to make sure your voice is heard**
-1. Make sure you are registered to vote. [Check your registration status here](https://bit.ly/1IYJYjQ).
-2. Look to see if you are going to be in town on the day of a given election. If not, request an absentee ballot by the deadline. ([Absentee voting details for Andover, MA](https://bit.ly/2I5r4cy))
-3. Ask your friends and family if they are registered to vote. Repeat steps 1 and 2. 
-
-### Voter Registration in MA
-**General**
-* Deadline to register to vote in MA - 20 days prior to any given Election Day
-* [MA Voter registration FAQs](https://www.rockthevote.org/voting-information/massachusetts/) (Rock the Vote)
