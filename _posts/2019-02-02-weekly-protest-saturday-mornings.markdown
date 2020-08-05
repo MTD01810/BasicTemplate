@@ -1,5 +1,5 @@
 ---
-title: Protest - Every Sat 10-11
+title: Saturday Protests
 date: 2019-02-02 21:26:00 -05:00
 categories:
 - action
