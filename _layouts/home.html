@@ -86,7 +86,7 @@ layout: default
         {% if site.successes %}
           <!-- <div class="spacer"></div> -->
           <hr class="mt-4 mb-3">
-          <h5 class="mb-2">Mission and 2019 Focus</h5>
+          <h5 class="mb-2">Issues and Working Groups</h5>
 
           {% assign featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == true") %}
           {% assign not_featured_successes = (site.successes|where_exp:"successes","successes['is featured'] == false") %}
