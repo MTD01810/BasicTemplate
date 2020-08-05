@@ -2,9 +2,13 @@
 title: Meet the Candidates - 17th Essex
 date: 2019-03-10 21:09:00 -04:00
 categories:
-- action
+- event
 is featured: true
 main-image: "/uploads/17%20essex%20district%20MA.png"
+event-start-date: 2020-08-13 18:30:00 -04:00
+event-end-date: 2020-08-13 19:30:00 -04:00
+Location: Online
+RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/293820/
 ---
 
 ### Meet the Candidates: Rep. Frank Moran and Dr. Marianela Rivera
