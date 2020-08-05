@@ -9,7 +9,7 @@ is featured: false
 main-image: "/uploads/Register-to-VOTE.jpg"
 ---
 
-### “We do not have government by the majority. We have government by the majority who participate.” - Thomas Jefferson
+### “We do not have government by the majority. We have government by the majority who participate.” <BR>- Thomas Jefferson
 
 **Why this is important**
 * You can't assume you are registered. 
