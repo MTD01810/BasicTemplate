@@ -13,8 +13,8 @@ main-image: "/uploads/Register-to-VOTE.jpg"
 
 **Why this is important**
 * You can't assume you are registered. 
-* Voter rolls are being purged as a means of voter suppression. 
-* More information: "[Voter purges are on the rise in states with a history of racial discrimination](https://bit.ly/2O48XXq)" (Vox, July 2018) 
+* Because of COVID concerns, voting by mail and early voting will both be important.
+* But with post office delays and expected volumes you have to start the process weeks ahead of the election.
 
 **How to make sure your voice is heard**
 1. Make sure you are registered to vote. [Check your registration status here](https://bit.ly/1IYJYjQ).
