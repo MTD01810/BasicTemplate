@@ -27,4 +27,4 @@ For the next several weeks, we’ll be offering postcarding campaigns provided b
 
 * Other impactful voter registration drives as these become available.
 
-### Thanks you to all who are mobilizing their friends, neighbors and family members, we are welcoming several new postcard writers every week.  And we have  generated almost 15,000 postcards this year!
+### Thanks you to all who are mobilizing their friends, neighbors and family members, we are welcoming several new postcard writers every week.  And we have sent out almost 15,000 postcards this year!
