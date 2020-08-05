@@ -1,31 +1,21 @@
 ---
-title: Support the Local Candidates
+title: Meet the Candidates - 17th Essex
 date: 2019-03-10 21:09:00 -04:00
-published: false
 categories:
 - action
-is featured: false
-main-image: "/uploads/andover-districts-graphic.GIF"
+is featured: true
+main-image: "/uploads/17%20essex%20district%20MA.png"
 ---
 
-The [local election](https://bit.ly/2Fg0mjI) is Tuesday, March 26th. We were lucky enough to have six of the ten candidates running at our February meeting. Thanks to all who were able to join us to get to know these candidates, and their stance on the policies that affect us most directly, better. 
+### Meet the Candidates: Rep. Frank Moran and Dr. Marianela Rivera
 
-Please get directly in touch with the campaigns for additional details on ways you can support the candidates. 
+GAI will host a virtual meet-the-candidate event for the State Representative seat for the 17th Essex District. A surrogate for State Rep. Frank Moran and Dr. Marianela Rivera, who is challenging Frank in the Democratic primary (Sept.1), will each give a brief presentation and then will be available to answer your questions.
 
-**Select Board** (4 candidates running for 2 seats, 3 yr term)
-* [Dan Koh](http://teamkoh.com/)
-* [Roland Kim](https://www.rolandkim.com/)
-* [Alex Vispoli](http://alexvispoli.com/)
-* [Alex Bromberg](https://alexbromberg.com/)
+* When: Thursday, August 13, 6:30-7:30 PM
+* RSVP: To [register ](https://www.mobilize.us/indivisiblegreaterandover/event/293820/)and get Zoom link
 
-**School Committee** (4 candidates running for 2 seats, 3 yr term)
-* [Shannon Scully](https://scullyforandover.org/)
-* [Paul Murphy](https://www.murphyforandover.org/)
-* [Shishan Wang](https://www.facebook.com/profile.php?id=540716967)
-* Joseph Grieve
+Learn more about the candidates here:
+* Frank Moran: www.electfrankmoran.com
+* Marianela Rivera: www.riveraforstaterep.com
 
-**Moderator** (2 candidates running for 1 seat, 1 yr term)
-* [Sheila Doherty](https://www.facebook.com/SheilaMDohertyAndover/)
-* [Keith Saxon](https://ksaxo1.wixsite.com/keithsaxonmoderator)
-
-Sign Holding for all candidates: Every Saturday until the election (March 16 and 23) from 9am to noon by the Old Town Hall.
+Please note: Frank Moran is not able to attend the call himself because he is undergoing treatment for throat cancer. Please keep him in your thoughts.
