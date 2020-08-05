@@ -1,5 +1,5 @@
 ---
-title: Saturday Protests are back!
+title: Saturday Protests
 date: 2019-02-02 21:26:00 -05:00
 categories:
 - action
@@ -7,11 +7,11 @@ main-image: "/uploads/saturday-morning-protest.jpg"
 Location: Shawsheen corner of routes 133 and 28
 ---
 
-Please come join us in our usual location - the corner of routes 133 and 28 in Andover, Shawsheen corner near Brickstone plaza. 
+Please join us and our partners from South Church, Christ Church, and Merrimack Valley People for Peace as we continue to stand out for the Black Lives Matter movement. We will be in our usual location - the corner of routes 133 and 28 in Andover, Shawsheen corner near Brickstone plaza. 
 
 We will be there every **Saturday morning from 10:00-11:00 am**. 
 
-The need to restart our weekly demonstrations has been inspired by the recent **Black Lives Matter** protests. We must continue to keep this issue front and center in the national dialog, and show the people of color in this community that they are seen, heard, embraced and valued by allies. 
+The need to restart our weekly demonstrations is inspired by the recent **Black Lives Matter** movement. We must continue to keep this issue front and center in the national dialog, and show the people of color in this community that they are seen, heard, embraced and valued by allies. 
 
 To protest during the COVID crisis, please take the following measures:
 * Bring your own sign
