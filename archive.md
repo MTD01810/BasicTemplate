@@ -8,7 +8,7 @@ layout: default
 
   <div class="clearfix spacer"></div>
 
-  <h1 class="page-title mb-2">Events and Activism</h1>
+  <h1 class="page-title mb-2">All Events and Activism</h1>
 
   <div class="clearfix spacer"></div>
 
