@@ -14,7 +14,7 @@ Even before COVID, 2020 was going to be the most consequential election of our l
 ### Upcoming Elections<BR>
 **MA Democratic Primary**
 * September 1, 2020
-* Deadline to register: August 8
+* Deadline to register: August 22
 
 **General Election**
 * November 3, 2020
