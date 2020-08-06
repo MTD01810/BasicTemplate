@@ -5,7 +5,7 @@ position: 2
 layout: media-grid
 ---
 
-Learn More About Us
+**Learn More About Us**
 * [Our Mission](../issues/2019-mission-and-resources.html)
 * [Issues We Care About](../issues/issues-we-care-about.html)
 * [Working Groups](../issues/working-groups.html)
