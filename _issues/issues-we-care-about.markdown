@@ -7,11 +7,11 @@ Field name:
 layout: post
 ---
 
-GAI is aligned with what is widely considered "The Progressive Agenda". Since our founding years ago, our members' priorities within that agenda have shifted based on urgency, but we care about all of these. 
+GAI is aligned with what is widely considered "The Progressive Agenda". Since our founding years ago, our members' priorities within that agenda have shifted based on urgency
 
-In 2020, our members voted to focus on the 2020 election: winning the White House, taking back the Senate, defending the House, and supporting our own State and Local races.
+In 2020, our members voted to focus on the 2020 election: winning the White House, taking back the Senate, defending the House, and supporting our own State and Local races. But we care deeply about all of these issues, as we regard them as foundational to the kind of country we want to live in.  
 
-Learn more about the issues we support and how you can make an impact:
+Learn more about the issues we support and how you can help make an impact.
 
 **The Progressive Agenda**
 * [Progressive Leadership](http://indivisibleandoverma.com/successes/progressive-leadership.html)
