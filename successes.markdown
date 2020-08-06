@@ -7,6 +7,6 @@ layout: media-grid
 
 **Details on our [2020 Mission](../issues/2019-mission-and-resources.html)**
 <BR>
-**The Progressive Agenda - Issues We Care About**
+**The Progressive Agenda - [Issues We Care About](../issues/issues-we-care-about.html)**
 <BR>
 **Learn more about our [Working Groups](../issues/working-groups.html)**
