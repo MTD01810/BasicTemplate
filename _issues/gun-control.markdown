@@ -11,14 +11,6 @@ layout: post
 
 It's hard to comprehend that a first world country has such a frequent, deadly problem *and* the means to mitigate the issue, and yet year over year nothing changes. Enough. This is unacceptable. 
 
-**Recent Headlines**
-* [Massachusetts becomes first state to ban bump stocks](http://bit.ly/2xZHY6Y) (Mass Live, 3 Nov 17)
-* [What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer](http://nyti.ms/2kdAPO5) (NYT, 7 Nov 17)
-
-**What you can do today**
-* [30 Gun Reform Actions You Can Take Now](http://bit.ly/20WtdcM)
-* Text 'REJECT' to 644-33 - Tell MoCs to reject the NRA's radical agenda
-
 **Organizations working on gun reform** - Support, donate, amplify on social media
 * [Moms Demand Action](https://momsdemandaction.org/) for Gun Sense in America - Follow [Mass chapter](http://bit.ly/2hlyHPW) on facebook
 * [Everytown for Gun Safety](https://everytown.org/)
