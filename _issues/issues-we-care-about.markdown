@@ -4,7 +4,7 @@ date: 2020-08-06 15:55:00 -04:00
 categories:
 - Issues
 Field name: 
-layout: page
+layout: post
 ---
 
 GAI is aligned with what is widely considered "The Progressive Agenda". Since our founding 4 years ago, our members' priorities within that agenda have shifted based on urgency, but we care about all of these. 
