@@ -22,7 +22,7 @@ Please note that Action Hours do not include training, but we offer personalized
 
 **Self-service texting**
 * [Indivisitext](https://indivisible.org/indivisitext-team-quiz) with Indivisible National
-* [Together for 2020](https://togetherfor2020.org/take-action/tactic/text/) with Indivisible Mass
+* [Together for 2020](https://togetherfor2020.org/resources/texting-overview-guide/) with Indivisible Mass
 * [MoveOn](https://bit.ly/2Iu0Wsa)
 * [Red2Blue](https://www.red2blue.org/volunteer-for-democratic-voter-texting)
 * [Resistance Labs](https://resistancelabs.com/volunteer)
