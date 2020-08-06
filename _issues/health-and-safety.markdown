@@ -9,5 +9,5 @@ layout: post
 This is a huge category, likely to be broken down further. Includes:
 * [Gun control](http://indivisibleandoverma.com/issues/gun-control.html)
 * Healthcare access, cost controls, ACA improvements
-* Women's Health, domestic violence, rape
+* Women's Health, a woman's right to choose, domestic violence, rape
 * Opioid crisis
