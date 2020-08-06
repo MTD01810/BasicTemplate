@@ -5,8 +5,7 @@ position: 2
 layout: media-grid
 ---
 
-**[Our Mission](../issues/2019-mission-and-resources.html)**
-<BR>
-**The Progressive Agenda - [Issues We Care About](../issues/issues-we-care-about.html)**
-<BR>
-**Learn more about our [Working Groups](../issues/working-groups.html)**
+Learn More About Us
+* [Our Mission](../issues/2019-mission-and-resources.html)
+* [Issues We Care About](../issues/issues-we-care-about.html)
+* [Working Groups](../issues/working-groups.html)
