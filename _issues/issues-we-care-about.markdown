@@ -23,4 +23,4 @@ Learn more about the issues we support and how you can help make an impact.
 * [Racial Justice](http://indivisibleandoverma.com/issues/racial-justice.html)
 * [Social Justice](http://indivisibleandoverma.com/issues/social-justice.html)
 * [Economic Justice](http://indivisibleandoverma.com/issues/economic-justice.html)
-* [Gun Control](http://indivisibleandoverma.com/issues/gun-control.html)
+* [Gun Control](http://indivisibleandoverma.com/issues/nun-control.html)
