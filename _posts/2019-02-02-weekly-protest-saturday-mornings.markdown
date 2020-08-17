@@ -5,6 +5,7 @@ categories:
 - action
 main-image: "/uploads/saturday-morning-protest.jpg"
 Location: Shawsheen corner of routes 133 and 28
+layout: page
 ---
 
 Please join us and our partners from South Church, Christ Church, and Merrimack Valley People for Peace as we continue to stand out for the Black Lives Matter movement. We will be in our usual location - the corner of routes 133 and 28 in Andover, Shawsheen corner near Brickstone plaza. 
