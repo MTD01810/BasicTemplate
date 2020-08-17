@@ -4,6 +4,7 @@ date: 2019-02-03 21:26:00 -05:00
 categories:
 - action
 main-image: "/uploads/text-banking.png"
+layout: page
 ---
 
 **Why text bank?**
