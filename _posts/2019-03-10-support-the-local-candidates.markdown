@@ -1,6 +1,7 @@
 ---
 title: Meet the Candidates - 17th Essex
 date: 2019-03-10 21:09:00 -04:00
+published: false
 categories:
 - event
 is featured: true
