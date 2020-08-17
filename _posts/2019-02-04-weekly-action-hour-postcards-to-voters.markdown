@@ -12,19 +12,21 @@ RSVP-link: https://www.facebook.com/events/2071127513214729/
 
 ### Postcarding via Packages To-Go!
 
-Don't let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we will offer postcard packages to-go. Postcard packets are now available on the front porch of (26 Cutler Rd, Andover). Feel free to stop by any time. 
+Don’t let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we offer postcard packages to-go. Postcard writing has been very popular with Greater Andover Indivisible members, who find it very gratifying.
 
-Our packages include postcards, addresses, stamps and instructions. Contributions of $5-10 to help cover costs and postage are welcomed.
+Postcard packets are available on the front porch of **26 Cutler Rd, Andover, MA**. Feel free to stop by any time.
+
+Our packages include postcards, addresses, stamps and instructions. Contributions of $5 per 10 cards to help cover printing and postage costs are welcomed.  Bulk supplies are also available.
 
 **Upcoming Postcard Campaigns** <BR>
-For the next several weeks, we’ll be offering postcarding campaigns provided by [Postcards to Voters](http://Postcardstovoters.org), [SwingLeft](https://swingleft.org/) or Reclaim Our Vote which will include: 
+Available postcarding campaigns vary from week to week, and may include cards provided by [Postcards to Voters](http://Postcardstovoters.org), [SwingLeft](https://swingleft.org/) or [Reclaim Our Vote](http://centerforcommonground.org/main/index.php/campaigns/reclaim-our-vote) which will include:
 
-* Postcard packages for Reclaim our Vote notify voters of color in several southern states that they've been removed from the voter rolls and encourage them to re-register
+* Postcards for **Reclaim our Vote** target voters of color to make sure their votes get counted in Southern states where voter suppression tactics are most aggressive. 
 
-* Reminders to targeted voters to give Democrats a winning edge in Special Election races in key districts across the U.S.
+* With **Postcards to Voters** we send reminders to targeted voters, giving Democrats a winning edge in key districts across the U.S.
 
-* Reminders to targeted Florida residents to enroll for Vote By Mail balloting (VBM). Having more Democrats enrolled in FLORIDA’S VOTE BY MAIL “no excuses required” program will lead to more Democratic candidate wins.
+* **Swing Left** postcards encourage Vote By Mail balloting (VBM), which also helps drive higher Democratic turnout.
 
-* Other impactful voter registration drives as these become available.
+* Other impactful campaigns may be offered from time to time.
 
-### Thanks you to all who are mobilizing their friends, neighbors and family members, we are welcoming several new postcard writers every week.  And we have sent out almost 15,000 postcards this year!
+### Thank you to all who are mobilizing their friends, neighbors and family members, we are welcoming several new postcard writers every week.  As of mid-August, we have sent out almost 23,000 postcards this year! Wow!!
