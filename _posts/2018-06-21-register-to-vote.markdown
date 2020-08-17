@@ -7,6 +7,7 @@ tags:
 - GOTV
 is featured: false
 main-image: "/uploads/Register-to-VOTE.jpg"
+layout: page
 ---
 
 Even before COVID, 2020 was going to be the most consequential election of our lifetime. That doesn't change, but the process of voting will. Please make a plan to vote, and notice that it will take more preparation and lead time than normal. 
