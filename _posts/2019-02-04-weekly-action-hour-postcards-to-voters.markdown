@@ -8,6 +8,7 @@ tags:
 main-image: "/uploads/postcarding.jpg"
 Location: Panera Bread in North Andover, MA
 RSVP-link: https://www.facebook.com/events/2071127513214729/
+layout: page
 ---
 
 ### Postcarding via Packages To-Go!
