@@ -5,6 +5,7 @@ categories:
 - action
 is featured: false
 main-image: "/uploads/phone-banking.jpg"
+layout: page
 ---
 
 **Why phone bank?**
