@@ -17,8 +17,8 @@ Don’t let COVID-19 dampen your Democratic spirit! While we manage the challeng
 
 **How To Get Started**
 * Postcard packets are available on the front porch of **26 Cutler Rd, Andover, MA**. Feel free to stop by any time.
-* Our packages include postcards, addresses, stamps and instructions. Contributions of $5 per 10 cards to help cover printing and postage costs are welcomed. 
-* Please feel free to pick up multiple packs if you're feeling productive or recruiting others to help. Bulk packs (125 and 250 cards) are also available.
+* Our packages include postcards, addresses, stamps and instructions. Contributions of $5 per 10-card packet to help cover printing and postage costs are welcomed. 
+* Please feel free to pick up multiple packs if you're feeling productive or recruiting others to help. Bulk packs (of 125 or 250 cards) are also available.
 
 **Upcoming Postcard Campaigns** <BR>
 Available postcarding campaigns vary from week to week, and may include cards provided by [Postcards to Voters](http://Postcardstovoters.org), [SwingLeft](https://swingleft.org/) or [Reclaim Our Vote](http://centerforcommonground.org/main/index.php/campaigns/reclaim-our-vote) which will include:
