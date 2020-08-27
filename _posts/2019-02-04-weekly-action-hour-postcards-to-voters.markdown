@@ -14,7 +14,7 @@ layout: page
 ### Postcarding via Packages To-Go!
 
 Don’t let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we offer postcard packages to-go. Postcard writing has been very popular with Greater Andover Indivisible members, who find it very gratifying.
-
+<BR>
 **How To Get Started**
 * Postcard packets are available on the front porch of **26 Cutler Rd, Andover, MA**. Feel free to stop by any time.
 * Our packages include postcards, addresses, stamps and instructions. Contributions of $5 per 10-card packet to help cover printing and postage costs are welcomed. 
@@ -31,5 +31,5 @@ Available postcarding campaigns vary from week to week, and may include cards pr
 * **Swing Left** postcards encourage Vote By Mail balloting (VBM), which also helps drive higher Democratic turnout.
 
 * Other impactful campaigns may be offered from time to time.
-
+<BR>
 ### Thank you to all who are mobilizing their friends, neighbors and family members, we are welcoming several new postcard writers every week.  As of mid-August, we have sent out almost 23,000 postcards this year! Wow!!
