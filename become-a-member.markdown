@@ -10,7 +10,7 @@ mailchimp-form-embed: "<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-
   id=\"mc_embed_signup\">\n<form action=\"https://indivisibleandoverma.us16.list-manage.com/subscribe/post?u=5bf1c06ea06f0ff374e404ea2&amp;id=649e846679\"
   method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
   class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t<h2>Subscribe
-  to our mailing list</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
+  to our newsletter</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span>
   indicates required</div>\n<div class=\"mc-field-group\">\n\t<label for=\"mce-FNAME\">First
   Name  <span class=\"asterisk\">*</span>\n</label>\n\t<input type=\"text\" value=\"\"
   name=\"FNAME\" class=\"required\" id=\"mce-FNAME\">\n</div>\n<div class=\"mc-field-group\">\n\t<label
