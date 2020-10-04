@@ -15,7 +15,6 @@ layout: page
 
 This year, in this little chapter, **250** people wrote over **30,000** postcards to mobilize voters. That's amazing. Thank you to all who contributed. 
 
-<BR><BR><BR>
 **How To Get Started**
 * Postcard packets are available on the front porch of **26 Cutler Rd, Andover, MA**. Feel free to stop by any time.
 * Our packages include postcards, addresses, stamps and instructions. Contributions of $5 per 10-card packet to help cover printing and postage costs are welcomed. 
