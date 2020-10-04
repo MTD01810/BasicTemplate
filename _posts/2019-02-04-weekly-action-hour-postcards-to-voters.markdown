@@ -11,7 +11,7 @@ RSVP-link: https://www.facebook.com/events/2071127513214729/
 layout: page
 ---
 
-### We are down to the final few packs of postcards. Once those are gone, we will be done with postcarding until after the election. 
+### We are down to the final few packs of postcards. Once those are gone, we will be done with postcarding until after the election. Wow!
 
 This year, in this little chapter, **250** people wrote over **30,000** postcards to mobilize voters. That's amazing. Thank you to all who contributed. 
 
