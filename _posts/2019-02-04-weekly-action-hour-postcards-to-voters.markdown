@@ -1,5 +1,5 @@
 ---
-title: Postcard Packet Pick-Up
+title: Postcarding - Almost Done!
 date: 2019-02-04 21:26:00 -05:00
 categories:
 - action
@@ -11,9 +11,10 @@ RSVP-link: https://www.facebook.com/events/2071127513214729/
 layout: page
 ---
 
-### Postcarding via Packages To-Go!
+### We are down to the final few packs of postcards. Once those are gone, we will be done with postcarding until after the election. 
 
-Don’t let COVID-19 dampen your Democratic spirit! While we manage the challenges of avoiding group events, we offer postcard packages to-go. Postcard writing has been very popular with Greater Andover Indivisible members, who find it very gratifying.
+This year, in this little chapter, **250** people wrote over **30,000** postcards to mobilize voters. That's amazing. Thank you to all who contributed. 
+
 <BR><BR><BR>
 **How To Get Started**
 * Postcard packets are available on the front porch of **26 Cutler Rd, Andover, MA**. Feel free to stop by any time.
@@ -32,5 +33,3 @@ Available postcarding campaigns vary from week to week, and may include cards pr
 * **Swing Left** postcards encourage Vote By Mail balloting (VBM), which also helps drive higher Democratic turnout.
 
 * Other impactful campaigns may be offered from time to time.
-<BR>
-### Thank you to all who are mobilizing their friends, neighbors and family members, we are welcoming several new postcard writers every week.  As of mid-August, we have sent out almost 23,000 postcards this year! Wow!!
