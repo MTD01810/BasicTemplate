@@ -13,7 +13,7 @@ layout: page
 
 ### We are down to the final few packs of postcards. Once those are gone, we will be done with postcarding until after the election. Wow!
 
-This year, in this little chapter, **250** people wrote over **30,000** postcards to mobilize voters. That's amazing! Thank you to all who contributed. 
+This year, in this little chapter, **250** people wrote over **34,000** postcards to mobilize voters. That's amazing! Thank you to all who contributed. 
 
 **How To Get Started**
 * Postcard packets are available on the front porch of **26 Cutler Rd, Andover, MA**. Feel free to stop by any time.
