@@ -1,21 +1,24 @@
 ---
 title: Andover Days 2019
 date: 2019-08-25 13:56:00 -04:00
-published: false
 categories:
 - event
-is featured: false
-main-image: "/uploads/bread&roses-website%20friendly%20picture.JPG"
-event-start-date: 2019-09-22 10:00:00 -04:00
-event-end-date: 2019-09-22 16:30:00 -04:00
-Location: Main Street, Andover
-RSVP-link: https://www.signupgenius.com/go/60B0B4CA4AF2AA1F49-andover
+is featured: true
+main-image: "/uploads/protect-the-results-header.JPG"
+event-start-date: 2020-11-04 17:00:00 -05:00
+event-end-date: 2020-11-04 19:00:00 -05:00
+Location: Shawsheen Square
+RSVP-link: https://www.mobilize.us/ptr/event/349126/
 layout: post
 ---
 
-Please join us Sunday Sept 22nd for the largest block party in the Merrimack Valley! Come for the food and music, stay for the peaceful revolution. Bring the kids, bring the dog, and help us spread the word about how important civic engagement is. 
+**NOTE: We think the likelihood of activation is high. We should all plan as though these events could be as early as 5pm local time on Wednesday, November 4. But, this is a tentative date & time.**
 
-**We are looking for volunteers to help us man the table.**
+You will receive a notification and a message from the organizer when the final dates & times are final.
 
-The event is from 10:00 am to 4:30 pm, so if you can make it please sign up using the [RSVP ](https://www.signupgenius.com/go/60b0b4ca4af2aa1f49-andover)button on the left. Volunteers will be thanked with a super on-trend **Indivisible t-shirt**. 
+With every tweet and refusal to commit to accepting the legitimate results of the 2020 election, Trump seeks to stoke chaos and fear.
+
+But we will be ready - if Trump tries to steal the election or prevent every vote from being counted, the Protect the Results will activate nationwide mobilizations to demand that all the votes are counted and for the peaceful transition of power.
+
+Join us to honor the valid results of the 2020 election, ensure that every vote is counted, and show up to demand the peaceful transition of power.
 
