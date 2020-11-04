@@ -5,8 +5,8 @@ categories:
 - event
 is featured: true
 main-image: "/uploads/protect-the-results-header.JPG"
-event-start-date: 2020-11-04 17:00:00 -05:00
-event-end-date: 2020-11-04 19:00:00 -05:00
+event-start-date: 2020-11-04 15:00:00 -05:00
+event-end-date: 2020-11-04 17:00:00 -05:00
 Location: Shawsheen Square
 RSVP-link: https://www.mobilize.us/ptr/event/349126/
 layout: post
