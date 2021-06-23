@@ -1,38 +1,31 @@
 ---
-title: Protect the Results rally
+title: Deadline for Democracy rally
 date: 2019-08-25 13:56:00 -04:00
 categories:
 - event
 is featured: true
-main-image: "/uploads/protect-the-results-header.JPG"
-event-start-date: 2020-11-04 15:00:00 -05:00
-event-end-date: 2020-11-04 17:00:00 -05:00
+main-image: "/uploads/DeadlineDemocracy.JPG"
+event-start-date: 2021-06-26 10:00:00 -04:00
+event-end-date: 2021-06-26 11:00:00 -04:00
 Location: Shawsheen Square
-RSVP-link: https://www.mobilize.us/ptr/event/349126/
+RSVP-link: https://act.indivisible.org/event/deadline-for-democracy/163277/signup/
 layout: post
 ---
 
-### UPDATE Nov 4th: This event is ON. See you at Shawsheen Square at 3:00
+We need to show Congress that there is overwhelming grassroots support for voting rights, join us!
 
-Join us to honor the valid results of the 2020 election, ensure that every vote is counted, and show up to demand the peaceful transition of power.
+In light of the extreme urgency re: getting S1, the 'For The People Act', passed, we are firing up the Saturday morning protest again. All issues are welcome, but the impetus for this protest is to raise awareness about getting this critical bill passed.
 
-Please remember that for our rally to succeed, we need to stay on this message: Count Every Vote. Only bring hand held signs that reinforce the message to COUNT EVERY VOTE and follow the safety rules listed below.
+**Where**: Shawsheen Square (intersection of routes 133 and 28, 14 York St for GPS)
+**When**: Saturday June 26th 10:00-11:00 am
+**Registration**: [Click here to register](https://act.indivisible.org/event/deadline-for-democracy/163277/signup/)
 
-**Protect the Results Rally Group Agreement**
+**Sign ideas**
+* Protect the Vote
+* Pass S1: Protect Democracy
+* Call Your Senators
+* End the Filibuster
+* Your Vote is Your Voice
 
-Note: For the safety of everyone who attends this peaceful demonstration, marshals/peacekeepers will be available to answer questions, de-escalate issues, and serve as a liaison for the press and law enforcement.
-
-For your part, by attending this event you agree to:
-* Wear a mask and socially-distance
-* Abide by traffic rules, help keep the intersection open and flowing
-* Not engage with counter protestors or others who express disagreement *
-* Commit to non-violent behavior
-* Not bring or carry weapons of any kind (not even a small pocket knife)
-* Follow all instructions from marshals, including when the event is over
-
-It is recommended that you plan to attend the event with a buddy who can assist with any logistical issues should they arise. Bring a charged mobile phone and exchange phone numbers.
-
-* While we have no indication at this time that counter protestors will attend, if they do arrive it is critical that we keep our rally peaceful, stay on message (Count Every Vote) and not react to any provocation on their part. If they succeed in engaging us, they succeed in undermining the peaceful democratic messaging of our event. Don't take the bait.
-
-Thank you!
+Email us with any questions or concerns at indivisible.andover@gmail.com. Hope to see you there!
 
