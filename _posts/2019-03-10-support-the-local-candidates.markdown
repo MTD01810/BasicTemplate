@@ -9,7 +9,7 @@ main-image: "/uploads/TruthSandwich.png"
 
 ### Stand and Fight with the Truth Brigade
 
-**Let's take back the story together!**<BR>
+**Let's take back the story together!**<BR><BR>
 It’s easy to help Indivisible National’s Truth Brigade combat disinformation!  Just take this week’s TRUTH SANDWICH, customize it for your audience, and post it.
 
 **Resources for the Truth Brigade and other Ways to Combat Mis/Disinformation**
