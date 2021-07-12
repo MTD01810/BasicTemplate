@@ -1,26 +1,22 @@
 ---
-title: Meet the Candidates - 17th Essex
+title: Combat Disinformation - Join the Truth Brigade
 date: 2019-03-10 21:09:00 -04:00
-published: false
 categories:
-- event
-is featured: true
-main-image: "/uploads/17%20essex%20district%20MA.png"
-event-start-date: 2020-08-13 18:30:00 -04:00
-event-end-date: 2020-08-13 19:30:00 -04:00
-Location: Online
-RSVP-link: https://www.mobilize.us/indivisiblegreaterandover/event/293820/
+- action
+is featured: false
+main-image: "/uploads/TruthSandwich.png"
 ---
 
-### Meet the Candidates: Rep. Frank Moran and Dr. Marianela Rivera
+### Stand and Fight with the Truth Brigade
 
-GAI will host a virtual meet-the-candidate event for the State Representative seat for the 17th Essex District. A surrogate for State Rep. Frank Moran and Dr. Marianela Rivera, who is challenging Frank in the Democratic primary (Sept.1), will each give a brief presentation and then will be available to answer your questions.
+**Let's take back the story together!  **
+It’s easy to help Indivisible National’s Truth Brigade combat disinformation!  Just take this week’s TRUTH SANDWICH, customize it for your audience, and post it.
 
-* When: Thursday, August 13, 6:30-7:30 PM
-* RSVP: To [register ](https://www.mobilize.us/indivisiblegreaterandover/event/293820/)and get Zoom link
+**Resources for the Truth Brigade and other Ways to Combat Mis/Disinformation**
+* [Indivisible National's Truth Brigade Guide](https://docs.google.com/document/d/1Fd2Zfd1NjgTo2an8OLZlNZdW00d9dE9ddK_Zl2SVgC4/edit)
+* [GAI's Combatting Disinformation - Call to Action](https://docs.google.com/document/d/1TGYE96JOOHEg-97RaCSc1jxuo3x3qMbWL7wknslZ03U/edit)
 
-Learn more about the candidates here:
-* Frank Moran: www.electfrankmoran.com
-* Marianela Rivera: www.riveraforstaterep.com
-
-Please note: Frank Moran is not able to attend the call himself because he is undergoing treatment for throat cancer. Please keep him in your thoughts.
+**Helpful Meetings**
+* Thursdays 4-5 PM: [Indivisible Acton’s Tweet Brigade](https://docs.google.com/document/d/13WmSCyR446NNWMKVGFssZCgbGlDTU8iYG05q8Ghm8fE/edit) including help with Twitter
+* 2nd Wednesdays: [Indivisible National's BIG TRUTH webinars](https://indivisible.zoom.us/meeting/register/tJArdu-vrz8rH93lduLYHXOvC0ISDDLRfy5L)
+* 4th Wednesdays: [Indivisible National workshops/orientation/office hours](https://indivisible.zoom.us/meeting/register/tJIqde6rqDkqH9cd8sS0w7duCS7UEjN4MdfO)
